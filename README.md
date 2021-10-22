@@ -20,15 +20,15 @@
 
 ---
 ## Design Thinking
-![Conceitos e Prática](PDFs/Desing Thinking/certificado-24-2598-38080.pdf) - 3 horas
+   ![Conceitos e Prática]() - 3 horas
 
 ---
 ## Indústria 4.0
-![Módulo 1](PDFs/Indústria 4.0/certificado-39-2599-38080.pdf) - 2 horas
+   ![Módulo 1](PDFs/Indústria 4.0/certificado-39-2599-38080.pdf) - 2 horas
 
-![Módulo 2](PDFs/Indústria 4.0/certificado-39-2602-38080.pdf) - 2 horas
+   ![Módulo 2](PDFs/Indústria 4.0/certificado-39-2602-38080.pdf) - 2 horas
 
-![Módulo 3](PDFs/Indústria 4.0/certificado-39-2604-38080.pdf)
+   ![Módulo 3](PDFs/Indústria 4.0/certificado-39-2604-38080.pdf)
 
 ---
 ## Ocean Talks
