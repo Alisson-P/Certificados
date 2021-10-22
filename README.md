@@ -4,8 +4,12 @@
   
   ![Introdução](PDFs/Android/certificado-24-2586-38080.pdf) - 3 horas
   
+     Create Atcvity / Ecossistema Android (Sistemas Nativos e/ou Híbridos) / Construir Elementos Visuais
+     Descrição Manifest, MainActivity, Gradle / Tipos de Estrutura de Layout / Elementos de Layout
+     Emulador Externo - Habilitando modo desenvolvedor / Emulador Interno / 1º Programa
+     
   ![Laboratório](PDFs/Android/certificado-24-2588-38080.pdf) - 3 horas
-  
+     
   ![GPS com Google Maps](PDFs/Android/certificado-24-2592-38080.pdf) - 3 horas
   
   ![Webservices com Retrofit e Imagens com Glide](PDFs/Android/certificado-24-2596-38080.pdf) -  3 horas 
