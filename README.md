@@ -3,7 +3,8 @@
 
 # 4Linux - Open Software Specialists
 
-![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf)
+![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf) - 20 horas
+
 ---
 
 # Samsung Ocean
