@@ -4,11 +4,17 @@
   
   ![Introdução](PDFs/Android/certificado-24-2586-38080.pdf) - 3 horas
   
+     Create Atcvity / Ecossistema Android (Sistemas Nativos e/ou Híbridos) / Construir Elementos Visuais
+     Descrição Manifest, MainActivity, Gradle / Tipos de Estrutura de Layout / Elementos de Layout
+     Emulador Externo - Habilitando modo desenvolvedor / Emulador Interno / 1º Programa
+     
   ![Laboratório](PDFs/Android/certificado-24-2588-38080.pdf) - 3 horas
-  
+     
   ![GPS com Google Maps](PDFs/Android/certificado-24-2592-38080.pdf) - 3 horas
   
   ![Webservices com Retrofit e Imagens com Glide](PDFs/Android/certificado-24-2596-38080.pdf) -  3 horas 
+  
+  ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Android/certificado-24-2606-38080.pdf) -  3 horas 
 
 ---
 ## Bixby
@@ -20,19 +26,19 @@
 
 ---
 ## Design Thinking
-   ![Conceitos e Prática]() - 3 horas
+   ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Desing%20Thinking/certificado-24-2598-38080.pdf) - 3 horas
 
 ---
 ## Indústria 4.0
-   ![Módulo 1](PDFs/Indústria 4.0/certificado-39-2599-38080.pdf) - 2 horas
+   ![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2599-38080.pdf) - 2 horas
 
-   ![Módulo 2](PDFs/Indústria 4.0/certificado-39-2602-38080.pdf) - 2 horas
+![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2602-38080.pdf) - 2 horas
 
-   ![Módulo 3](PDFs/Indústria 4.0/certificado-39-2604-38080.pdf)
+![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2604-38080.pdf) - 2 horas
 
 ---
 ## Ocean Talks
-![Ocean Innovation Talks: O futuro dos bancos e Fintechs](PDFs/Ocean Talks/certificado-39-2577-38080.pdf) - 1,5 horas
+   ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ocean%20Talks/certificado-39-2577-38080.pdf) - 1,5 horas
 
 ---
 ## Pyhton
