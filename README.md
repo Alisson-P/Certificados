@@ -15,6 +15,8 @@
   ![Webservices com Retrofit e Imagens com Glide](PDFs/Android/certificado-24-2596-38080.pdf) -  3 horas 
   
   ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Android/certificado-24-2606-38080.pdf) -  3 horas 
+  
+  ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Android/certificado-24-2608-38080.pdf) -  3 horas 
 
 ---
 ## Bixby
@@ -45,6 +47,8 @@
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](PDFs/Python/certificado-24-2587-38080.pdf) - 3 horas
 
 ![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
+
+![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
 
 ![Consultando Bases SQL com Python (Parte 1)](PDFs/Python/certificado-24-2601-38080.pdf) - 3 horas
 
