@@ -1,4 +1,12 @@
-# Certificados Diversos - Samsung Ocean
+# Certificados
+---
+
+# 4Linux - Open Software Specialists
+
+![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf)
+---
+
+# Samsung Ocean
  
  ## Android
   
