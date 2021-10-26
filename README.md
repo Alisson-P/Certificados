@@ -28,6 +28,10 @@
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Android/certificado-24-2608-38080.pdf) -  3 horas 
 
 ---
+## Backend - Nuvem
+   ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/39a6368ca62ee75ed8577b4e9e2bf03179d253e0/PDFs/Backend%20Nuvem/certificado-24-2609-38080.pdf) - 3 horas
+
+---
 ## Bixby
    ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](PDFs/Bixby/certificado-22-2584-38080.pdf) - 2 horas
    
