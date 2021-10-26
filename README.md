@@ -34,6 +34,10 @@
 ---
 ## Bixby
    ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](PDFs/Bixby/certificado-22-2584-38080.pdf) - 2 horas
+
+---
+## Ciência de Dados
+   ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/CertificadosSO/blob/91d0920e5de0600cf77d46a22a4338a55dd302d5/PDFs/Ci%C3%AAncia%20de%20Dados/certificado-22-2610-38080.pdf) - 3 horas
    
 ---
 ## DevOps
