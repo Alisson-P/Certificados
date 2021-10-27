@@ -54,7 +54,7 @@
 
 ![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2602-38080.pdf) - 2 horas
 
-![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2604-38080.pdf) - 2 horas
+![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2604-38080.pdf) - 2 horas
 
 ---
 ## Ocean Talks
@@ -69,6 +69,8 @@
 ![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
 
 ![Consultando Bases SQL com Python (Parte 1)](PDFs/Python/certificado-24-2601-38080.pdf) - 3 horas
+
+![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/88509f0fdc3138199f18c5c8a3ad5b8f717da932/PDFs/Python/certificado-24-2613-38080.pdf) - 3 horas
 
 ---
 ## UX
