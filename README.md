@@ -37,9 +37,10 @@
 ### Powerpoint
 ![Powerpoint](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20PowerPoint.png)
 
-## 4Linux - Open Software Specialists - 20 horas
+## 4Linux - Open Software Specialists
 
-![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf)
+### Linux Fundamentals - 20 horas
+![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/8df6fda49cdc62cf672b29475188aff3211bd66a/PDFs/Linux/4Linux%20Essentials.png)
 
     Mercado Linux;
     Certificações Linux;
@@ -140,7 +141,8 @@
 ---
 ### Backend - 6 horas
 
-   ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/39a6368ca62ee75ed8577b4e9e2bf03179d253e0/PDFs/Backend%20Nuvem/certificado-24-2609-38080.pdf) - 3 horas
+### Integrando os serviços de backend na nuvem - 3 horas
+![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Backend%20na%20Nuvem.png)
    
     Apresentação dos ecossistemas de cloud: AWS, Azure, Google Cloud, entre outros.
     Criando o repositório do projeto no GitHub
@@ -157,7 +159,8 @@
     Implementando a base de dados da nuvem na aplicação backend
     Testando todos os serviços online
 
-![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/b172a34ba4040b8aec222cc7bb618f96bb330b9e/PDFs/Backend%20Nuvem/certificado-24-2603-38080.pdf) -  3 horas
+### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
+![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
 
     O que é banco de dados?;
     Diferença entre SQL e NoSQL;
@@ -174,8 +177,10 @@
     Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados.
 
 ---
-### Bixby - 2 horas
-   ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](PDFs/Bixby/certificado-22-2584-38080.pdf)
+### Bixby
+   
+   ### Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface - 2 horas
+   ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](https://github.com/Alisson-JP/CertificadosSO/blob/e460e5b338f89bc1101d300396363916a4ed8e8f/PDFs/Bixby/Bixby.png)
    
       A evolução dos principais assistentes de voz disponíveis no mercado; 
       Descrição do assistente de voz Bixby;
