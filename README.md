@@ -68,8 +68,8 @@
  
  ### Android - 18 horas
   
-  ### Introdução
-  ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png) - 3 horas
+  ### Introdução - 3 horas
+  ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png)
   
      Utilização da linguagem de programação Kotlin e o software de desenvolvimento Android Studio.
      
@@ -89,8 +89,8 @@
          Manipulando elementos de interface;
          Validando informações digitadas e exibindo erros de validação.
   
-  ### Laboratório
-  ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png) - 3 horas
+  ### Laboratório - 3 horas
+  ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png)
   
          Correção do desafio proposto no curso "Android - Introdução" - Criando mais de uma Activity;
          Navegando entre Activities com a classe Intent;
@@ -100,14 +100,16 @@
          Importando bibliotecas pelo Gradle;
          Persistência de dados com Instance State.
      
-  ![GPS com Google Maps](PDFs/Android/certificado-24-2592-38080.pdf) - 3 horas
+  ### GPS com Google Maps - 3 horas
+  ![GPS com Google Maps](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/GPS.png)
   
     Configurando o Google Maps com o Google Play Services no Android;
     Exibindo e interagindo com o mapa do Google Maps;
     Preparando o acesso ao GPS (serviço de localização);
     Utilizando o GPS, recebendo dados de localização em tempo real.
   
-  ![Webservices com Retrofit e Imagens com Glide](PDFs/Android/certificado-24-2596-38080.pdf) -  3 horas 
+  ### Webservices com Retrofit e Imagens com Glide - 3 horas 
+  ![Webservices com Retrofit e Imagens com Glide](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Web%20Retro%20Glide.png)
   
     Entendendo o significado de JSON e API Rest;
     Preparando o Android para trabalhar com um WebService, utilizando a API Retrofit;
@@ -117,7 +119,8 @@
     Exibindo o conteúdo carregado;
     Realizando o monitoramento das conexões com o Network Profiling;
   
-  ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Android/certificado-24-2606-38080.pdf) -  3 horas
+  ### Listas com RecyclerView e Multithread - 3 horas
+  ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Recycler%20View.png)
   
     Entendendo o conceito de multithreading no Android;
     Criando e entendendo uma Worker-Thread;
@@ -125,7 +128,8 @@
     Conhecendo alternativas de implementação em Kotlin;
     Falando um pouco sobre o RX.
   
-  ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Android/certificado-24-2608-38080.pdf) -  3 horas 
+  ### Banco de Dados - Room - 3 horas
+  ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Room.png) 
 
     Introdução ao SQL e ao SQLite
     Entendendo e importanto o Android Room
