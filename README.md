@@ -1,15 +1,15 @@
 # Certificados 
 ---
 
-# Uptime - English
+## Uptime - English
 
-   ## CAE - Certificate of Advanced English
+   ### CAE - Certificate of Advanced English
 
 ![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
 
-# Selos de Avaliação e Competência do Linkedin
+## Selos de Avaliação e Competência do Linkedin
 
-   ## Confira abaixo ou diretamento na página do perfil no Linkedin
+   ### Confira abaixo ou diretamento na página do perfil no Linkedin
 
 ![Perfil no Linkedin](https://www.linkedin.com/in/alisson-jp/) <== Clique para acessar!!!
 
@@ -37,7 +37,7 @@
 ### Powerpoint
 ![Powerpoint](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20PowerPoint.png)
 
-# 4Linux - Open Software Specialists - 20 horas
+## 4Linux - Open Software Specialists - 20 horas
 
 ![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf)
 
@@ -64,9 +64,9 @@
 
 ---
 
-# Samsung Ocean
+## Samsung Ocean
  
- ## Android - 18 horas
+ ### Android - 18 horas
   
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png) - 3 horas
   
@@ -132,7 +132,7 @@
     Utilização da Base de Dados
 
 ---
-## Backend - 6 horas
+### Backend - 6 horas
 
    ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/39a6368ca62ee75ed8577b4e9e2bf03179d253e0/PDFs/Backend%20Nuvem/certificado-24-2609-38080.pdf) - 3 horas
    
@@ -168,7 +168,7 @@
     Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados.
 
 ---
-## Bixby - 2 horas
+### Bixby - 2 horas
    ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](PDFs/Bixby/certificado-22-2584-38080.pdf)
    
       A evolução dos principais assistentes de voz disponíveis no mercado; 
@@ -176,7 +176,7 @@
       As diversas oportunidades oferecidas pela Samsung e pelo mercado.
 
 ---
-## Ciência de Dados - 3 horas
+### Ciência de Dados - 3 horas
    ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/CertificadosSO/blob/91d0920e5de0600cf77d46a22a4338a55dd302d5/PDFs/Ci%C3%AAncia%20de%20Dados/certificado-22-2610-38080.pdf)
    
     Trabalhando com Dados de forma visual;
@@ -187,7 +187,7 @@
     Introdução aos algoritmos de Machine Learning.
    
 ---
-## Desenvolvimento Ágil - DevOps Git - 3 horas
+### Desenvolvimento Ágil - DevOps Git - 3 horas
 
    ![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/fd51703a0120a563a38849def3ad260916e7f8f0/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/certificado-24-2581-38080.pdf)
    
@@ -205,7 +205,7 @@
        Repositórios remotos;
        Ramificação.
 ---
-## Design Thinking - 3 horas
+### Design Thinking - 3 horas
 
    ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Desing%20Thinking/certificado-24-2598-38080.pdf)
    
@@ -214,7 +214,7 @@
        Atividade: Simulando um Design Sprint.
 
 ---
-## Empreendedorismo
+### Empreendedorismo
 
    ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/1bd7ce18b650c4ee36626038400b5521b49d4f85/PDFs/Empreendedorismo/certificado-39-2616-38080.pdf) - 2 horas
    
@@ -225,7 +225,7 @@
       O papel da Universidade como supridor de talentos e conhecimento aos ecossistemas.
 
 ---
-## Indústria 4.0 - 6 horas
+### Indústria 4.0 - 6 horas
 
    ![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2599-38080.pdf) - 2 horas
    
@@ -251,7 +251,7 @@
    
    
 ---
-## Ocean Talks - 1,5 horas
+### Ocean Talks - 1,5 horas
    ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ocean%20Talks/certificado-39-2577-38080.pdf)
    
     Quais são os riscos que existem nesta área tão dinâmica?;
@@ -263,7 +263,7 @@
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
-## Pyhton - 15 horas
+### Pyhton - 15 horas
 
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](PDFs/Python/certificado-24-2587-38080.pdf) - 3 horas
 
@@ -327,7 +327,7 @@
     Exercícios para fixação.
 
 ---
-## UX - 6 horas
+### UX - 6 horas
 
 ![Tópicos de UX para Design de Serviços](PDFs/UX/certificado-24-2590-38080.pdf) - 3 horas
 
