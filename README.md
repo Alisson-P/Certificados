@@ -80,34 +80,41 @@
     Exibindo o conteúdo carregado;
     Realizando o monitoramento das conexões com o Network Profiling;
   
-  ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Android/certificado-24-2606-38080.pdf) -  3 horas 
+  ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Android/certificado-24-2606-38080.pdf) -  3 horas
+  
+    Entendendo o conceito de multithreading no Android;
+    Criando e entendendo uma Worker-Thread;
+    Entendendo uma Async-Task;
+    Conhecendo alternativas de implementação em Kotlin;
+    Falando um pouco sobre o RX.
   
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Android/certificado-24-2608-38080.pdf) -  3 horas 
+
+    Introdução ao SQL e ao SQLite
+    Entendendo e importanto o Android Room
+    Configuração da Base de Dados
+    Criação da Base de Dados
+    Utilização da Base de Dados
 
 ---
 ## Backend
 
    ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/39a6368ca62ee75ed8577b4e9e2bf03179d253e0/PDFs/Backend%20Nuvem/certificado-24-2609-38080.pdf) - 3 horas
    
-      Desenvolvendo uma aplicação em NodeJS, com a linguagem de programação JavaScript
-      
-         O que exatamente é backend?;
-         Evolução do Backend;
-         REST (Verbos de comunicação: GET, POST, PUT, DELETE);
-         JSON;
-         Postman (Criando/fazendo requisições e organizando em collections);
-         JSON Viewer;
-         JavaScript: do frontend para o backend;
-         NodeJS;
-         Package Json;
-         NPM (Node Package Manager);
-         Benchmarking;
-         Criação do projeto;
-         Início do desenvolvimento da aplicação CRUD;
-         Create, Read (All/Single), Update & Delete;
-         Criar, Ler (Tudo ou Individual), Atualizar e Remover;
-         Node Express;
-         Body-Parser.
+    Apresentação dos ecossistemas de cloud: AWS, Azure, Google Cloud, entre outros.
+    Criando o repositório do projeto no GitHub
+    Subindo os arquivos desenvolvidos no GitHub
+    Criação da conta no Heroku - Integrando o repositório do GitHub no Heroku
+    Ativando o deploy automático - Primeiro deploy da aplicação na nuvem
+    Testando a aplicação com o Postman: 
+    criando environments para alterar o ambiente das requisições
+    Criação da conta na MongoDB Atlas
+    Criando a base de dados na nuvem
+    Entendendo a string de conexão do MongoDB
+    Visualizando a base de dados criada
+    Criação da collection
+    Implementando a base de dados da nuvem na aplicação backend
+    Testando todos os serviços online
 
 ![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/b172a34ba4040b8aec222cc7bb618f96bb330b9e/PDFs/Backend%20Nuvem/certificado-24-2603-38080.pdf) -  3 horas
 
@@ -136,6 +143,13 @@
 ---
 ## Ciência de Dados
    ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/CertificadosSO/blob/91d0920e5de0600cf77d46a22a4338a55dd302d5/PDFs/Ci%C3%AAncia%20de%20Dados/certificado-22-2610-38080.pdf) - 3 horas
+   
+    Trabalhando com Dados de forma visual;
+    Acesso a dados;
+    Manipulação de dados;
+    Limpeza de dados;
+    isualização de dados;
+    Introdução aos algoritmos de Machine Learning.
    
 ---
 ## Desenvolvimento Ágil - DevOps Git
@@ -221,28 +235,39 @@
     Conhecendo a função type();
     Entendendo o que são os comentários de última/várias linhas;
     Realizando operações matemáticas;
-    Lista de exercícios.
-    
-![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
-
+    Exercícios para prática;
     Variáveis, operações matemáticas e exibição no console;
     Juntando variáveis através da concatenação;
+        
+![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
+
     Exibindo valores númericos formatados;
     Formatação de blocos e indentação;
     Métodos para manipulação de strings;
     Pegando informações digitadas pelo usuário;
     Alterando os tipos das variáveis;
-    Lista de exercícios.
-
-![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
-
+    Exercícios para prática;
     Interação com o usuário, tipos de variáveis e operações matemáticas;
     Importando bibliotecas - Trabalhando com data e hora;
     Exercício 3: "Que horas são?";
     Manipulação de bibliotecas, variáveis, exibição de números formatados;
     Desafio extra!;
     Lista de exercícios.
-   
+
+![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
+
+    Entendendo as Listas!
+    Tuplas - Construindo laços de repetição (loops) com o operador for
+    Utilizando a função range()
+    Entendendo a função list()
+    Ordenação de listas por ordem alfabética
+    Praticando com as listas - Listas únicas
+    Avançando nos laços de repetição (loop) com o operador while
+    Conhecendo o operador break
+    Dicionários
+    Conhecendo a função items()
+    Utilizando a função enumerate()
+    Combinando listas e dicionários
 
 ![Consultando Bases SQL com Python (Parte 1)](PDFs/Python/certificado-24-2601-38080.pdf) - 3 horas
 
