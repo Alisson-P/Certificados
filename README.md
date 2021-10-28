@@ -187,8 +187,10 @@
       As diversas oportunidades oferecidas pela Samsung e pelo mercado.
 
 ---
-### Ciência de Dados - 3 horas
-   ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/CertificadosSO/blob/91d0920e5de0600cf77d46a22a4338a55dd302d5/PDFs/Ci%C3%AAncia%20de%20Dados/certificado-22-2610-38080.pdf)
+### Ciência de Dados
+
+### Fundamentos de Análise de Dados com Orange - 3 horas
+![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ci%C3%AAncia%20de%20Dados/Dados%20Orange.png)
    
     Trabalhando com Dados de forma visual;
     Acesso a dados;
@@ -198,8 +200,9 @@
     Introdução aos algoritmos de Machine Learning.
    
 ---
-### Desenvolvimento Ágil - DevOps Git - 3 horas
+### Desenvolvimento Ágil - DevOps Git
 
+   ### DevOps Git - 3 horas
    ![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/fd51703a0120a563a38849def3ad260916e7f8f0/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/certificado-24-2581-38080.pdf)
    
     Conceitos de engenharia de software para gerência de configuração; 
@@ -216,9 +219,10 @@
        Repositórios remotos;
        Ramificação.
 ---
-### Design Thinking - 3 horas
+### Design Thinking
 
-   ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Desing%20Thinking/certificado-24-2598-38080.pdf)
+### Conceitos e Práticas - 3 horas
+![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Desing%20Thinking/Design%20Thinking.png)
    
        Introdução ao Design Thinking;
        Métodos, ferramentas e prática;
@@ -227,7 +231,8 @@
 ---
 ### Empreendedorismo
 
-   ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/1bd7ce18b650c4ee36626038400b5521b49d4f85/PDFs/Empreendedorismo/certificado-39-2616-38080.pdf) - 2 horas
+### Ecossistemas de Inovação e Empreendedorismo - 2 horas
+![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
    
       Ecossistema de inovação e empreendedorismo;
       Inovação e seu impacto na sociedade; A interação Universidade-Empresa;
@@ -238,21 +243,24 @@
 ---
 ### Indústria 4.0 - 6 horas
 
-   ![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2599-38080.pdf) - 2 horas
+### Módulo 1 - 2 horas
+![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%201.png)
    
     Manufatura Avançada, Internet Industrial das Coisas (IT2I);
     Simulação Avançada de Sistemas (CPS);
     Robótica Inteligente (COBOTS); e
     Realidade Virtual Aumentada.
 
-![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2602-38080.pdf) - 2 horas
+### Módulo 2 - 2 horas
+![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%202.png)
 
     Banco de Dados Analítico (BIG DATA);
     Computação em Nuvem (I-CLOUD);
     Segurança Cibernética e Integração Horizontal; e
     Vertical de Sistemas.
 
-![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2604-38080.pdf) - 2 horas
+### Módulo 3 - 2 horas
+![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%203.png)
 
     Discutir as melhores práticas para diminuir os custos;
     operações em tempo real;
