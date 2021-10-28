@@ -2,6 +2,12 @@
 ## (clique para acessar)
 ---
 
+# Uptime - English
+
+   ## CAE - Certificate of Advanced English
+
+![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/d336dc3120255b69e6d792edd88e5d2c9cb93c0d/PDFs/Advanced%20Level%20in%20English/Advanced%20Level%20in%20English%20-%20UpTime.pdf)
+
 # 4Linux - Open Software Specialists
 
 ![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf) - 20 horas
