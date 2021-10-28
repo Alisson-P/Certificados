@@ -65,7 +65,19 @@
      
   ![GPS com Google Maps](PDFs/Android/certificado-24-2592-38080.pdf) - 3 horas
   
+    Configurando o Google Maps com o Google Play Services no Android
+    Exibindo e interagindo com o mapa do Google Maps
+    Preparando o acesso ao GPS (serviço de localização)
+    Utilizando o GPS, recebendo dados de localização em tempo real
+  
   ![Webservices com Retrofit e Imagens com Glide](PDFs/Android/certificado-24-2596-38080.pdf) -  3 horas 
+  
+    Entendendo o significado de JSON e API Rest
+    Preparando o Android para trabalhar com um WebService, utilizando a API Retrofit
+    Interagindo com a web
+    Tratamento de dados do Web Service, convertendo texto em JSON para objetos na linguagem de programação
+    Exibindo o conteúdo carregado
+    Realizando o monitoramento das conexões com o Network Profiling
   
   ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Android/certificado-24-2606-38080.pdf) -  3 horas 
   
@@ -127,6 +139,10 @@
 ---
 ## Design Thinking
    ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Desing%20Thinking/certificado-24-2598-38080.pdf) - 3 horas
+   
+       Introdução ao Design Thinking
+       Métodos, ferramentas e prática
+       Atividade: Simulando um Design Sprint
 
 ---
 ## Empreendedorismo
@@ -141,14 +157,32 @@
 ---
 ## Indústria 4.0
    ![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2599-38080.pdf) - 2 horas
+   
+    Manufatura Avançada, Internet Industrial das Coisas (IT2I);
+    Simulação Avançada de Sistemas (CPS);
+    Robótica Inteligente (COBOTS); e
+    Realidade Virtual Aumentada.
 
 ![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2602-38080.pdf) - 2 horas
+
+    Banco de Dados Analítico (BIG DATA);
+    Computação em Nuvem (I-CLOUD);
+    Segurança Cibernética e Integração Horizontal; e
+    Vertical de Sistemas.
 
 ![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2604-38080.pdf) - 2 horas
 
 ---
 ## Ocean Talks
    ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ocean%20Talks/certificado-39-2577-38080.pdf) - 1,5 horas
+   
+    Quais são os riscos que existem nesta área tão dinâmica?
+    Como garantir a segurança dos clientes?
+    Quais são as inovações mais promissoras e as que ainda estão por chegar?
+    Thiago Alvarez, fundador da Guiabolso;
+    Thiago Chiliatto, fundador da Antecipa Fácil;
+    Fernando Castro, CEO da HypeFlame.
+    Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
 ## Pyhton
@@ -162,7 +196,10 @@
     Conhecendo a função type()
     Entendendo o que são os comentários de última/várias linhas
     Realizando operações matemáticas
-    Exercício 1: "E os 10% do garçom?"
+    Lista de exercícios
+    
+![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
+
     Variáveis, operações matemáticas e exibição no console
     Juntando variáveis através da concatenação
     Exibindo valores númericos formatados
@@ -170,27 +207,53 @@
     Métodos para manipulação de strings
     Pegando informações digitadas pelo usuário
     Alterando os tipos das variáveis
-    Exercício 2: "Quem é você?"
+    Lista de exercícios
+
+![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
+
     Interação com o usuário, tipos de variáveis e operações matemáticas
     Importando bibliotecas - Trabalhando com data e hora
     Exercício 3: "Que horas são?"
     Manipulação de bibliotecas, variáveis, exibição de números formatados
     Desafio extra!
     Lista de exercícios
-
-![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
-
-![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
+   
 
 ![Consultando Bases SQL com Python (Parte 1)](PDFs/Python/certificado-24-2601-38080.pdf) - 3 horas
 
+    O que são bancos de dados e suas aplicações
+    Sistemas Gerenciadores de Bancos de Dados (SGBD)
+    O Modelo Relacional
+    O padrão SQL e seus dialetos
+    Criando um banco de dados em um SGDB
+    
 ![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/88509f0fdc3138199f18c5c8a3ad5b8f717da932/PDFs/Python/certificado-24-2613-38080.pdf) - 3 horas
+
+    A linguagem de descrição de dados (DDL)
+    A linguagem de manipulação de dados (DML)
+    A linguagem de busca de dados (DQL)
+    Criando tabelas que expressam relacionamentos entre entidades
+    Consultando dados com junções (Join)
+    Exercícios para fixação
 
 ---
 ## UX
 ![Tópicos de UX para Design de Serviços](PDFs/UX/certificado-24-2590-38080.pdf) - 3 horas
 
+    Conceitos fundamentais
+    Os 5 princípios de Design de Serviços
+    Aplicativo versus Serviço
+    Pilares projetuais em Design de Serviços
+    Jornada do usuário
+    Atividade: Blue Printing de um serviço
+
 ![Tópicos de UX para IA: Experiências Ominicanal](PDFs/UX/certificado-24-2594-38080.pdf) - 3 horas
+
+    Fundamentos: Experiência do Usuário (UX) e Inteligência Artificial (IA)
+    Canais, touchpoints e jornadas ominicanal
+    Desafios e oportunidades
+    Tendências e cases
+    Prática: projetando uma experiência ominicanal orquestrada por IA
    
 
  
