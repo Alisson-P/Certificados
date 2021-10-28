@@ -1,18 +1,17 @@
 # Certificados 
-## (clique para acessar)
 ---
 
 # Uptime - English
 
    ## CAE - Certificate of Advanced English
 
-![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/d336dc3120255b69e6d792edd88e5d2c9cb93c0d/PDFs/Advanced%20Level%20in%20English/Advanced%20Level%20in%20English%20-%20UpTime.pdf)
+![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
 
 # Selos de Avaliação e Competência do Linkedin
 
    ## Confira abaixo ou diretamento na página do perfil no Linkedin
 
-![Perfil no Linkedin](https://www.linkedin.com/in/alisson-jp/)
+![Perfil no Linkedin](https://www.linkedin.com/in/alisson-jp/) <== Clique para acessar!!!
 
 ![Bash](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Bash.png)
 
@@ -61,7 +60,7 @@
  
  ## Android - 18 horas
   
-  ![Introdução](PDFs/Android/certificado-24-2586-38080.pdf) - 3 horas
+  ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png) - 3 horas
   
      Utilização da linguagem de programação Kotlin e o software de desenvolvimento Android Studio.
      
@@ -81,7 +80,7 @@
          Manipulando elementos de interface;
          Validando informações digitadas e exibindo erros de validação.
      
-  ![Laboratório](PDFs/Android/certificado-24-2588-38080.pdf) - 3 horas
+  ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png) - 3 horas
   
          Correção do desafio proposto no curso "Android - Introdução" - Criando mais de uma Activity;
          Navegando entre Activities com a classe Intent;
