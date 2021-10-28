@@ -68,6 +68,7 @@
  
  ### Android - 18 horas
   
+  ### Introdução
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png) - 3 horas
   
      Utilização da linguagem de programação Kotlin e o software de desenvolvimento Android Studio.
@@ -87,7 +88,8 @@
          Mecanismo de tradução;
          Manipulando elementos de interface;
          Validando informações digitadas e exibindo erros de validação.
-     
+  
+  ### Laboratório
   ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png) - 3 horas
   
          Correção do desafio proposto no curso "Android - Introdução" - Criando mais de uma Activity;
