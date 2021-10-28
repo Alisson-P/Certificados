@@ -108,6 +108,16 @@
    ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Desing%20Thinking/certificado-24-2598-38080.pdf) - 3 horas
 
 ---
+## Empreendedorismo
+   ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/1bd7ce18b650c4ee36626038400b5521b49d4f85/PDFs/Empreendedorismo/certificado-39-2616-38080.pdf) - 2 horas
+   
+      Ecossistema de inovação e empreendedorismo;
+      Inovação e seu impacto na sociedade; A interação Universidade-Empresa;
+      Os Núcleos de Inovação Tecnológica;
+      Ecossistemas de Inovação Nacionais e Internacionais;
+      O papel da Universidade como supridor de talentos e conhecimento aos ecossistemas.
+
+---
 ## Indústria 4.0
    ![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2599-38080.pdf) - 2 horas
 
