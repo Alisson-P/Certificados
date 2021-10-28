@@ -270,8 +270,10 @@
    
    
 ---
-### Ocean Talks - 1,5 horas
-   ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ocean%20Talks/certificado-39-2577-38080.pdf)
+### Ocean Talks
+   
+   ### O Futuro dos bancos e Fintechs - 1,5 horas
+   ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Ocean%20Talks/Bancos%20e%20Fintechs.png)
    
     Quais são os riscos que existem nesta área tão dinâmica?;
     Como garantir a segurança dos clientes?;
@@ -284,7 +286,8 @@
 ---
 ### Pyhton - 15 horas
 
-![Linguagem Python: aprendendo a linguagem (Parte 1)](PDFs/Python/certificado-24-2587-38080.pdf) - 3 horas
+### Módulo 1 - 3 horas
+![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
 
     Conhecendo os ambientes de desenvolvimento;
     Exibição de informação no console;
@@ -298,7 +301,8 @@
     Variáveis, operações matemáticas e exibição no console;
     Juntando variáveis através da concatenação;
         
-![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
+### Módulo 2 - 3 horas
+![Linguagem Python: aprendendo a linguagem (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%202.png)
 
     Exibindo valores númericos formatados;
     Formatação de blocos e indentação;
@@ -313,7 +317,8 @@
     Desafio extra!;
     Lista de exercícios.
 
-![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
+### Módulo 3 - 3 horas
+![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%203.png) - 3 horas
 
     Entendendo as Listas!
     Tuplas - Construindo laços de repetição (loops) com o operador for
@@ -328,7 +333,8 @@
     Utilizando a função enumerate()
     Combinando listas e dicionários
 
-![Consultando Bases SQL com Python (Parte 1)](PDFs/Python/certificado-24-2601-38080.pdf) - 3 horas
+### Consultando Bases SQL com Python (Parte 1) - 3 horas
+![Consultando Bases SQL com Python (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%20SQL.png)
 
     O que são bancos de dados e suas aplicações;
     Sistemas Gerenciadores de Bancos de Dados (SGBD);
@@ -336,7 +342,8 @@
     O padrão SQL e seus dialetos;
     Criando um banco de dados em um SGDB.
     
-![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/88509f0fdc3138199f18c5c8a3ad5b8f717da932/PDFs/Python/certificado-24-2613-38080.pdf) - 3 horas
+### Consultando Bases SQL com Python (Parte 2) - 3 horas
+![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%20SQL%202.png)
 
     A linguagem de descrição de dados (DDL);
     A linguagem de manipulação de dados (DML);
@@ -348,7 +355,8 @@
 ---
 ### UX - 6 horas
 
-![Tópicos de UX para Design de Serviços](PDFs/UX/certificado-24-2590-38080.pdf) - 3 horas
+### Tópicos de UX para Design de Serviços - 3 horas
+![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
 
     Conceitos fundamentais;
     Os 5 princípios de Design de Serviços;
@@ -357,7 +365,8 @@
     Jornada do usuário;
     Atividade: Blue Printing de um serviço.
 
-![Tópicos de UX para IA: Experiências Ominicanal](PDFs/UX/certificado-24-2594-38080.pdf) - 3 horas
+### Tópicos de UX para IA: Experiências Ominicanal - 3 horas
+![Tópicos de UX para IA: Experiências Ominicanal](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Ominicanal.png)
 
     Fundamentos: Experiência do Usuário (UX) e Inteligência Artificial (IA);
     Canais, touchpoints e jornadas ominicanal;
