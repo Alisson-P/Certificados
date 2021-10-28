@@ -6,6 +6,27 @@
 
 ![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/5a07a1d0f4865aacb556002eab6a255ecfbf488a/PDFs/Linux/4Linux%20-%20Alisson%20Joabe%20Pereira.pdf) - 20 horas
 
+    Mercado Linux
+    Certificações Linux
+    História do Linux
+    Licenças OpenSource
+    Evolução do Linux: Distribuições/Dispositivos embarcados
+    Conhecendo o Linux e suas principais Aplicações
+    Componentes básicos de uma rede
+    Terminais Virtuais
+    Execução dos primeiros comandos
+    Shell e Variáveis Locais e de Ambiente (Globais)
+    Arquivos de Configuração do Shell 
+    Caminhos de diretórios
+    Formas de Documentação
+    Comandos Help, Apropos e whatis
+    Comandos Man, info, whereis e which
+    FHS, Hierarquia dos diretórios
+    Definição dos diretórios
+    Comandos do GNU/Linux
+    Localização no sistema - Find e Locate
+    Laboratório 1, 2, 3
+
 ---
 
 # Samsung Ocean
