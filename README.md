@@ -234,7 +234,6 @@
 ### Ecossistemas de Inovação e Empreendedorismo - 2 horas
 ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
    
-      Ecossistema de inovação e empreendedorismo;
       Inovação e seu impacto na sociedade; A interação Universidade-Empresa;
       Os Núcleos de Inovação Tecnológica;
       Ecossistemas de Inovação Nacionais e Internacionais;
