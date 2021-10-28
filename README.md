@@ -84,7 +84,8 @@
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Android/certificado-24-2608-38080.pdf) -  3 horas 
 
 ---
-## Backend - Nuvem
+## Backend
+
    ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/39a6368ca62ee75ed8577b4e9e2bf03179d253e0/PDFs/Backend%20Nuvem/certificado-24-2609-38080.pdf) - 3 horas
    
       Desenvolvendo uma aplicação em NodeJS, com a linguagem de programação JavaScript
@@ -106,6 +107,22 @@
          Criar, Ler (Tudo ou Individual), Atualizar e Remover
          Node Express
          Body-Parser
+
+![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/b172a34ba4040b8aec222cc7bb618f96bb330b9e/PDFs/Backend%20Nuvem/certificado-24-2603-38080.pdf) -  3 horas
+
+    O que é banco de dados?
+    Diferença entre SQL e NoSQL
+    Um overview sobre os principais sistemas de gerenciamento de banco de dados SQL e NoSQL
+    SQL: MySQL, MariaDB, PostgreSQL, SQL Server, Oracle DB
+    NoSQL: MongoDB, Cassandra, DynamoDB, Firebase Realtime Database, Redis, Neo4j
+    Query Languages (Linguagens de consulta)
+    Apresentação dos softwares para utilização do MongoDB: Mongo Compass ou NoSQLBooster
+    Criação da base de dados
+    Explicação e Criação da collection
+    Entendendo a query language do MongoDB
+    Realizando operações simples (inserção, consulta, atualização e remoção) na base de dados
+    Integração do MongoDB com o NodeJS utilizando a própria biblioteca do MongoDB
+    Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados
 
 ---
 ## Bixby
@@ -172,6 +189,13 @@
 
 ![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ind%C3%BAstria%204.0/certificado-39-2604-38080.pdf) - 2 horas
 
+    Discutir as melhores práticas para diminuir os custos;
+    operações em tempo real;
+    manufatura modular;
+    operações integradas;
+    otimização no chão de fábrica das empresas.
+   
+   
 ---
 ## Ocean Talks
    ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/d88aa6f35e2131f1bc321d3eceb0d6d5c91e66b0/PDFs/Ocean%20Talks/certificado-39-2577-38080.pdf) - 1,5 horas
@@ -188,72 +212,72 @@
 ## Pyhton
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](PDFs/Python/certificado-24-2587-38080.pdf) - 3 horas
 
-    Conhecendo os ambientes de desenvolvimento
-    Exibição de informação no console
-    Criação de variáveis
-    Familiarizando com os erros (e perdendo o medo deles!)
-    Entendendo tipos de variáveis: string, int, float e bool
-    Conhecendo a função type()
-    Entendendo o que são os comentários de última/várias linhas
-    Realizando operações matemáticas
-    Lista de exercícios
+    Conhecendo os ambientes de desenvolvimento;
+    Exibição de informação no console;
+    Criação de variáveis;
+    Familiarizando com os erros (e perdendo o medo deles!);
+    Entendendo tipos de variáveis: string, int, float e bool;
+    Conhecendo a função type();
+    Entendendo o que são os comentários de última/várias linhas;
+    Realizando operações matemáticas;
+    Lista de exercícios.
     
 ![Linguagem Python: aprendendo a linguagem (Parte 2)](PDFs/Python/certificado-24-2595-38080.pdf) - 3 horas
 
-    Variáveis, operações matemáticas e exibição no console
-    Juntando variáveis através da concatenação
-    Exibindo valores númericos formatados
-    Formatação de blocos e indentação
-    Métodos para manipulação de strings
-    Pegando informações digitadas pelo usuário
-    Alterando os tipos das variáveis
-    Lista de exercícios
+    Variáveis, operações matemáticas e exibição no console;
+    Juntando variáveis através da concatenação;
+    Exibindo valores númericos formatados;
+    Formatação de blocos e indentação;
+    Métodos para manipulação de strings;
+    Pegando informações digitadas pelo usuário;
+    Alterando os tipos das variáveis;
+    Lista de exercícios.
 
 ![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/8a3d3313e451975217fb0aa224a0e0793e45a9b5/PDFs/Python/certificado-24-2607-38080.pdf) - 3 horas
 
-    Interação com o usuário, tipos de variáveis e operações matemáticas
-    Importando bibliotecas - Trabalhando com data e hora
-    Exercício 3: "Que horas são?"
-    Manipulação de bibliotecas, variáveis, exibição de números formatados
-    Desafio extra!
-    Lista de exercícios
+    Interação com o usuário, tipos de variáveis e operações matemáticas;
+    Importando bibliotecas - Trabalhando com data e hora;
+    Exercício 3: "Que horas são?";
+    Manipulação de bibliotecas, variáveis, exibição de números formatados;
+    Desafio extra!;
+    Lista de exercícios.
    
 
 ![Consultando Bases SQL com Python (Parte 1)](PDFs/Python/certificado-24-2601-38080.pdf) - 3 horas
 
-    O que são bancos de dados e suas aplicações
-    Sistemas Gerenciadores de Bancos de Dados (SGBD)
-    O Modelo Relacional
-    O padrão SQL e seus dialetos
-    Criando um banco de dados em um SGDB
+    O que são bancos de dados e suas aplicações;
+    Sistemas Gerenciadores de Bancos de Dados (SGBD);
+    O Modelo Relacional;
+    O padrão SQL e seus dialetos;
+    Criando um banco de dados em um SGDB.
     
 ![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/88509f0fdc3138199f18c5c8a3ad5b8f717da932/PDFs/Python/certificado-24-2613-38080.pdf) - 3 horas
 
-    A linguagem de descrição de dados (DDL)
-    A linguagem de manipulação de dados (DML)
-    A linguagem de busca de dados (DQL)
-    Criando tabelas que expressam relacionamentos entre entidades
-    Consultando dados com junções (Join)
-    Exercícios para fixação
+    A linguagem de descrição de dados (DDL);
+    A linguagem de manipulação de dados (DML);
+    A linguagem de busca de dados (DQL);
+    Criando tabelas que expressam relacionamentos entre entidades;
+    Consultando dados com junções (Join);
+    Exercícios para fixação.
 
 ---
 ## UX
 ![Tópicos de UX para Design de Serviços](PDFs/UX/certificado-24-2590-38080.pdf) - 3 horas
 
-    Conceitos fundamentais
-    Os 5 princípios de Design de Serviços
-    Aplicativo versus Serviço
-    Pilares projetuais em Design de Serviços
-    Jornada do usuário
-    Atividade: Blue Printing de um serviço
+    Conceitos fundamentais;
+    Os 5 princípios de Design de Serviços;
+    Aplicativo versus Serviço;
+    Pilares projetuais em Design de Serviços;
+    Jornada do usuário;
+    Atividade: Blue Printing de um serviço.
 
 ![Tópicos de UX para IA: Experiências Ominicanal](PDFs/UX/certificado-24-2594-38080.pdf) - 3 horas
 
-    Fundamentos: Experiência do Usuário (UX) e Inteligência Artificial (IA)
-    Canais, touchpoints e jornadas ominicanal
-    Desafios e oportunidades
-    Tendências e cases
-    Prática: projetando uma experiência ominicanal orquestrada por IA
+    Fundamentos: Experiência do Usuário (UX) e Inteligência Artificial (IA);
+    Canais, touchpoints e jornadas ominicanal;
+    Desafios e oportunidades;
+    Tendências e cases;
+    Prática: projetando uma experiência ominicanal orquestrada por IA.
    
 
  
