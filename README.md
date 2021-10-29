@@ -71,7 +71,7 @@
 
 ## Samsung Ocean
  
- ### Android - 18 horas
+ ### Android - 21 horas
   
   ### Introdução - 3 horas
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png)
@@ -300,7 +300,7 @@
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
-### Pyhton - 15 horas
+### Pyhton - 18 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
@@ -367,6 +367,23 @@
     Criando tabelas que expressam relacionamentos entre entidades;
     Consultando dados com junções (Join);
     Exercícios para fixação.
+
+### Aula Prática - 3 horas
+![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/8bc8565abe3ef4ec80becad8bc6041758fc54587/PDFs/Python/Python%20Aula%20P%C5%95atica.png)
+
+    Exercícios Aplicados envolvendo:
+    Entrada de Dados;
+    Saída de Dados;
+    Bibliotecas;
+    Operadores Aritméticos;
+    Estruturas de Repetição;
+    Conversão de tipos;
+    Manipulação de strings e f-string;
+    Funções com estrutura de repetição;
+    Funções com argumentos e retorno, estrutura de decisão;
+    Lista;
+    Dicionário;
+    Touch.
 
 ---
 ### UX - 6 horas
