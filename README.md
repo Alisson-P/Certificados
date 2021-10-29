@@ -300,7 +300,7 @@
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
-### Pyhton - 18 horas
+### Pyhton - 21 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
@@ -334,7 +334,7 @@
     Lista de exercícios.
 
 ### Módulo 3 - 3 horas
-![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%203.png) - 3 horas
+![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%203.png)
 
     Entendendo as Listas!
     Tuplas - Construindo laços de repetição (loops) com o operador for
@@ -384,6 +384,23 @@
     Lista;
     Dicionário;
     Touch.
+    
+### Análise de dados geográficos com Python- 3 horas
+![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/72f4bc11dfc66fda4ac4efbd4f8e91903fa91680/PDFs/Python/Python%20-%20An%C3%A1lise%20de%20Dados%20Geogr%C3%A1ficos.png)
+
+    Conceitos básicos;
+    Fontes de dados;
+    Técnicas e ferramentas para o trabalho com dados geográficos;
+    Exemplos comerciais e científicos de utilização;D
+    Como descobrir padrões e anomalias em regiões;
+    Como identificar pontos de interesse;
+    Explicar a ocorrência de fenômenos e auxiliar na otimização 
+    do uso de recursos e no planejamento urbano.
+    Sistemas de coordenadas geográficas; e
+    Operações que podem ser realizadas com esses dados;
+    Atividade prática utilizando:
+    Dados abertos; linguagem Python e as bibliotecas GeoPandas,
+    Shapely e Folium na extração de informações de dados geográficos.
 
 ---
 ### UX - 6 horas
