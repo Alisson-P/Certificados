@@ -235,15 +235,6 @@
        Essencial do Git;
        Repositórios remotos;
        Ramificação.
----
-### Design Thinking
-
-### Conceitos e Práticas - 3 horas
-![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Desing%20Thinking/Design%20Thinking.png)
-   
-       Introdução ao Design Thinking;
-       Métodos, ferramentas e prática;
-       Atividade: Simulando um Design Sprint.
 
 ---
 ### Empreendedorismo
@@ -403,7 +394,9 @@
     Shapely e Folium na extração de informações de dados geográficos.
 
 ---
-### UX - 6 horas
+### UX - 9 horas
+
+### Design Thinking
 
 ### Tópicos de UX para Design de Serviços - 3 horas
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
@@ -424,6 +417,11 @@
     Tendências e cases;
     Prática: projetando uma experiência ominicanal orquestrada por IA.
    
-
+### Conceitos e Práticas - 3 horas
+![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Desing%20Thinking/Design%20Thinking.png)
+   
+       Introdução ao Design Thinking;
+       Métodos, ferramentas e prática;
+       Atividade: Simulando um Design Sprint.
  
  
