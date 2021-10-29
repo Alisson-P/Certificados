@@ -158,6 +158,23 @@
 ---
 ### Backend - 6 horas
 
+### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
+![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
+
+    O que é banco de dados?;
+    Diferença entre SQL e NoSQL;
+    Um overview sobre os principais sistemas de gerenciamento de banco de dados SQL e NoSQL;
+    SQL: MySQL, MariaDB, PostgreSQL, SQL Server, Oracle DB;
+    NoSQL: MongoDB, Cassandra, DynamoDB, Firebase Realtime Database, Redis, Neo4j;
+    Query Languages (Linguagens de consulta);
+    Apresentação dos softwares para utilização do MongoDB: Mongo Compass ou NoSQLBooster;
+    Criação da base de dados;
+    Explicação e Criação da collection;
+    Entendendo a query language do MongoDB;
+    Realizando operações simples (inserção, consulta, atualização e remoção) na base de dados;
+    Integração do MongoDB com o NodeJS utilizando a própria biblioteca do MongoDB;
+    Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados.
+
 ### Integrando os serviços de backend na nuvem - 3 horas
 ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Backend%20na%20Nuvem.png)
    
@@ -175,23 +192,6 @@
     Criação da collection
     Implementando a base de dados da nuvem na aplicação backend
     Testando todos os serviços online
-
-### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
-![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
-
-    O que é banco de dados?;
-    Diferença entre SQL e NoSQL;
-    Um overview sobre os principais sistemas de gerenciamento de banco de dados SQL e NoSQL;
-    SQL: MySQL, MariaDB, PostgreSQL, SQL Server, Oracle DB;
-    NoSQL: MongoDB, Cassandra, DynamoDB, Firebase Realtime Database, Redis, Neo4j;
-    Query Languages (Linguagens de consulta);
-    Apresentação dos softwares para utilização do MongoDB: Mongo Compass ou NoSQLBooster;
-    Criação da base de dados;
-    Explicação e Criação da collection;
-    Entendendo a query language do MongoDB;
-    Realizando operações simples (inserção, consulta, atualização e remoção) na base de dados;
-    Integração do MongoDB com o NodeJS utilizando a própria biblioteca do MongoDB;
-    Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados.
 
 ---
 ### Bixby
