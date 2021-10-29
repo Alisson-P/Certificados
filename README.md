@@ -142,6 +142,19 @@
     Criação da Base de Dados
     Utilização da Base de Dados
 
+  ### Push Notification com Firebase - 3 horas
+  ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/9f686e789851a78a82c2bb7b46de5fbadd968df8/PDFs/Android/Android%20Push%20Notification%20com%20Firebase.png) 
+  
+    Apresentação do Firebase
+    Configurando o projeto do Android com uma conta google e o Firebase
+    Criando um serviço de mensageria no Firebase
+    Preparando o projeto do Android para integrar com o serviço de mensageria criado
+    Testando o envio de mensagens pela nuvem
+    Criando uma classe de envio de push notification
+    Testando a exibição de push notifications local
+    Conectando o serviço de mensageria com a exibição das notificações
+    Dicas e próximos passos
+
 ---
 ### Backend - 6 horas
 
