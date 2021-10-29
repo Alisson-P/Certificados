@@ -7,6 +7,36 @@
 
 ![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
 
+---
+
+## 4Linux - Open Software Specialists
+
+### Linux Fundamentals - 20 horas
+![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/8df6fda49cdc62cf672b29475188aff3211bd66a/PDFs/Linux/4Linux%20Essentials.png)
+
+    Mercado Linux;
+    Certificações Linux;
+    História do Linux;
+    Licenças OpenSource;
+    Evolução do Linux: Distribuições/Dispositivos embarcados;
+    Conhecendo o Linux e suas principais Aplicações;
+    Componentes básicos de uma rede;
+    Terminais Virtuais;
+    Execução dos primeiros comandos;
+    Shell e Variáveis Locais e de Ambiente (Globais);
+    Arquivos de Configuração do Shell;
+    Caminhos de diretórios;
+    Formas de Documentação;
+    Comandos Help, Apropos e whatis;
+    Comandos Man, info, whereis e which;
+    FHS, Hierarquia dos diretórios;
+    Definição dos diretórios;
+    Comandos do GNU/Linux;
+    Localização no sistema - Find e Locate;
+    Laboratório 1, 2, 3.
+
+---
+
 ## Selos de Avaliação e Competência do Linkedin
 
    ### Confira abaixo ou diretamento na página do perfil no Linkedin
@@ -36,32 +66,6 @@
 
 ### Powerpoint
 ![Powerpoint](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20PowerPoint.png)
-
-## 4Linux - Open Software Specialists
-
-### Linux Fundamentals - 20 horas
-![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/8df6fda49cdc62cf672b29475188aff3211bd66a/PDFs/Linux/4Linux%20Essentials.png)
-
-    Mercado Linux;
-    Certificações Linux;
-    História do Linux;
-    Licenças OpenSource;
-    Evolução do Linux: Distribuições/Dispositivos embarcados;
-    Conhecendo o Linux e suas principais Aplicações;
-    Componentes básicos de uma rede;
-    Terminais Virtuais;
-    Execução dos primeiros comandos;
-    Shell e Variáveis Locais e de Ambiente (Globais);
-    Arquivos de Configuração do Shell;
-    Caminhos de diretórios;
-    Formas de Documentação;
-    Comandos Help, Apropos e whatis;
-    Comandos Man, info, whereis e which;
-    FHS, Hierarquia dos diretórios;
-    Definição dos diretórios;
-    Comandos do GNU/Linux;
-    Localização no sistema - Find e Locate;
-    Laboratório 1, 2, 3.
 
 ---
 
