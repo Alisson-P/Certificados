@@ -1,9 +1,9 @@
-# Certificados 
+# Certificados - 300 horas
 ---
 
 ## Uptime - English
 
-   ### CAE - Certificate of Advanced English
+   ### CAE - Certificate of Advanced English - 200 horas
 
 ![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
 
@@ -69,9 +69,9 @@
 
 ---
 
-## Samsung Ocean
+## Samsung Ocean - 80 horas
  
- ### Android - 21 horas
+ ### Android - 24 horas
   
   ### Introdução - 3 horas
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png)
@@ -155,6 +155,13 @@
     Conectando o serviço de mensageria com a exibição das notificações
     Dicas e próximos passos
 
+### Android Jetpack e Arquitetura - 3 horas
+![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/Android/Captura%20de%20tela%20de%202021-10-30%2013-25-13.png) 
+
+    Revisão Geral
+    Android Jetpack
+    ViewModel e LiveData
+    
 ---
 ### Backend - 6 horas
 
@@ -394,9 +401,7 @@
     Shapely e Folium na extração de informações de dados geográficos.
 
 ---
-### UX - 9 horas
-
-### Design Thinking
+### UX - 12 horas
 
 ### Tópicos de UX para Design de Serviços - 3 horas
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
@@ -417,11 +422,18 @@
     Tendências e cases;
     Prática: projetando uma experiência ominicanal orquestrada por IA.
    
-### Conceitos e Práticas - 3 horas
+### Design Thinking - Conceitos e Práticas - 3 horas
 ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Desing%20Thinking/Design%20Thinking.png)
    
        Introdução ao Design Thinking;
        Métodos, ferramentas e prática;
        Atividade: Simulando um Design Sprint.
+
+### Tópicos de UX para Internet das Coisas - 3 horas
+![Tópicos de UX para Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/UX/Captura%20de%20tela%20de%202021-10-30%2013-24-58.png)
+
+    Tópicos de UX para IoT
+    Desafios e oportunidades
+    Prática: Prototipando uma solução em IoT
  
  
