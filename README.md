@@ -1,4 +1,4 @@
-# Certificados - 300 horas
+# Certificados - 302 horas
 ---
 
 ## Uptime - English
@@ -69,7 +69,7 @@
 
 ---
 
-## Samsung Ocean - 80 horas
+## Samsung Ocean - 82 horas
  
  ### Android - 24 horas
   
@@ -435,7 +435,6 @@
     Tópicos de UX para IoT
     Desafios e oportunidades
     Prática: Prototipando uma solução em IoT
-    
     
  ---
  ### VR & AR
