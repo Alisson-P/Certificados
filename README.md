@@ -1,4 +1,4 @@
-# Certificados - 300 horas
+# Certificados - 302 horas
 ---
 
 ## Uptime - English
@@ -69,7 +69,7 @@
 
 ---
 
-## Samsung Ocean - 80 horas
+## Samsung Ocean - 82 horas
  
  ### Android - 24 horas
   
@@ -435,5 +435,17 @@
     Tópicos de UX para IoT
     Desafios e oportunidades
     Prática: Prototipando uma solução em IoT
+    
+ ---
+ ### VR & AR
  
+ ### V4: Realidade Aumentada: Laboratório com Unity e AR Foundation - 2 horas
+![Unity e AR](https://github.com/Alisson-JP/Certificados/blob/6fabf14bef050b7430bdba2cfe56016e8884efbd/PDFs/VR%20&%20AR/Unity%20e%20AR.png)
+
+    Fundamentos de Realidade Misturada;
+    Dispositivos de Realidade Misturada;
+    Objetos 3D, animações e Banco de Dados;
+    Reconhecimento de ambientes;
+    UI, UX e boas práticas.
+    Testes com o Samsung Galaxy e GearVR.
  
