@@ -333,7 +333,7 @@
     Desafios;
     Conclusões.
 
-### IOT: Laboratório de IoT com Arduino - 3 horas
+### Laboratório de IoT com Arduino - 3 horas
 ![Laboratório de IoT com Arduino](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Laborat%C3%B3rio%20com%20Ardu%C3%ADno.png)
     
     Apresentação da Visão Geral e Prática para a construção de dispositivos de IoT;
@@ -369,7 +369,7 @@
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
-### Pyhton - 21 horas
+### Python - 21 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
