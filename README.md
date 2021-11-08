@@ -72,7 +72,7 @@
 
 ---
 
-## Samsung Ocean - 82 horas
+## Samsung Ocean - 89 horas
  
  ### Android - 24 horas
   
@@ -247,7 +247,7 @@
        Ramificação.
 
 ---
-### Empreendedorismo
+### Empreendedorismo - 4 horas
 
 ### Ecossistemas de Inovação e Empreendedorismo - 2 horas
 ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
@@ -256,6 +256,19 @@
       Os Núcleos de Inovação Tecnológica;
       Ecossistemas de Inovação Nacionais e Internacionais;
       O papel da Universidade como supridor de talentos e conhecimento aos ecossistemas.
+
+### Design Thinking aplicado a Startups - 2 horas
+![Design Thinking aplicado a Startups](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Empreendedorismo/Empreendedorismo%20Desing%20Thinking%20-%20Startups.png) 
+
+    Pensamento divergente e convergente; 
+    A importância da problematização; 
+    Empatia; colaboração; prototipação; Desirability; 
+    Viability; Feasibility; 
+    As etapas do design thinking: Imersão, Ideação, Prototipação; 
+    Como capturar insights sobre os usuários: sombra; um dia na vida, 
+    pesquisa desk; netnografia, entre outras. 
+    Técnicas de ideação: Brainstorming, Brainwriting; Mindmapping, entre outras; 
+    Técnicas de prototipação; Critérios de Seleção de ideias inovadoras.
 
 ---
 ### Indústria 4.0 - 6 horas
@@ -285,8 +298,42 @@
     operações integradas;
     otimização no chão de fábrica das empresas.
    
-   
 ---
+
+### IoT - Internet das Coisas - 5 horas
+
+### Introdução a Internet das Coisas - 2 horas
+![Introdução a Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Introdu%C3%A7%C3%A3o.png)
+
+    Introdução: Conceito, Evolução e Visão;
+    Tecnologias: Devices, Comunicação e dados;
+    Soluções: Smart Solutions;
+    Visão Samsung;
+    Desafios;
+    Conclusões.
+
+### IOT: Laboratório de IoT com Arduino - 3 horas
+![Laboratório de IoT com Arduino](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Laborat%C3%B3rio%20com%20Ardu%C3%ADno.png)
+    
+    Apresentação da Visão Geral e Prática para a construção de dispositivos de IoT;
+    Aspectos de Hardware com Arduíno;
+    Aspectos de Redes com WiFi/Ethernet e MQTT;
+    Desenvolvimento de Protótipo Funcional.
+
+---
+
+### Jogos Digitais
+
+### Introdução aos Jogos Digitais - 2 horas
+![Introdução aos Jogos Digitais](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Jogos%20Digitais/Introdu%C3%A7%C3%A3o%20aos%20jogos%20digitais.png)
+
+    Principais conceitos;
+    Mercado de jogos digitais;
+    Mecanismo de prototipação;
+    Fluxo de trabalho.
+
+---
+
 ### Ocean Talks
    
    ### O Futuro dos bancos e Fintechs - 1,5 horas
@@ -301,7 +348,7 @@
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
-### Pyhton - 21 horas
+### Pyhton - 24 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
@@ -402,6 +449,22 @@
     Atividade prática utilizando:
     Dados abertos; linguagem Python e as bibliotecas GeoPandas,
     Shapely e Folium na extração de informações de dados geográficos.
+
+### Programando para web com Python, CSS e HTML (Parte 1) - 3 horas
+![Programando para web com Python, CSS e HTML](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%201).png)
+
+    Conhecendo o HTML;
+    Conhecendo o CSS;
+    Construindo a primeira página do site;
+    Páginas estáticas vs páginas dinâmicas;
+    Entendendo o que é servidor e porque precisamos dele;
+    Django vs Flask: Entendendo o que são essas tecnologias;
+    Implementando o Flask;
+    Exibindo uma página simples;
+    Integrando a nossa página de HTML e CSS no servidor;
+    Interagindo com o usuário através do HTML;
+    Integrando código Python para geração dinâmica do HTML;
+    Conhecendo alternativas para hospedagem gratuita de sites sem servidor.
 
 ---
 ### UX - 12 horas
