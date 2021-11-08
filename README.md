@@ -214,19 +214,6 @@
       As diversas oportunidades oferecidas pela Samsung e pelo mercado.
 
 ---
-### Ciência de Dados
-
-### Fundamentos de Análise de Dados com Orange - 3 horas
-![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ci%C3%AAncia%20de%20Dados/Dados%20Orange.png)
-   
-    Trabalhando com Dados de forma visual;
-    Acesso a dados;
-    Manipulação de dados;
-    Limpeza de dados;
-    isualização de dados;
-    Introdução aos algoritmos de Machine Learning.
-   
----
 ### Desenvolvimento Ágil - DevOps Git
 
    ### DevOps Git - 3 horas
@@ -272,10 +259,22 @@
 
 ---
 
-### - IA - Inteligência artificial
+### - IA - Inteligência artificial - 6 horas
+
+### Ciência de Dados
+
+### Fundamentos de Análise de Dados com Orange - 3 horas
+![Fundamentos de Análise de Dados com Orange]()
+   
+    Trabalhando com Dados de forma visual;
+    Acesso a dados;
+    Manipulação de dados;
+    Limpeza de dados;
+    isualização de dados;
+    Introdução aos algoritmos de Machine Learning.
 
 ### Análise de dados geográficos com Python- 3 horas
-![Aula Prática]()
+![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/326e0ebb4553f02771e48e7bdddab901e5f9c608/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Python%20-%20An%C3%A1lise%20de%20Dados%20Geogr%C3%A1ficos.png)
 
     Conceitos básicos;
     Fontes de dados;
