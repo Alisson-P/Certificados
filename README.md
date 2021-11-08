@@ -259,7 +259,7 @@
 
 ---
 
-### - IA - Inteligência artificial - 6 horas
+### IA - Inteligência artificial - 6 horas
 
 ### Ciência de Dados
 
