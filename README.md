@@ -264,7 +264,7 @@
 ### Ciência de Dados
 
 ### Fundamentos de Análise de Dados com Orange - 3 horas
-![Fundamentos de Análise de Dados com Orange]()
+![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/Certificados/blob/fb448fdccd61b386899fa75cdb31dd0487bf13a3/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Dados%20Orange.png)
    
     Trabalhando com Dados de forma visual;
     Acesso a dados;
