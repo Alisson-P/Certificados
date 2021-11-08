@@ -275,7 +275,7 @@
 ### - IA - Inteligência artificial
 
 ### Análise de dados geográficos com Python- 3 horas
-![Aula Prática]()
+![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/326e0ebb4553f02771e48e7bdddab901e5f9c608/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Python%20-%20An%C3%A1lise%20de%20Dados%20Geogr%C3%A1ficos.png)
 
     Conceitos básicos;
     Fontes de dados;
