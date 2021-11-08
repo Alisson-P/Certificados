@@ -43,6 +43,9 @@
 
 ![Perfil no Linkedin](https://www.linkedin.com/in/alisson-jp/) <== Clique para acessar!!!
 
+### Python
+![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
+
 ### Bash
 ![Bash](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Bash.png)
 
