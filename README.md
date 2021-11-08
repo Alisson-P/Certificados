@@ -271,6 +271,28 @@
     Técnicas de prototipação; Critérios de Seleção de ideias inovadoras.
 
 ---
+
+### - IA - Inteligência artificial
+
+### Análise de dados geográficos com Python- 3 horas
+![Aula Prática]()
+
+    Conceitos básicos;
+    Fontes de dados;
+    Técnicas e ferramentas para o trabalho com dados geográficos;
+    Exemplos comerciais e científicos de utilização;D
+    Como descobrir padrões e anomalias em regiões;
+    Como identificar pontos de interesse;
+    Explicar a ocorrência de fenômenos e auxiliar na otimização 
+    do uso de recursos e no planejamento urbano.
+    Sistemas de coordenadas geográficas; e
+    Operações que podem ser realizadas com esses dados;
+    Atividade prática utilizando:
+    Dados abertos; linguagem Python e as bibliotecas GeoPandas,
+    Shapely e Folium na extração de informações de dados geográficos.
+
+---
+
 ### Indústria 4.0 - 6 horas
 
 ### Módulo 1 - 2 horas
@@ -348,7 +370,7 @@
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
 ---
-### Pyhton - 24 horas
+### Pyhton - 21 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
@@ -433,23 +455,6 @@
     Dicionário;
     Touch.
     
-### Análise de dados geográficos com Python- 3 horas
-![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/72f4bc11dfc66fda4ac4efbd4f8e91903fa91680/PDFs/Python/Python%20-%20An%C3%A1lise%20de%20Dados%20Geogr%C3%A1ficos.png)
-
-    Conceitos básicos;
-    Fontes de dados;
-    Técnicas e ferramentas para o trabalho com dados geográficos;
-    Exemplos comerciais e científicos de utilização;D
-    Como descobrir padrões e anomalias em regiões;
-    Como identificar pontos de interesse;
-    Explicar a ocorrência de fenômenos e auxiliar na otimização 
-    do uso de recursos e no planejamento urbano.
-    Sistemas de coordenadas geográficas; e
-    Operações que podem ser realizadas com esses dados;
-    Atividade prática utilizando:
-    Dados abertos; linguagem Python e as bibliotecas GeoPandas,
-    Shapely e Folium na extração de informações de dados geográficos.
-
 ### Programando para web com Python, CSS e HTML (Parte 1) - 3 horas
 ![Programando para web com Python, CSS e HTML](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%201).png)
 
