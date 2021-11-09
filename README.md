@@ -37,6 +37,27 @@
 
 ---
 
+## Simplilearn
+
+### Introduction to Cyber Security - 3 horas
+![Cyber Security](https://github.com/Alisson-JP/Certificados/blob/229730162533d79139c6eb39cb32956aec47ed98/PDFs/Simplilearn/Introduction%20to%20Cyber%20security.png)
+
+    Cybersecurity fundamentals
+    Threat actors attacks
+    Mitigation
+    Security policies amp procedures
+    Secure architecture
+    Wireless networks
+    Network security controls
+    BYOD security testing
+    IS governance
+    Risk management
+    Incident management
+    Business continuity
+    Disaster recovery
+
+---
+
 ## Selos de Avaliação e Competência do Linkedin
 
    ### Confira abaixo ou diretamento na página do perfil no Linkedin
