@@ -1,4 +1,4 @@
-# Certificados - 317.5 horas
+# Certificados - 319.5 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 94.5 horas
+## Samsung Ocean - 96.5 horas
  
  ### Android - 24 horas
   
@@ -235,6 +235,19 @@
       As diversas oportunidades oferecidas pela Samsung e pelo mercado.
 
 ---
+
+### Blochchain
+
+   ### Introdução ao Blockchain - 2 horas
+   ![Intro Blochchain](https://github.com/Alisson-JP/Certificados/blob/f1a840db4021a7f9a3da11e3caf7bd73a8f5b190/PDFs/Blockchain/Introdu%C3%A7%C3%A3o%20ao%20Blockchain.png)
+
+    Introdução ao Blockchain;
+    Tipos de Blockchain;
+    Aplicações de Blockchain;
+    Plataformas de Blockchain.
+
+---
+
 ### Desenvolvimento Ágil - DevOps Git
 
    ### DevOps Git - 3 horas
