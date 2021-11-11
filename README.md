@@ -1,4 +1,4 @@
-# Certificados - 319.5 horas
+# Certificados - 324 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 96.5 horas
+## Samsung Ocean - 101 horas
  
  ### Android - 24 horas
   
@@ -268,7 +268,7 @@
        Ramificação.
 
 ---
-### Empreendedorismo - 4 horas
+### Empreendedorismo - 7 horas
 
 ### Ecossistemas de Inovação e Empreendedorismo - 2 horas
 ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
@@ -290,6 +290,21 @@
     pesquisa desk; netnografia, entre outras. 
     Técnicas de ideação: Brainstorming, Brainwriting; Mindmapping, entre outras; 
     Técnicas de prototipação; Critérios de Seleção de ideias inovadoras.
+
+### Identificando o cliente e o problema - 3 horas
+![Identificando o cliente e o problema](https://github.com/Alisson-JP/Certificados/blob/689e22dab71ddb0a8322b583d6f2b521abf9f712/PDFs/Empreendedorismo/Identificando%20o%20cliente%20e%20o%20problema.png) 
+
+    Formas de levantamento de informações sobre clientes e mercados;
+    Técnicas e dicas para realização de entrevistas com clientes potenciais;
+    Milkshake Marketing;
+    Jobs, Dores e Ganhos;
+    Treinamento para entrevista;
+    Organização das informações coletadas nas entrevistas;
+    Frequência e relevância de Jobs, dores e ganhos;
+    Identificação do perfil do cliente usando Jobs, dores e ganhos;
+    Segmentação de clientes usando Jobs, dores e ganhos;
+    Importância da segmentação de clientes;
+    Exemplos de segmentação de clientes.
 
 ---
 
@@ -389,10 +404,10 @@
 
 ---
 
-### Ocean Talks
+### Ocean Talks - 3 horas
    
-   ### O Futuro dos bancos e Fintechs - 1,5 horas
-   ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Ocean%20Talks/Bancos%20e%20Fintechs.png)
+### O Futuro dos bancos e Fintechs - 1,5 horas
+![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Ocean%20Talks/Bancos%20e%20Fintechs.png)
    
     Quais são os riscos que existem nesta área tão dinâmica?;
     Como garantir a segurança dos clientes?;
@@ -401,6 +416,16 @@
     Thiago Chiliatto, fundador da Antecipa Fácil;
     Fernando Castro, CEO da HypeFlame.
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
+
+### Marco legal das startups - 1,5 horas
+![Marco legal das startups](https://github.com/Alisson-JP/Certificados/blob/689e22dab71ddb0a8322b583d6f2b521abf9f712/PDFs/Ocean%20Talks/Marco%20legal%20das%20startups.png)
+
+    O que realmente muda com essa nova lei?
+    O que está sendo contemplado nela?
+    Como o país e as startups podem se beneficiar?
+    Juliana Crepalde: Diretora Técnica do Fórum dos Gestores de Inovação e Transferência de Tecnologia (FORTEC).
+    Newton Frateschi: responsável pela área de Ciência Tecnologia e Inovação da pasta de Campinas-SP.
+    Débora Moretti: co-fundadora e Diretora de Pontes e Criatividade da iBench.
 
 ---
 ### Python - 21 horas
