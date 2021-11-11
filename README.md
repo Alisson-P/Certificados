@@ -236,16 +236,24 @@
 
 ---
 
-### Blochchain
+### Blockchain - 4 horas
 
-   ### Introdução ao Blockchain - 2 horas
-   ![Intro Blochchain](https://github.com/Alisson-JP/Certificados/blob/f1a840db4021a7f9a3da11e3caf7bd73a8f5b190/PDFs/Blockchain/Introdu%C3%A7%C3%A3o%20ao%20Blockchain.png)
+### Introdução ao Blockchain - 2 horas
+![Intro Blochchain](https://github.com/Alisson-JP/Certificados/blob/f1a840db4021a7f9a3da11e3caf7bd73a8f5b190/PDFs/Blockchain/Introdu%C3%A7%C3%A3o%20ao%20Blockchain.png)
 
     Introdução ao Blockchain;
     Tipos de Blockchain;
     Aplicações de Blockchain;
     Plataformas de Blockchain.
 
+### Ferramentas de desenvolvimento de dApps e 
+### Contratos inteligentes para Blockchain Ethereum - 2 horas
+![Blochchain 2](https://github.com/Alisson-JP/Certificados/blob/e94be635356a5fcfbb9b0d522a8b5343ca0dbcbe/PDFs/Blockchain/Ferramentas%20de%20desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
+
+    Elaboração do contrato inteligente;
+    Construção do Front End;
+    Testes numa rede blockchain local.
+    
 ---
 
 ### Desenvolvimento Ágil - DevOps Git
