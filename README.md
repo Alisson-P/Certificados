@@ -1,4 +1,4 @@
-# Certificados - 331 horas
+# Certificados - 337 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 108 horas
+## Samsung Ocean - 114 horas
  
  ### Android - 24 horas
   
@@ -187,7 +187,7 @@
     ViewModel e LiveData
     
 ---
-### Backend - 6 horas
+### Backend - 9 horas
 
 ### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
 ![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
@@ -223,6 +223,27 @@
     Criação da collection
     Implementando a base de dados da nuvem na aplicação backend
     Testando todos os serviços online
+
+### Backend com NodeJs e Express (Parte 1) - 3 horas
+![Backend com NodeJs](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Backend%20Nuvem/Backend%20com%20NodeJs%20e%20Express%20(Parte%201).png)
+
+    O que exatamente é backend?;
+    Evolução do Backend;
+    REST (Verbos de comunicação: GET, POST, PUT, DELETE);
+    JSON;
+    Postman (Criando/fazendo requisições e organizando em collections);
+    JSON Viewer;
+    JavaScript: do frontend para o backend;
+    NodeJS;
+    Package Json;
+    NPM (Node Package Manager);
+    Benchmarking;
+    Criação do projeto;
+    Início do desenvolvimento da aplicação CRUD;
+    -> Create, Read (All/Single), Update & Delete;
+    -> Criar, Ler (Tudo ou Individual), Atualizar e Remover;
+    Node Express;
+    Body-Parser.
 
 ---
 ### Bixby
@@ -461,7 +482,7 @@
     Débora Moretti: co-fundadora e Diretora de Pontes e Criatividade da iBench.
 
 ---
-### Python - 21 horas
+### Python - 24 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
@@ -554,6 +575,10 @@
     Construindo a primeira página do site;
     Páginas estáticas vs páginas dinâmicas;
     Entendendo o que é servidor e porque precisamos dele;
+        
+### Programando para web com Python, CSS e HTML (Parte 2) - 3 horas
+![Programando para web com Python, CSS e HTML - parte 2](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%202).png)
+
     Django vs Flask: Entendendo o que são essas tecnologias;
     Implementando o Flask;
     Exibindo uma página simples;
