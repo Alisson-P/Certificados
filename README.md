@@ -1,4 +1,4 @@
-# Certificados - 326 horas
+# Certificados - 331 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 103 horas
+## Samsung Ocean - 108 horas
  
  ### Android - 24 horas
   
@@ -316,6 +316,22 @@
 
 ---
 
+### Frontend
+
+### Frontend Web com ReactJS: Introdução (Parte 1) - 3 horas
+![Introdução](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%201).png)
+
+    Criando o projeto;
+    Configurando o VSCode;
+    Familiarizando com JavaScript;
+    Implementando o React;
+    Entendendo os componentes;
+    Criando a primeira página;
+    Implementando componentes interativos;
+    Ferramentas de desenvolvedores: Inspecionar elementos.
+
+---
+
 ### IA - Inteligência artificial - 6 horas
 
 ### Ciência de Dados
@@ -400,7 +416,7 @@
 
 ---
 
-### Jogos Digitais
+### Jogos Digitais - 4 horas
 
 ### Introdução aos Jogos Digitais - 2 horas
 ![Introdução aos Jogos Digitais](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Jogos%20Digitais/Introdu%C3%A7%C3%A3o%20aos%20jogos%20digitais.png)
@@ -409,6 +425,15 @@
     Mercado de jogos digitais;
     Mecanismo de prototipação;
     Fluxo de trabalho.
+
+### Criação de Jogos 2D com Unity (Parte 1) - 2 horas
+![Jogos com Unity](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%201).png)
+
+    Sprites, folhas de sprites e animações;
+    Criação e uso de Prefabs;
+    Criação de scripts em C#;
+    Mecânica de jogo;
+    Interface de Usuário.
 
 ---
 
