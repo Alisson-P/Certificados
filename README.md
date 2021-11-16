@@ -39,7 +39,7 @@
 
 ## Simplilearn
 
-### Introduction to Cyber Security - 3 horas
+### Introduction to Cyber Security - 20 horas
 ![Cyber Security](https://github.com/Alisson-JP/Certificados/blob/229730162533d79139c6eb39cb32956aec47ed98/PDFs/Simplilearn/Introduction%20to%20Cyber%20security.png)
 
     Cybersecurity fundamentals
