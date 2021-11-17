@@ -1,4 +1,4 @@
-# Certificados - 337 horas
+# Certificados - 340 horas
 ---
 
 ## Uptime - English
@@ -39,7 +39,7 @@
 
 ## Simplilearn
 
-### Introduction to Cyber Security - 3 horas
+### Introduction to Cyber Security - 20 horas
 ![Cyber Security](https://github.com/Alisson-JP/Certificados/blob/229730162533d79139c6eb39cb32956aec47ed98/PDFs/Simplilearn/Introduction%20to%20Cyber%20security.png)
 
     Cybersecurity fundamentals
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 114 horas
+## Samsung Ocean - 117 horas
  
  ### Android - 24 horas
   
@@ -257,7 +257,7 @@
 
 ---
 
-### Blockchain - 4 horas
+### Blockchain - 7 horas
 
 ### Introdução ao Blockchain - 2 horas
 ![Intro Blochchain](https://github.com/Alisson-JP/Certificados/blob/f1a840db4021a7f9a3da11e3caf7bd73a8f5b190/PDFs/Blockchain/Introdu%C3%A7%C3%A3o%20ao%20Blockchain.png)
@@ -270,6 +270,14 @@
 ### Ferramentas de desenvolvimento de dApps e 
 ### Contratos inteligentes para Blockchain Ethereum - 2 horas
 ![Blochchain 2](https://github.com/Alisson-JP/Certificados/blob/e94be635356a5fcfbb9b0d522a8b5343ca0dbcbe/PDFs/Blockchain/Ferramentas%20de%20desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
+
+    Elaboração do contrato inteligente;
+    Construção do Front End;
+    Testes numa rede blockchain local.
+    
+
+### Desenvolvimento de dApps e Contratos inteligentes para Blockchain Ethereum - 3 horas
+![Blochchain 3](https://github.com/Alisson-JP/Certificados/blob/99a35e6c8f6865655e2d74a1acece21cac7035ec/PDFs/Blockchain/Desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
 
     Elaboração do contrato inteligente;
     Construção do Front End;
