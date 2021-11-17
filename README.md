@@ -1,4 +1,4 @@
-# Certificados - 340 horas
+# Certificados - 346 horas
 ---
 
 ## Uptime - English
@@ -39,7 +39,7 @@
 
 ## Simplilearn
 
-### Introduction to Cyber Security - 20 horas
+### Introduction to Cyber Security - 3 horas
 ![Cyber Security](https://github.com/Alisson-JP/Certificados/blob/229730162533d79139c6eb39cb32956aec47ed98/PDFs/Simplilearn/Introduction%20to%20Cyber%20security.png)
 
     Cybersecurity fundamentals
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 117 horas
+## Samsung Ocean - 123 horas
  
  ### Android - 24 horas
   
@@ -187,7 +187,7 @@
     ViewModel e LiveData
     
 ---
-### Backend - 9 horas
+### Backend - 12 horas
 
 ### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
 ![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
@@ -235,6 +235,10 @@
     JSON Viewer;
     JavaScript: do frontend para o backend;
     NodeJS;
+    
+### Backend com NodeJs e Express (Parte 2) - 3 horas
+![Backend com NodeJs 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Backend/Backend%20com%20NodeJs%20e%20Express%20(Parte%202).png)
+
     Package Json;
     NPM (Node Package Manager);
     Benchmarking;
@@ -345,7 +349,7 @@
 
 ---
 
-### Frontend
+### Frontend - 6 horas
 
 ### Frontend Web com ReactJS: Introdução (Parte 1) - 3 horas
 ![Introdução](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%201).png)
@@ -358,6 +362,14 @@
     Criando a primeira página;
     Implementando componentes interativos;
     Ferramentas de desenvolvedores: Inspecionar elementos.
+
+### Frontend Web com ReactJS (Parte 2) - 3 horas
+![Parte 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%202).png)
+
+    Qual a responsabilidade do Frontend?;
+    Avançando no ReactJS;
+    Construção de mais páginas para compor a aplicação;
+    Integrando com uma aplicação backend.
 
 ---
 
