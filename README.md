@@ -279,7 +279,6 @@
     Construção do Front End;
     Testes numa rede blockchain local.
     
-
 ### Desenvolvimento de dApps e Contratos inteligentes para Blockchain Ethereum - 3 horas
 ![Blochchain 3](https://github.com/Alisson-JP/Certificados/blob/99a35e6c8f6865655e2d74a1acece21cac7035ec/PDFs/Blockchain/Desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
 
