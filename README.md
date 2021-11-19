@@ -1,4 +1,4 @@
-# Certificados - 351 horas
+# Certificados - 354 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 128 horas
+## Samsung Ocean - 131 horas
  
  ### Android - 24 horas
   
