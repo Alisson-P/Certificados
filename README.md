@@ -1,4 +1,4 @@
-# Certificados - 348 horas
+# Certificados - 351 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 125 horas
+## Samsung Ocean - 128 horas
  
  ### Android - 24 horas
   
@@ -390,7 +390,17 @@
 
 ---
 
-### IA - Inteligência artificial - 6 horas
+### IA - Inteligência artificial - 9 horas
+
+### Introdução ao Deep Learning (Parte 1) - 3 horas
+![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
+
+    Introdução a IA;
+    Conceitos de aprendizado de máquina;
+    Tipos de Redes:
+    Redes neurais, redes neurais profundas, redes neurais convolucionais;
+    Hands on com python e keras;
+    Exemplos de aplicações.
 
 ### Ciência de Dados
 
