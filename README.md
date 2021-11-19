@@ -1,4 +1,4 @@
-# Certificados - 346 horas
+# Certificados - 348 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 123 horas
+## Samsung Ocean - 125 horas
  
  ### Android - 24 horas
   
@@ -187,6 +187,7 @@
     ViewModel e LiveData
     
 ---
+
 ### Backend - 12 horas
 
 ### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
@@ -250,6 +251,7 @@
     Body-Parser.
 
 ---
+
 ### Bixby
    
    ### Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface - 2 horas
@@ -308,7 +310,8 @@
        Ramificação.
 
 ---
-### Empreendedorismo - 7 horas
+
+### Empreendedorismo - 9 horas
 
 ### Ecossistemas de Inovação e Empreendedorismo - 2 horas
 ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
@@ -345,6 +348,21 @@
     Segmentação de clientes usando Jobs, dores e ganhos;
     Importância da segmentação de clientes;
     Exemplos de segmentação de clientes.
+
+### Construindo e validando a proposição de valor - 2 horas
+![Value Propposition Canvas](https://github.com/Alisson-JP/Certificados/blob/96393f8631892096faae45aecc8c131bd4cfa06f/PDFs/Empreendedorismo/Empreendedorismo:%20Construindo%20e%20validando%20a%20proposi%C3%A7%C3%A3o%20de%20valor.png) 
+
+    Value Propposition Canvas (VPC) como um subconjunto essencial do Business Model Canvas;
+    Os elementos constituintes do VPC: Perfil do Cliente e Mapa de Valor;
+    Critérios para selecionar Jobs, dores e ganhos;
+    Como definir os elementos do Mapa de Valor;
+    Exemplo de definição da proposição de valor usando o VPC;
+    Fórmula para comunicação da proposição de valor;
+    Ciclo Build-Measure-Learn revisado;
+    Identificando hipóteses para testar;
+    Definindo e priorizando experimentos;
+    Criando a solução durante a validação;
+    Exemplo de roteiro de validação.
 
 ---
 
@@ -501,6 +519,7 @@
     Débora Moretti: co-fundadora e Diretora de Pontes e Criatividade da iBench.
 
 ---
+
 ### Python - 24 horas
 
 ### Módulo 1 - 3 horas
@@ -607,6 +626,7 @@
     Conhecendo alternativas para hospedagem gratuita de sites sem servidor.
 
 ---
+
 ### UX - 12 horas
 
 ### Tópicos de UX para Design de Serviços - 3 horas
@@ -643,6 +663,7 @@
     Prática: Prototipando uma solução em IoT
     
  ---
+ 
  ### VR & AR
  
  ### V4: Realidade Aumentada: Laboratório com Unity e AR Foundation - 2 horas
