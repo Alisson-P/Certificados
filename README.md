@@ -390,10 +390,13 @@
 
 ---
 
-### IA - Inteligência artificial - 9 horas
+### IA - Inteligência artificial - 12 horas
 
 ### Introdução ao Deep Learning (Parte 1) - 3 horas
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
+
+### Introdução ao Deep Learning (Parte 2) - 3 horas
+![Intro DL 2](https://github.com/Alisson-JP/Certificados/blob/99b774b9121053f76d67422099759973f231ecbb/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%202).png)
 
     Introdução a IA;
     Conceitos de aprendizado de máquina;
