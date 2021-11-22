@@ -635,7 +635,7 @@
     Exibindo uma página simples;
     
 ### Programando para web com Python, CSS e HTML (Parte 3) - 3 horas
-![Programando para web com Python, CSS e HTML - parte 3]()
+![Programando para web com Python, CSS e HTML - parte 3](https://github.com/Alisson-JP/Certificados/blob/716e00563551bfbbc84193143f481ff538028d7d/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%203).png)
 
     Integrando a nossa página de HTML e CSS no servidor;
     Interagindo com o usuário através do HTML;
@@ -681,7 +681,7 @@
 
 
 ### Tópicos de UX para VR e AR - 3 horas
-![Tópicos de UX para Internet das Coisas]()
+![Tópicos de UX para Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/716e00563551bfbbc84193143f481ff538028d7d/PDFs/UX/T%C3%B3picos%20de%20UX%20para%20VR%20e%20AR.png)
 
     Conceitos fundamentais;
     VR Interface Design Manifesto;
