@@ -1,4 +1,4 @@
-# Certificados - 354 horas
+# Certificados - 361 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 131 horas
+## Samsung Ocean - 137 horas
  
  ### Android - 24 horas
   
@@ -533,7 +533,7 @@
 
 ---
 
-### Python - 24 horas
+### Python - 27 horas
 
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
@@ -625,22 +625,26 @@
     Conhecendo o CSS;
     Construindo a primeira página do site;
     Páginas estáticas vs páginas dinâmicas;
-    Entendendo o que é servidor e porque precisamos dele;
-        
+            
 ### Programando para web com Python, CSS e HTML (Parte 2) - 3 horas
 ![Programando para web com Python, CSS e HTML - parte 2](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%202).png)
 
+    Entendendo o que é servidor e porque precisamos dele;
     Django vs Flask: Entendendo o que são essas tecnologias;
     Implementando o Flask;
     Exibindo uma página simples;
+    
+### Programando para web com Python, CSS e HTML (Parte 3) - 3 horas
+![Programando para web com Python, CSS e HTML - parte 3]()
+
     Integrando a nossa página de HTML e CSS no servidor;
     Interagindo com o usuário através do HTML;
     Integrando código Python para geração dinâmica do HTML;
     Conhecendo alternativas para hospedagem gratuita de sites sem servidor.
-
+    
 ---
 
-### UX - 12 horas
+### UX - 15 horas
 
 ### Tópicos de UX para Design de Serviços - 3 horas
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
@@ -674,6 +678,18 @@
     Tópicos de UX para IoT
     Desafios e oportunidades
     Prática: Prototipando uma solução em IoT
+
+
+### Tópicos de UX para VR e AR - 3 horas
+![Tópicos de UX para Internet das Coisas]()
+
+    Conceitos fundamentais;
+    VR Interface Design Manifesto;
+    Ambientes imersivos: Games, VR e AR;
+    Tópicos especiais em UX - Design patterns;
+    Pilares projetuais em VR;
+    Cases;
+    UX para VR na prática.
     
  ---
  
