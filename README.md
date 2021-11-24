@@ -1,4 +1,4 @@
-# Certificados - 364 horas
+# Certificados - 367 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 140 horas
+## Samsung Ocean - 143 horas
  
  ### Android - 24 horas
   
@@ -403,7 +403,7 @@
 
 ---
 
-### IA - Inteligência artificial - 12 horas
+### IA - Inteligência artificial - 15 horas
 
 ### Introdução ao Deep Learning (Parte 1) - 3 horas
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
@@ -447,6 +447,17 @@
     Dados abertos; linguagem Python e as bibliotecas GeoPandas,
     Shapely e Folium na extração de informações de dados geográficos.
 
+### Entendendo e implementando Machine Learning com Orange - 3 horas
+![ML com Orange](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
+
+    Jupyter Notebook;
+    A biblioteca NumPy;
+    A biblioteca Pandas;
+    Dataframes com Pandas e Numpy;
+    Preparação e exploração de dados;
+    Transformação de dados;
+    Visualização de dados com Matplotlib;
+    
 ---
 
 ### Indústria 4.0 - 6 horas
