@@ -1,4 +1,4 @@
-# Certificados - 361 horas
+# Certificados - 364 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 137 horas
+## Samsung Ocean - 140 horas
  
  ### Android - 24 horas
   
@@ -292,8 +292,8 @@
 
 ### Desenvolvimento Ágil - DevOps Git
 
-   ### DevOps Git - 3 horas
-   ![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/e2439424d7f7d3461c510e7bcace19bfaa89f27c/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/DevOps%20Git.png)
+### DevOps Git - 3 horas
+![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/e2439424d7f7d3461c510e7bcace19bfaa89f27c/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/DevOps%20Git.png)
    
     Conceitos de engenharia de software para gerência de configuração; 
     Git como tecnologia de versionamento, conceitos;
@@ -308,6 +308,19 @@
        Essencial do Git;
        Repositórios remotos;
        Ramificação.
+
+---
+
+### Dispositivos Wearables
+
+### Introdução aos Dispositivos Wearables - 1 hora
+![Wearables](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/Dispositivos%20Wearables/Introdu%C3%A7%C3%A3o%20aos%20dispositivos%20Wearables.png)
+
+    Contextualização de wearables;
+    Smartwatch x Smartbands;
+    Conexões e sensores;
+    Samsung Health;
+    Introdução ao Tizen.
 
 ---
 
@@ -487,7 +500,7 @@
 
 ---
 
-### Jogos Digitais - 4 horas
+### Jogos Digitais - 6 horas
 
 ### Introdução aos Jogos Digitais - 2 horas
 ![Introdução aos Jogos Digitais](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Jogos%20Digitais/Introdu%C3%A7%C3%A3o%20aos%20jogos%20digitais.png)
@@ -500,11 +513,14 @@
 ### Criação de Jogos 2D com Unity (Parte 1) - 2 horas
 ![Jogos com Unity](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%201).png)
 
+### Criação de Jogos 2D com Unity (Parte 2) - 2 horas
+![Jogos com Unity 2](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%202).png)
+
     Sprites, folhas de sprites e animações;
     Criação e uso de Prefabs;
     Criação de scripts em C#;
     Mecânica de jogo;
-    Interface de Usuário.
+    Interface de Usuário.    
 
 ---
 
@@ -666,7 +682,7 @@
     Prática: projetando uma experiência ominicanal orquestrada por IA.
    
 ### Design Thinking - Conceitos e Práticas - 3 horas
-![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Desing%20Thinking/Design%20Thinking.png)
+![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/UX/Design%20Thinking.png)
    
        Introdução ao Design Thinking;
        Métodos, ferramentas e prática;
