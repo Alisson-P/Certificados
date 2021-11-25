@@ -290,14 +290,14 @@
     
 ---
 
-### Desenvolvimento Ágil - DevOps Git
+### Desenvolvimento Ágil
 
 ### DevOps Git - 3 horas
 ![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/e2439424d7f7d3461c510e7bcace19bfaa89f27c/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/DevOps%20Git.png)
    
     Conceitos de engenharia de software para gerência de configuração; 
     Git como tecnologia de versionamento, conceitos;
-    instalação e utilização na prática com o GitHub.
+    instalação e utilização na prática com o GitHub:
       
        Entendendo o que é Git e GItHub;
        Introdução;
