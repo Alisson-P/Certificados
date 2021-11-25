@@ -1,4 +1,4 @@
-# Certificados - 367 horas
+# Certificados - 370 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 143 horas
+## Samsung Ocean - 146 horas
  
  ### Android - 24 horas
   
@@ -671,7 +671,7 @@
     
 ---
 
-### UX - 15 horas
+### UX - 18 horas
 
 ### Tópicos de UX para Design de Serviços - 3 horas
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
@@ -717,6 +717,14 @@
     Pilares projetuais em VR;
     Cases;
     UX para VR na prática.
+
+### Oficina de Usabilidade - 3 horas
+![Usabilidade](https://github.com/Alisson-JP/Certificados/blob/100ed5778e8ae617e9e833eccbd5ddb8d1e0b2d0/PDFs/UX/Oficina%20de%20Usabilidade.png)
+
+    UX, UI e Usabilidade;
+    Usuário vs. Sistema;
+    10 heurísticas de usabilidade;
+    Exercícios aplicados.
     
  ---
  
