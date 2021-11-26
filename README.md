@@ -1,4 +1,4 @@
-# Certificados - 373 horas
+# Certificados - 376 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 149 horas
+## Samsung Ocean - 152 horas
  
  ### Android - 24 horas
   
@@ -290,10 +290,19 @@
     
 ---
 
-### Desenvolvimento Ágil
+### Desenvolvimento Ágil - 6 horas
+
+### Introdução - 3 horas
+![DevOps Git](https://github.com/Alisson-JP/Certificados/blob/e6eea907821971b972bc60b85562a153a30dc133/PDFs/Desenvolvimento%20%C3%81gil/Desenvolvimento%20%C3%81gil:%20Introdu%C3%A7%C3%A3o.png)
+
+    Ciclo de vida de software;
+    Metodologias de desenvolvimento;
+    Requisitos ágeis;
+    Construção ágil;
+    Teste de software.
 
 ### DevOps Git - 3 horas
-![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/e2439424d7f7d3461c510e7bcace19bfaa89f27c/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/DevOps%20Git.png)
+![DevOps Git](https://github.com/Alisson-JP/Certificados/blob/e6eea907821971b972bc60b85562a153a30dc133/PDFs/Desenvolvimento%20%C3%81gil/DevOps%20Git.png)
    
     Conceitos de engenharia de software para gerência de configuração; 
     Git como tecnologia de versionamento, conceitos;
