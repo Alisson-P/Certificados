@@ -1,4 +1,4 @@
-# Certificados - 370 horas
+# Certificados - 373 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 146 horas
+## Samsung Ocean - 149 horas
  
  ### Android - 24 horas
   
@@ -290,14 +290,14 @@
     
 ---
 
-### Desenvolvimento Ágil - DevOps Git
+### Desenvolvimento Ágil
 
 ### DevOps Git - 3 horas
 ![DevOps Git](https://github.com/Alisson-JP/CertificadosSO/blob/e2439424d7f7d3461c510e7bcace19bfaa89f27c/PDFs/Desenvolvimento%20%C3%81gil%20-%20DevOps%20Git/DevOps%20Git.png)
    
     Conceitos de engenharia de software para gerência de configuração; 
     Git como tecnologia de versionamento, conceitos;
-    instalação e utilização na prática com o GitHub.
+    instalação e utilização na prática com o GitHub:
       
        Entendendo o que é Git e GItHub;
        Introdução;
@@ -403,7 +403,7 @@
 
 ---
 
-### IA - Inteligência artificial - 15 horas
+### IA - Inteligência artificial - 18 horas
 
 ### Introdução ao Deep Learning (Parte 1) - 3 horas
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
@@ -447,8 +447,12 @@
     Dados abertos; linguagem Python e as bibliotecas GeoPandas,
     Shapely e Folium na extração de informações de dados geográficos.
 
-### Entendendo e implementando Machine Learning com Orange - 3 horas
-![ML com Orange](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
+### Entendendo e implementando Machine Learning com Orange (parte 2) - 3 horas
+![ML com Orange 2](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
+
+### Entendendo e implementando Machine Learning com Orange (parte 3)- 3 horas
+![ML com Orange 3](https://github.com/Alisson-JP/Certificados/blob/91908687bc2b0b2d67aae9d7a1844fdbbe505230/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%203).png)
+
 
     Jupyter Notebook;
     A biblioteca NumPy;
