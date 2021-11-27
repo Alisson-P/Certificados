@@ -1,4 +1,4 @@
-# Certificados - 382 horas
+# Certificados - 386 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 158 horas
+## Samsung Ocean - 162 horas
  
  ### Android - 24 horas
   
@@ -530,7 +530,7 @@
 
 ---
 
-### Jogos Digitais - 6 horas
+### Jogos Digitais - 10 horas
 
 ### Introdução aos Jogos Digitais - 2 horas
 ![Introdução aos Jogos Digitais](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Jogos%20Digitais/Introdu%C3%A7%C3%A3o%20aos%20jogos%20digitais.png)
@@ -553,6 +553,20 @@
     Criação de scripts em C#;
     Mecânica de jogo;
     Interface de Usuário.    
+
+### Modelagem 3D - 4 horas
+
+### Modelagem 3D para Jogos Digitais (Parte 1) - 2 horas
+![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%201).png)
+
+### Modelagem 3D para Jogos Digitais (Parte 2) - 2 horas
+![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%202).png)
+
+    Introdução à modelagem 3D e ao Maya;
+    Modelagem de sólidos geométricos;
+    Editando a malha poligonal;
+    Edição de UV e Texturas;
+    Exportando para o Unity.
 
 ---
 
