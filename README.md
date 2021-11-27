@@ -1,4 +1,4 @@
-# Certificados - 376 horas
+# Certificados - 382 horas
 ---
 
 ## Uptime - English
@@ -93,7 +93,7 @@
 
 ---
 
-## Samsung Ocean - 152 horas
+## Samsung Ocean - 158 horas
  
  ### Android - 24 horas
   
@@ -412,7 +412,9 @@
 
 ---
 
-### IA - Inteligência artificial - 18 horas
+### IA - Inteligência artificial - 21 horas
+
+### Deep Learning - 6 horas
 
 ### Introdução ao Deep Learning (Parte 1) - 3 horas
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
@@ -427,7 +429,7 @@
     Hands on com python e keras;
     Exemplos de aplicações.
 
-### Ciência de Dados
+### Ciência de Dados - 6 horas
 
 ### Fundamentos de Análise de Dados com Orange - 3 horas
 ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/Certificados/blob/fb448fdccd61b386899fa75cdb31dd0487bf13a3/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Dados%20Orange.png)
@@ -456,12 +458,16 @@
     Dados abertos; linguagem Python e as bibliotecas GeoPandas,
     Shapely e Folium na extração de informações de dados geográficos.
 
+### Machine Learning com Orange - 9 Horas
+
+### Entendendo e implementando Machine Learning com Orange (parte 1) - 3 horas
+![ML com Orange 1](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Machine%20Learning:%20Entendendo%20e%20implementando%20com%20Orange.png)
+
 ### Entendendo e implementando Machine Learning com Orange (parte 2) - 3 horas
 ![ML com Orange 2](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
 
 ### Entendendo e implementando Machine Learning com Orange (parte 3)- 3 horas
 ![ML com Orange 3](https://github.com/Alisson-JP/Certificados/blob/91908687bc2b0b2d67aae9d7a1844fdbbe505230/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%203).png)
-
 
     Jupyter Notebook;
     A biblioteca NumPy;
@@ -533,6 +539,8 @@
     Mercado de jogos digitais;
     Mecanismo de prototipação;
     Fluxo de trabalho.
+
+### Unity - 4 horas
 
 ### Criação de Jogos 2D com Unity (Parte 1) - 2 horas
 ![Jogos com Unity](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%201).png)
@@ -684,7 +692,7 @@
     
 ---
 
-### UX - 18 horas
+### UX - 21 horas
 
 ### Tópicos de UX para Design de Serviços - 3 horas
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
@@ -704,6 +712,15 @@
     Desafios e oportunidades;
     Tendências e cases;
     Prática: projetando uma experiência ominicanal orquestrada por IA.
+
+### Tópicos de UX para IA: Interfaces Conversacionais - 3 horas
+![Tópicos de UX para IA: Interfaces Conversacionais](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/UX/T%C3%B3picos%20de%20UX%20para%20IA:%20Interfaces%20Conversacionais.png)
+
+    Conceitos da  GUI (Graphical User Interface) ao VUI (Voice User Interface);
+    Desafios e oportunidades;
+    Tendências e cases;
+    Prática: prototipação de uma VUI.
+
    
 ### Design Thinking - Conceitos e Práticas - 3 horas
 ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/UX/Design%20Thinking.png)
