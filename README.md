@@ -12,7 +12,58 @@
 ## 4Linux - Open Software Specialists
 
 ### Segurança em Servidores Linux - 40 horas
-![Segurança em Servidores Linux](https://github.com/Alisson-JP/Certificados/blob/fcf4707c1827b632e49372de21b10303f1b75171/PDFs/Linux/4Linux%20-%20Seguran%C3%A7a%20em%20Servidores%20Linux.pdf)
+![Segurança em Servidores Linux](https://github.com/Alisson-JP/Certificados/blob/6d68d3c4785ed5ddee412d7feb59203cfb6b0282/PDFs/Linux/4Linux%20-%20Seguran%C3%A7a%20em%20Servidores%20Linux.png)
+
+    ### Hardening
+    Configurações de Segurança Pós Instalação
+    TCP Wrappers e OPENSSH
+    Controle de Acesso com PAM
+    Trabalhando com ACLs de File System e Atributos Extendidos
+    Trabalhando graficamente com ACLsgetfacl / setfaclgetfattr / setfattr
+
+    ### Criptografia de Discos
+    dm-crypt com LUKS (Linux Unified Key Setup-on-disk-format)
+
+    ### OpenSSL e GPG (GNU Privacy Guard)
+    Geração de Certificado
+    Certificados do tipo Auto-Assinado
+    Criação de CA
+    Gerenciamento de Chaves Múltiplas
+
+    ### Isolamento de Serviços
+    Configurando as Aplicações em Chroot
+
+    ### Utilização do SYSLOG-NG
+    Administração e Monitoramento de logs no sistema
+    Sistema de Log Local e Remoto
+
+    ### HIDS (Host Intrusion Detection System)
+    Puppet
+    Tripwire
+    AIDE
+    OSSEC
+
+    ### IDS / IPS
+    Snort
+    Interface de Gerenciamento com AcidBase
+    Snort em Modo Brigde
+    Guardian
+
+    ### Processo de Auditoria
+    Nessus
+    SElinux
+    Implementação de Regras de Acesso com SELinux
+    Adicionando/Removendo regra por linha de comando
+    setenforce/getenforce
+    fixfiles/setfiles
+
+    ### Segurança utilizando Firewalls
+    Manipulando as tabelas Filter e Nat
+    iptables-save/iptables-restore
+
+    ### VPN – OpenVPN
+    Server – to – Host
+    Server – to – Server
 
 
 ## 4Linux - Open Software Specialists
