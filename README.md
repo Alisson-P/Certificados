@@ -11,6 +11,12 @@
 
 ## 4Linux - Open Software Specialists
 
+### Segurança em Servidores Linux - 40 horas
+![Segurança em Servidores Linux](https://github.com/Alisson-JP/Certificados/blob/fcf4707c1827b632e49372de21b10303f1b75171/PDFs/Linux/4Linux%20-%20Seguran%C3%A7a%20em%20Servidores%20Linux.pdf)
+
+
+## 4Linux - Open Software Specialists
+
 ### Linux Fundamentals - 20 horas
 ![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/8df6fda49cdc62cf672b29475188aff3211bd66a/PDFs/Linux/4Linux%20Essentials.png)
 
