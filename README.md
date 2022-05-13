@@ -156,8 +156,7 @@
 
 ## Selos de Avaliação e Competência do Linkedin
 
-   ### Confira abaixo ou diretamento na página do perfil no Linkedin
-![foto](https://github.com/Alisson-JP/Certificados/blob/46c1de4793d534e4e05b4841a0b4a0e39656d5c9/PDFs/UX/Foto%20perfil%20Linkedin.png)
+### Confira abaixo ou diretamento na página do perfil no Linkedin
 ![Perfil no Linkedin](https://www.linkedin.com/in/alisson-jp/) <== Clique para acessar!!!
 
 ### Python
