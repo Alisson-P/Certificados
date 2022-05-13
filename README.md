@@ -1,4 +1,4 @@
-# Certificados - 389 horas
+# Certificados - 429 horas
 ---
 
 ## Uptime - English
