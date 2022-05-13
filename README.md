@@ -61,7 +61,7 @@
     Manipulando as tabelas Filter e Nat
     iptables-save/iptables-restore
 
-    ### VPN – OpenVPN
+   ### VPN – OpenVPN
     Server – to – Host
     Server – to – Server
 
@@ -91,6 +91,45 @@
     Comandos do GNU/Linux;
     Localização no sistema - Find e Locate;
     Laboratório 1, 2, 3.
+    
+## NDG - CISCO
+
+### LPI Linux Unhatched
+![LPI 1](https://github.com/Alisson-JP/Certificados/blob/a69ad61b4bbd214c5b29cd6621c5f97330f67968/PDFs/Linux/AlissonJoabe%20Pereira-NDG%20Linux%20Unhatc-certificate.png)
+
+    Command Line Basics (PT)
+    Using Directories and Listing Files (PT)
+    Creating, Moving, and Deleting Files (PT)
+    Searching and Extracting Data from Files (PT)
+    Turning Commands Into a Scripts (PT)
+    Where Data is Stored (PT)
+    Your Computer on the Network (PT)
+    Basic Security and Identifying User Types (PT)
+    Managing File Permissions and Ownership (PT)
+
+## NDG - CISCO
+
+### LPI Linux Essentials
+![LPI 1](https://github.com/Alisson-JP/Certificados/blob/a69ad61b4bbd214c5b29cd6621c5f97330f67968/PDFs/Linux/AlissonJoabe%20Pereira-NDG%20Linux%20Essent-certificate.png)
+
+    Introduction to Linux
+    Operating Systems
+    Working in Linux
+    Open Source Software and Licensing
+    Command Line Skills
+    Getting Help
+    Navigating the Filesystem
+    Managing Files and Directories
+    Archiving and Compression
+    Working with Text
+    Basic Scripting
+    Understanding Computer Hardware
+    Where Data is Stored
+    Network Configuration
+    System and User Security
+    Creating Users and Groups
+    Ownership and Permissions
+    Special Directories and Files
 
 ---
 
