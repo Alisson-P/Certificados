@@ -61,6 +61,7 @@
 - [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
 - [Frontend Web com ReactJS (Parte 2)](#ancora41)
 
+<a id="ancoraandroid"></a>
 ## Android
 - [Programação Kotlin e Android Studio ](#ancora17)
 - [Laboratório](#ancora18)
@@ -414,6 +415,7 @@
          Manipulando elementos de interface;
          Validando informações digitadas e exibindo erros de validação.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
   
   <a id="ancora18"></a>
@@ -428,6 +430,7 @@
          Importando bibliotecas pelo Gradle;
          Persistência de dados com Instance State.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
 
   <a id="ancora19"></a>
@@ -439,6 +442,7 @@
       Preparando o acesso ao GPS (serviço de localização);
       Utilizando o GPS, recebendo dados de localização em tempo real.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
   
   <a id="ancora20"></a>
@@ -453,6 +457,7 @@
       Exibindo o conteúdo carregado;
       Realizando o monitoramento das conexões com o Network Profiling;
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
   
   <a id="ancora21"></a>
@@ -465,6 +470,7 @@
       Conhecendo alternativas de implementação em Kotlin;
       Falando um pouco sobre o RX.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
   
   <a id="ancora22"></a>
@@ -477,6 +483,7 @@
       Criação da Base de Dados
       Utilização da Base de Dados
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
     
   <a id="ancora23"></a>
@@ -493,6 +500,7 @@
       Conectando o serviço de mensageria com a exibição das notificações
       Dicas e próximos passos
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora24"></a>
@@ -503,6 +511,7 @@
     Android Jetpack
     ViewModel e LiveData
 - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
     
 ---
