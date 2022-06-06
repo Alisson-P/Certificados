@@ -37,7 +37,15 @@
 # Samsung Ocean - 165 horas
 <a id="ancorasamsungocean"></a>
 ## Android - 24 horas
-- [Kotlin](#ancora17)
+- [Programação Kotlin e Android Studio ](#ancora18)
+- [Laboratório](#ancora19)
+- [GPS com Google Maps](#ancora20)
+- [Webservices com Retrofit e Imagens com Glide](#ancora21)
+- [Listas com RecyclerView e Multithread](#ancora22)
+- [Banco de Dados - Room](#ancora23)
+- [Push Notification com Firebase](#ancora24)
+- [Android Jetpack e Arquitetura](#ancora25)
+
 ---
 <a id="ancora1"></a>
 ## Uptime - English
@@ -301,6 +309,8 @@
          Mecanismo de tradução;
          Manipulando elementos de interface;
          Validando informações digitadas e exibindo erros de validação.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
   
   ### Laboratório - 3 horas
   <a id="ancora19"></a>
@@ -313,7 +323,9 @@
          Trabalhando com recursos de feedback de UI: Toast, Snackbar, Dialogs;
          Importando bibliotecas pelo Gradle;
          Persistência de dados com Instance State.
-     
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
+
   ### GPS com Google Maps - 3 horas
   <a id="ancora20"></a>
   ![GPS com Google Maps](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/GPS.png)
@@ -322,6 +334,8 @@
     Exibindo e interagindo com o mapa do Google Maps;
     Preparando o acesso ao GPS (serviço de localização);
     Utilizando o GPS, recebendo dados de localização em tempo real.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
   
   ### Webservices com Retrofit e Imagens com Glide - 3 horas 
   <a id="ancora21"></a>
@@ -334,6 +348,8 @@
     convertendo texto em JSON para objetos na linguagem de programação;
     Exibindo o conteúdo carregado;
     Realizando o monitoramento das conexões com o Network Profiling;
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
   
   ### Listas com RecyclerView e Multithread - 3 horas
   <a id="ancora22"></a>
@@ -344,6 +360,8 @@
     Entendendo uma Async-Task;
     Conhecendo alternativas de implementação em Kotlin;
     Falando um pouco sobre o RX.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
   
   ### Banco de Dados - Room - 3 horas
   <a id="ancora23"></a>
@@ -354,7 +372,9 @@
     Configuração da Base de Dados
     Criação da Base de Dados
     Utilização da Base de Dados
-
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
+    
   ### Push Notification com Firebase - 3 horas
   <a id="ancora24"></a>
   ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/9f686e789851a78a82c2bb7b46de5fbadd968df8/PDFs/Android/Android%20Push%20Notification%20com%20Firebase.png) 
@@ -368,6 +388,8 @@
     Testando a exibição de push notifications local
     Conectando o serviço de mensageria com a exibição das notificações
     Dicas e próximos passos
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
 
 ### Android Jetpack e Arquitetura - 3 horas
 <a id="ancora25"></a>
@@ -376,6 +398,8 @@
     Revisão Geral
     Android Jetpack
     ViewModel e LiveData
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar ao topo](#ancora)
     
 ---
 
