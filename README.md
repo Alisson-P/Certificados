@@ -158,7 +158,7 @@
 
 ![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
 
-- [Voltar](#ancora)
+- [Voltar ao topo](#ancora)
 ---
 
 ## 4Linux - Open Software Specialists
