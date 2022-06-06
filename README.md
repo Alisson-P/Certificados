@@ -1414,6 +1414,7 @@
 - [Voltar Microsoft](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
+<a id="ancora83"></a>
 ## Windows
 ![NerdIn](https://github.com/Alisson-JP/Certificados/blob/5a295e9f5a6da829e4d34d469f0a1f9c137e8a06/PDFs/Microsoft/Windows%20NerdIn.png)
 - [Voltar Microsoft](#ancoramicrosoft)
