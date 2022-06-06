@@ -1,12 +1,14 @@
 # N Certificados - 429 horas
 
-# Inglês - Uptime
 <a name="ancora"></a>
+
+# Inglês - Uptime
+
 - [Advanced English](#ancora1)
 
 # Linux - 100 horas
 - [Segurança em Servidores](#ancora2)
-- [Mizukage](#ancora3)
+- [Linux Fundamentals](#ancora3)
 - [Raikage](#ancora4)
 - [Tsuchikage](#ancora4)
 
@@ -23,7 +25,7 @@
 
 ## 4Linux - Open Software Specialists
 
-<a id="ancora1"></a>
+<a id="ancora2"></a>
 
 ### Segurança em Servidores Linux - 40 horas
 ![Segurança em Servidores Linux](https://github.com/Alisson-JP/Certificados/blob/6d68d3c4785ed5ddee412d7feb59203cfb6b0282/PDFs/Linux/4Linux%20-%20Seguran%C3%A7a%20em%20Servidores%20Linux.png)
@@ -83,6 +85,8 @@
 
 ## 4Linux - Open Software Specialists
 
+<a id="ancora3"></a>
+
 ### Linux Fundamentals - 20 horas
 ![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/8df6fda49cdc62cf672b29475188aff3211bd66a/PDFs/Linux/4Linux%20Essentials.png)
 
@@ -106,6 +110,8 @@
     Comandos do GNU/Linux;
     Localização no sistema - Find e Locate;
     Laboratório 1, 2, 3.
+    
+- [Voltar](#ancora)
     
 ## NDG - CISCO
 
