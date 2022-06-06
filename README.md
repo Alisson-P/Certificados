@@ -15,6 +15,24 @@
 - [Linux Unhatched](#ancora4)
 - [Linux Essentials](#ancora5)
 
+#Cyber Security
+## Simplilearn
+- [Introduction to cyber security](#ancora6)
+
+#Selos de Avaliação e Competência do Linkedin
+- [Azure](#ancora7)
+- [Python](#ancora8)
+- [Bash](#ancora9)
+- [Cibersegurança](#ancora10)
+- [Git](#ancora11)
+- [Linux](#ancora12)
+- [Operações de TI](#ancora13)
+- [Excel](#ancora14)
+- [Word](#ancora15)
+- [Powerpoint](#ancora16)
+
+
+
 ---
 <a id="ancora1"></a>
 ## Uptime - English
@@ -133,9 +151,8 @@
 
 - [Voltar](#ancora)
 ## NDG - CISCO
-
-### LPI Linux Essentials
 <a id="ancora5"></a>
+### LPI Linux Essentials
 ![LPI 1](https://github.com/Alisson-JP/Certificados/blob/a69ad61b4bbd214c5b29cd6621c5f97330f67968/PDFs/Linux/AlissonJoabe%20Pereira-NDG%20Linux%20Essent-certificate.png)
 
     Introduction to Linux
@@ -161,6 +178,7 @@
 ---
 
 ## Simplilearn
+<a id="ancora6"></a>
 
 ### Introduction to Cyber Security - 3 horas
 ![Cyber Security](https://github.com/Alisson-JP/Certificados/blob/229730162533d79139c6eb39cb32956aec47ed98/PDFs/Simplilearn/Introduction%20to%20Cyber%20security.png)
@@ -178,7 +196,7 @@
     Incident management
     Business continuity
     Disaster recovery
-
+- [Voltar](#ancora)
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
