@@ -29,7 +29,7 @@
 - [Carta de Mérito](#ancora81)
 
 <a name="ancoramicrosoft"></a>
-# Microoft
+# Microsoft
    ## Azure
    - [SC-900](#ancora82)
    
@@ -1409,8 +1409,8 @@
       Fundamentos de segurança
       Switchs
       Laboratórios via Packet Tracer
-- [Voltar Microsoft](#ancorasamsungocean)
-- [Voltar CISCO](#ancoravrear)
+- [Voltar CISCO](#ancoracisco)
+- [Voltar CCNA](#ancoraccna)
 - [Voltar ao topo](#ancora)      
 
 
@@ -1419,7 +1419,8 @@
 ![Carta de Mérito](https://github.com/Alisson-JP/Certificados/blob/ae594baa4bf3f5e0443c55f98c369705d2130a4b/PDFs/Cisco/Carta%20de%20M%C3%A9rito.png)
 
       Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. Ela serve para confirmar o nível de excelência alcançado.
-
+- [Voltar CISCO](#ancoracisco)
+- [Voltar ao topo](#ancora)   
 
 ---
  
@@ -1452,7 +1453,8 @@
       Risco interno
       Auditoria e soluções de eDiscovery
       Recursos de governança de recursos do Azure.
-
+- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
 
 ## Windows
 ![SC-900](https://github.com/Alisson-JP/Certificados/blob/5a3eb6ce40389263b7f00b92eff2549d598d7809/PDFs/Microsoft/Windows%20NerdIn.png)
