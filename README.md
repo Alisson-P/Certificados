@@ -17,9 +17,11 @@
 - [Linux Essentials](#ancora5)
 
 # Cyber Security
+<a name="ancorasimplilearn"></a>
 ## Simplilearn
 - [Introduction to cyber security](#ancora6)
 
+<a name="ancoraselosdolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
 - [Azure](#ancora7)
 - [Python](#ancora8)
