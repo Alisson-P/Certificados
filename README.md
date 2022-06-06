@@ -464,6 +464,10 @@
     Realizando operações simples (inserção, consulta, atualização e remoção) na base de dados;
     Integração do MongoDB com o NodeJS utilizando a própria biblioteca do MongoDB;
     Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Backend](#ancorabackend)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora26"></a>
 ### Integrando os serviços de backend na nuvem - 3 horas
@@ -483,6 +487,10 @@
     Criação da collection
     Implementando a base de dados da nuvem na aplicação backend
     Testando todos os serviços online
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Backend](#ancorabackend)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora27"></a>
 ### Backend com NodeJs e Express (Parte 1) - 3 horas
@@ -496,6 +504,10 @@
     JSON Viewer;
     JavaScript: do frontend para o backend;
     NodeJS;
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Backend](#ancorabackend)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora28"></a>
 ### Backend com NodeJs e Express (Parte 2) - 3 horas
@@ -510,6 +522,10 @@
     -> Criar, Ler (Tudo ou Individual), Atualizar e Remover;
     Node Express;
     Body-Parser.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Backend](#ancorabackend)
+- [Voltar ao topo](#ancora)
+
 
 ---
 
@@ -523,6 +539,10 @@
       Descrição do assistente de voz Bixby;
       As diversas oportunidades oferecidas pela Samsung e pelo mercado.
 
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Bixby](#ancorabixby)
+- [Voltar ao topo](#ancora)
+
 ---
 
 ### Blockchain - 7 horas
@@ -535,6 +555,10 @@
     Tipos de Blockchain;
     Aplicações de Blockchain;
     Plataformas de Blockchain.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Blockchain](#ancorablockchain)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora31"></a>
 ### Ferramentas de desenvolvimento de dApps e 
@@ -544,6 +568,10 @@
     Elaboração do contrato inteligente;
     Construção do Front End;
     Testes numa rede blockchain local.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Blockchain](#ancorablockchain)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora32"></a>
 ### Desenvolvimento de dApps e Contratos inteligentes para Blockchain Ethereum - 3 horas
@@ -552,7 +580,11 @@
     Elaboração do contrato inteligente;
     Construção do Front End;
     Testes numa rede blockchain local.
-    
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Blockchain](#ancorablockchain)
+- [Voltar ao topo](#ancora)
+
+
 ---
 
 ### Desenvolvimento Ágil - 6 horas
@@ -566,6 +598,10 @@
     Requisitos ágeis;
     Construção ágil;
     Teste de software.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - DevOps](#ancoradevops)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora34"></a>
 ### DevOps Git - 3 horas
@@ -584,6 +620,9 @@
        Essencial do Git;
        Repositórios remotos;
        Ramificação.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - DevOps](#ancoradevops)
+- [Voltar ao topo](#ancora)
 
 ---
 
@@ -599,6 +638,10 @@
     Samsung Health;
     Introdução ao Tizen.
 
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Dispositovos Wearables](#ancoradispwearables)
+- [Voltar ao topo](#ancora)
+
 ---
 
 ### Empreendedorismo - 9 horas
@@ -611,6 +654,10 @@
       Os Núcleos de Inovação Tecnológica;
       Ecossistemas de Inovação Nacionais e Internacionais;
       O papel da Universidade como supridor de talentos e conhecimento aos ecossistemas.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora37"></a>
 ### Design Thinking aplicado a Startups - 2 horas
@@ -625,6 +672,10 @@
     pesquisa desk; netnografia, entre outras. 
     Técnicas de ideação: Brainstorming, Brainwriting; Mindmapping, entre outras; 
     Técnicas de prototipação; Critérios de Seleção de ideias inovadoras.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora38"></a>
 ### Identificando o cliente e o problema - 3 horas
@@ -641,6 +692,10 @@
     Segmentação de clientes usando Jobs, dores e ganhos;
     Importância da segmentação de clientes;
     Exemplos de segmentação de clientes.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora39"></a>
 ### Construindo e validando a proposição de valor - 2 horas
@@ -657,6 +712,10 @@
     Definindo e priorizando experimentos;
     Criando a solução durante a validação;
     Exemplo de roteiro de validação.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar ao topo](#ancora)
+
 
 ---
 
@@ -674,6 +733,10 @@
     Criando a primeira página;
     Implementando componentes interativos;
     Ferramentas de desenvolvedores: Inspecionar elementos.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Frontend](#ancorafrontend)
+- [Voltar ao topo](#ancora)
+
 
 ### Frontend Web com ReactJS (Parte 2) - 3 horas
 ![Parte 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%202).png)
@@ -682,6 +745,10 @@
     Avançando no ReactJS;
     Construção de mais páginas para compor a aplicação;
     Integrando com uma aplicação backend.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Samsung Ocean - Frontend](#ancorafrontend)
+- [Voltar ao topo](#ancora)
+
 
 ---
 
