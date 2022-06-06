@@ -1,25 +1,36 @@
 <a name="ancora"></a>
 
-# N Certificados - 429 horas
+# 83 Certificados > 500 horas
 
 # Inglês - Uptime
 
 - [Advanced English](#ancora1)
 
-# Linux
 <a name="ancoralinux"></a>
+# Linux
    ## 4Linux Open Software Specialists
    - [Segurança em Servidores](#ancora2)
    - [Linux Fundamentals](#ancora3)
+   - [NerdIn](#ancora79)
 
    ## CISCO - LPI
    - [Linux Unhatched](#ancora4)
    - [Linux Essentials](#ancora5)
 
-# Cyber Security
 <a name="ancorasimplilearn"></a>
+# Cyber Security
    ## Simplilearn
    - [Introduction to cyber security](#ancora6)
+
+<a name="ancoraccna"></a>
+# CCNA 1
+- [Badge CCNA1](#ancora80)
+- [Carta de Mérito](#ancora81)
+
+<a name="ancorawindows"></a>
+# Windows | Azure
+- [SC-900](#ancora82)
+- [NerdIn](#ancora83)
 
 <a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
