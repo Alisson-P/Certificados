@@ -7,6 +7,7 @@
 - [Advanced English](#ancora1)
 
 # Linux - 100 horas
+<a name="ancoralinux"></a>
 ## 4Linux Open Software Specialists
 - [Segurança em Servidores](#ancora2)
 - [Linux Fundamentals](#ancora3)
@@ -102,7 +103,9 @@
     Server – to – Host
     Server – to – Server
 
-- [Voltar](#ancora)
+- [Voltar Linux](#ancoralinux)
+- [Voltar ao topo](#ancora)
+
 
 ## 4Linux - Open Software Specialists
 
@@ -132,7 +135,8 @@
     Localização no sistema - Find e Locate;
     Laboratório 1, 2, 3.
     
-- [Voltar](#ancora)
+- [Voltar Linux](#ancoralinux)
+- [Voltar ao topo](#ancora)
     
 ## NDG - CISCO
 <a id="ancora4"></a>
@@ -149,7 +153,9 @@
     Basic Security and Identifying User Types (PT)
     Managing File Permissions and Ownership (PT)
 
-- [Voltar](#ancora)
+- [Voltar Linux](#ancoralinux)
+- [Voltar ao topo](#ancora)
+
 ## NDG - CISCO
 <a id="ancora5"></a>
 ### LPI Linux Essentials
@@ -173,7 +179,9 @@
     Creating Users and Groups
     Ownership and Permissions
     Special Directories and Files
-- [Voltar](#ancora)
+    
+- [Voltar Linux](#ancoralinux)
+- [Voltar ao topo](#ancora)
 
 ---
 
@@ -196,65 +204,78 @@
     Incident management
     Business continuity
     Disaster recovery
-- [Voltar](#ancora)
+
+- [Voltar Simplilearn](#ancorasimplilearn)
+- [Voltar ao topo](#ancora)
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
 <a id="ancora7"></a>
 ### Azure
 ![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora8"></a>
 ### Python
 ![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora9"></a>
 ### Bash
 ![Bash](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Bash.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora10"></a>
 ### Cibersegurança
 ![Cibersegurança](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Ciberseguran%C3%A7a.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora11"></a>
 ### Git
 ![Git](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20GIT.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora12"></a>
 ### Linux
 ![Linux](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Linux.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora13"></a>
 ### Operações de TI
 ![Operações de TI](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Opera%C3%A7%C3%B5es%20de%20TI.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora14"></a>
 ### Excel
 ![Excel](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Excel.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora15"></a>
 ### Word
 ![Word](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Word.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora16"></a>
 ### Powerpoint
 ![Powerpoint](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20PowerPoint.png)
-- [Voltar](#ancora)
+- [Voltar Selos Linkedin](#ancoraselolinkedin)
+- [Voltar ao topo](#ancora)
 
 ---
 
 ## Samsung Ocean - 165 horas
- 
+<a id="ancora17"></a>
  ### Android - 24 horas
+ <a id="ancora18"></a>
   
   ### Introdução - 3 horas
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png)
@@ -278,6 +299,7 @@
          Validando informações digitadas e exibindo erros de validação.
   
   ### Laboratório - 3 horas
+  <a id="ancora19"></a>
   ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png)
   
          Correção do desafio proposto no curso "Android - Introdução" - Criando mais de uma Activity;
@@ -289,6 +311,7 @@
          Persistência de dados com Instance State.
      
   ### GPS com Google Maps - 3 horas
+  <a id="ancora20"></a>
   ![GPS com Google Maps](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/GPS.png)
   
     Configurando o Google Maps com o Google Play Services no Android;
@@ -297,6 +320,7 @@
     Utilizando o GPS, recebendo dados de localização em tempo real.
   
   ### Webservices com Retrofit e Imagens com Glide - 3 horas 
+  <a id="ancora21"></a>
   ![Webservices com Retrofit e Imagens com Glide](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Web%20Retro%20Glide.png)
   
     Entendendo o significado de JSON e API Rest;
@@ -308,6 +332,7 @@
     Realizando o monitoramento das conexões com o Network Profiling;
   
   ### Listas com RecyclerView e Multithread - 3 horas
+  <a id="ancora22"></a>
   ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Recycler%20View.png)
   
     Entendendo o conceito de multithreading no Android;
@@ -317,6 +342,7 @@
     Falando um pouco sobre o RX.
   
   ### Banco de Dados - Room - 3 horas
+  <a id="ancora23"></a>
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Room.png) 
 
     Introdução ao SQL e ao SQLite
@@ -326,6 +352,7 @@
     Utilização da Base de Dados
 
   ### Push Notification com Firebase - 3 horas
+  <a id="ancora24"></a>
   ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/9f686e789851a78a82c2bb7b46de5fbadd968df8/PDFs/Android/Android%20Push%20Notification%20com%20Firebase.png) 
   
     Apresentação do Firebase
@@ -339,6 +366,7 @@
     Dicas e próximos passos
 
 ### Android Jetpack e Arquitetura - 3 horas
+<a id="ancora25"></a>
 ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/Android/Captura%20de%20tela%20de%202021-10-30%2013-25-13.png) 
 
     Revisão Geral
