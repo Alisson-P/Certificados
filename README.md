@@ -738,6 +738,7 @@
 - [Voltar ao topo](#ancora)
 
 
+<a id="ancora41"></a>
 ### Frontend Web com ReactJS (Parte 2) - 3 horas
 ![Parte 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%202).png)
 
@@ -756,9 +757,11 @@
 
 ### Deep Learning - 6 horas
 
+<a id="ancora42"></a>
 ### Introdução ao Deep Learning (Parte 1) - 3 horas
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
 
+<a id="ancora43"></a>
 ### Introdução ao Deep Learning (Parte 2) - 3 horas
 ![Intro DL 2](https://github.com/Alisson-JP/Certificados/blob/99b774b9121053f76d67422099759973f231ecbb/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%202).png)
 
@@ -769,8 +772,10 @@
     Hands on com python e keras;
     Exemplos de aplicações.
 
+
 ### Ciência de Dados - 6 horas
 
+<a id="ancora44"></a>
 ### Fundamentos de Análise de Dados com Orange - 3 horas
 ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/Certificados/blob/fb448fdccd61b386899fa75cdb31dd0487bf13a3/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Dados%20Orange.png)
    
@@ -781,6 +786,7 @@
     isualização de dados;
     Introdução aos algoritmos de Machine Learning.
 
+<a id="ancora45"></a>
 ### Análise de dados geográficos com Python- 3 horas
 ![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/326e0ebb4553f02771e48e7bdddab901e5f9c608/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Python%20-%20An%C3%A1lise%20de%20Dados%20Geogr%C3%A1ficos.png)
 
@@ -800,12 +806,15 @@
 
 ### Machine Learning com Orange - 9 Horas
 
+<a id="ancora46"></a>
 ### Entendendo e implementando Machine Learning com Orange (parte 1) - 3 horas
 ![ML com Orange 1](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Machine%20Learning:%20Entendendo%20e%20implementando%20com%20Orange.png)
 
+<a id="ancora47"></a>
 ### Entendendo e implementando Machine Learning com Orange (parte 2) - 3 horas
 ![ML com Orange 2](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
 
+<a id="ancora48"></a>
 ### Entendendo e implementando Machine Learning com Orange (parte 3)- 3 horas
 ![ML com Orange 3](https://github.com/Alisson-JP/Certificados/blob/91908687bc2b0b2d67aae9d7a1844fdbbe505230/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%203).png)
 
@@ -821,6 +830,7 @@
 
 ### Indústria 4.0 - 6 horas
 
+<a id="ancora49"></a>
 ### Módulo 1 - 2 horas
 ![Módulo 1](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%201.png)
    
@@ -829,6 +839,7 @@
     Robótica Inteligente (COBOTS); e
     Realidade Virtual Aumentada.
 
+<a id="ancora50"></a>
 ### Módulo 2 - 2 horas
 ![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%202.png)
 
@@ -837,6 +848,7 @@
     Segurança Cibernética e Integração Horizontal; e
     Vertical de Sistemas.
 
+<a id="ancora51"></a>
 ### Módulo 3 - 2 horas
 ![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%203.png)
 
@@ -850,6 +862,7 @@
 
 ### IoT - Internet das Coisas - 5 horas
 
+<a id="ancora52"></a>
 ### Introdução a Internet das Coisas - 2 horas
 ![Introdução a Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Introdu%C3%A7%C3%A3o.png)
 
@@ -860,6 +873,7 @@
     Desafios;
     Conclusões.
 
+<a id="ancora53"></a>
 ### Laboratório de IoT com Arduino - 3 horas
 ![Laboratório de IoT com Arduino](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Laborat%C3%B3rio%20com%20Ardu%C3%ADno.png)
     
@@ -872,6 +886,7 @@
 
 ### Jogos Digitais - 13 horas
 
+<a id="ancora54"></a>
 ### Introdução aos Jogos Digitais - 2 horas
 ![Introdução aos Jogos Digitais](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Jogos%20Digitais/Introdu%C3%A7%C3%A3o%20aos%20jogos%20digitais.png)
 
@@ -883,9 +898,11 @@
 ### Unity - 4 horas
 ### Jogos 2D
 
+<a id="ancora55"></a>
 ### Criação de Jogos 2D com Unity (Parte 1) - 2 horas
 ![Jogos com Unity](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%201).png)
 
+<a id="ancora56"></a>
 ### Criação de Jogos 2D com Unity (Parte 2) - 2 horas
 ![Jogos com Unity 2](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%202).png)
 
@@ -896,6 +913,7 @@
     Interface de Usuário.    
 
 ### Jogos 3D
+<a id="ancora57"></a>
 ### Criação de Jogos 3D com Unity (Parte 1) - 3 horas
 ![Jogos com Unity 3D 1](https://github.com/Alisson-JP/Certificados/blob/c3159aacd6aa5a99b1c01d8b658b7dc1712ee5b1/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%203D%20com%20Unity%20(Parte%201).png)
 
@@ -907,9 +925,11 @@
      Interface de Usuário.
 
 ### Modelagem 3D - 4 horas
+<a id="ancora58"></a>
 ### Modelagem 3D para Jogos Digitais (Parte 1) - 2 horas
 ![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%201).png)
 
+<a id="ancora59"></a>
 ### Modelagem 3D para Jogos Digitais (Parte 2) - 2 horas
 ![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%202).png)
 
@@ -922,7 +942,8 @@
 ---
 
 ### Ocean Talks - 3 horas
-   
+
+<a id="ancora60"></a>
 ### O Futuro dos bancos e Fintechs - 1,5 horas
 ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Ocean%20Talks/Bancos%20e%20Fintechs.png)
    
@@ -934,6 +955,7 @@
     Fernando Castro, CEO da HypeFlame.
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
 
+<a id="ancora61"></a>
 ### Marco legal das startups - 1,5 horas
 ![Marco legal das startups](https://github.com/Alisson-JP/Certificados/blob/689e22dab71ddb0a8322b583d6f2b521abf9f712/PDFs/Ocean%20Talks/Marco%20legal%20das%20startups.png)
 
@@ -948,6 +970,7 @@
 
 ### Python - 27 horas
 
+<a id="ancora62"></a>
 ### Módulo 1 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
 
@@ -962,7 +985,8 @@
     Exercícios para prática;
     Variáveis, operações matemáticas e exibição no console;
     Juntando variáveis através da concatenação;
-        
+
+<a id="ancora63"></a>
 ### Módulo 2 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%202.png)
 
@@ -979,6 +1003,7 @@
     Desafio extra!;
     Lista de exercícios.
 
+<a id="ancora64"></a>
 ### Módulo 3 - 3 horas
 ![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%203.png)
 
@@ -995,6 +1020,7 @@
     Utilizando a função enumerate()
     Combinando listas e dicionários
 
+<a id="ancora65"></a>
 ### Consultando Bases SQL com Python (Parte 1) - 3 horas
 ![Consultando Bases SQL com Python (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%20SQL.png)
 
@@ -1003,7 +1029,8 @@
     O Modelo Relacional;
     O padrão SQL e seus dialetos;
     Criando um banco de dados em um SGDB.
-    
+
+<a id="ancora66"></a>
 ### Consultando Bases SQL com Python (Parte 2) - 3 horas
 ![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%20SQL%202.png)
 
@@ -1014,6 +1041,7 @@
     Consultando dados com junções (Join);
     Exercícios para fixação.
 
+<a id="ancora67"></a>
 ### Aula Prática - 3 horas
 ![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/8bc8565abe3ef4ec80becad8bc6041758fc54587/PDFs/Python/Python%20Aula%20P%C5%95atica.png)
 
@@ -1030,7 +1058,8 @@
     Lista;
     Dicionário;
     Touch.
-    
+
+<a id="ancora68"></a>
 ### Programando para web com Python, CSS e HTML (Parte 1) - 3 horas
 ![Programando para web com Python, CSS e HTML](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%201).png)
 
@@ -1038,7 +1067,8 @@
     Conhecendo o CSS;
     Construindo a primeira página do site;
     Páginas estáticas vs páginas dinâmicas;
-            
+
+<a id="ancora69"></a>
 ### Programando para web com Python, CSS e HTML (Parte 2) - 3 horas
 ![Programando para web com Python, CSS e HTML - parte 2](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%202).png)
 
@@ -1046,7 +1076,8 @@
     Django vs Flask: Entendendo o que são essas tecnologias;
     Implementando o Flask;
     Exibindo uma página simples;
-    
+
+<a id="ancora70"></a>
 ### Programando para web com Python, CSS e HTML (Parte 3) - 3 horas
 ![Programando para web com Python, CSS e HTML - parte 3](https://github.com/Alisson-JP/Certificados/blob/716e00563551bfbbc84193143f481ff538028d7d/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%203).png)
 
@@ -1059,6 +1090,7 @@
 
 ### UX - 21 horas
 
+<a id="ancora71"></a>
 ### Tópicos de UX para Design de Serviços - 3 horas
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
 
@@ -1069,6 +1101,7 @@
     Jornada do usuário;
     Atividade: Blue Printing de um serviço.
 
+<a id="ancora72"></a>
 ### Tópicos de UX para IA: Experiências Ominicanal - 3 horas
 ![Tópicos de UX para IA: Experiências Ominicanal](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Ominicanal.png)
 
@@ -1078,6 +1111,7 @@
     Tendências e cases;
     Prática: projetando uma experiência ominicanal orquestrada por IA.
 
+<a id="ancora73"></a>
 ### Tópicos de UX para IA: Interfaces Conversacionais - 3 horas
 ![Tópicos de UX para IA: Interfaces Conversacionais](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/UX/T%C3%B3picos%20de%20UX%20para%20IA:%20Interfaces%20Conversacionais.png)
 
@@ -1086,7 +1120,7 @@
     Tendências e cases;
     Prática: prototipação de uma VUI.
 
-   
+<a id="ancora74"></a>
 ### Design Thinking - Conceitos e Práticas - 3 horas
 ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/UX/Design%20Thinking.png)
    
@@ -1094,6 +1128,7 @@
        Métodos, ferramentas e prática;
        Atividade: Simulando um Design Sprint.
 
+<a id="ancora75"></a>
 ### Tópicos de UX para Internet das Coisas - 3 horas
 ![Tópicos de UX para Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/UX/Captura%20de%20tela%20de%202021-10-30%2013-24-58.png)
 
@@ -1101,7 +1136,7 @@
     Desafios e oportunidades
     Prática: Prototipando uma solução em IoT
 
-
+<a id="ancora76"></a>
 ### Tópicos de UX para VR e AR - 3 horas
 ![Tópicos de UX para Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/716e00563551bfbbc84193143f481ff538028d7d/PDFs/UX/T%C3%B3picos%20de%20UX%20para%20VR%20e%20AR.png)
 
@@ -1113,6 +1148,7 @@
     Cases;
     UX para VR na prática.
 
+<a id="ancora77"></a>
 ### Oficina de Usabilidade - 3 horas
 ![Usabilidade](https://github.com/Alisson-JP/Certificados/blob/100ed5778e8ae617e9e833eccbd5ddb8d1e0b2d0/PDFs/UX/Oficina%20de%20Usabilidade.png)
 
@@ -1124,7 +1160,7 @@
  ---
  
  ### VR & AR
- 
+ <a id="ancora78"></a>
  ### V4: Realidade Aumentada: Laboratório com Unity e AR Foundation - 2 horas
 ![Unity e AR](https://github.com/Alisson-JP/Certificados/blob/6fabf14bef050b7430bdba2cfe56016e8884efbd/PDFs/VR%20&%20AR/Unity%20e%20AR.png)
 
