@@ -86,8 +86,69 @@
 
 <a id="ancoraia"></a>
 ## IA - Inteligência artificial - 21 horas
+### Deep Learning
+- [Deep Learning - Parte 1](#ancora42)
+- [Deep Learning - Parte 2](#ancora43)
+### Ciência de Dados
+- [Análise de Dados com Orange](#ancora44)
+- [Análise de dados geográficos com Python](#ancora45)
+### Machine Learning
+- [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)
+- [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)
+- [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
 
-- [Laboratório](#ancora19)
+
+<a id="ancoraind4p0"></a>
+## Indústria 4.0 - 6 horas
+- [Módulo 1](#ancora49)
+- [Módulo 2](#ancora50)
+- [Módulo 3](#ancora51)
+
+<a id="ancoraiot"></a>
+## IoT - Internet das Coisas
+- [Introdução a Internet das Coisas](#ancora52)
+- [Laboratório de IoT com Arduino](#ancora53)
+
+<a id="ancorajogosdigitais"></a>
+## Jogos Digitais
+- [Introdução aos Jogos Digitais](#ancora54)
+- [Criação de Jogos 2D com Unity - parte 1](#ancora55)
+- [Criação de Jogos 2D com Unity - parte 2](#ancora56)
+- [Criação de Jogos 3D com Unity - parte 1](#ancora57)
+- [Modelagem 3D para Jogos Digitais - parte 1](#ancora58)
+- [Modelagem 3D para Jogos Digitais - parte 2](#ancora59)
+
+<a id="ancoraoceantalks"></a>
+## Ocean Talks
+- [O Futuro dos bancos e Fintechs](#ancora60)
+- [Marco legal das startups](#ancora61)
+
+<a id="ancorapython"></a>
+## Python
+- [Módulo 1](#ancora62)
+- [Módulo 2](#ancora63)
+- [Módulo 3](#ancora64)
+- [Consultando Bases SQL com Python - parte 1](#ancora65)
+- [Consultando Bases SQL com Python - parte 2](#ancora66)
+- [Aula Prática](#ancora67)
+- [Programando para web com Python, CSS e HTML - parte 1](#ancora68)
+- [Programando para web com Python, CSS e HTML - parte 2](#ancora69)
+- [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
+
+<a id="ancoraux"></a>
+## UX
+- [Tópicos de UX para Design de Serviços](#ancora71)
+- [Tópicos de UX para IA: Experiências Ominicanal](#ancora72)
+- [Tópicos de UX para IA: Interfaces Conversacionais](#ancora73)
+- [Design Thinking - Conceitos e Práticas](#ancora74)
+- [Tópicos de UX para Internet das Coisas](#ancora75)
+- [Tópicos de UX para VR e AR](#ancora76)
+- [Oficina de Usabilidade](#ancora77)
+
+<a id="ancoravrear"></a>
+### VR & AR
+- [Realidade Aumentada: Laboratório com Unity e AR Foundation](#ancora78)
+
 
 ---
 <a id="ancora1"></a>
