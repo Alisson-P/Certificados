@@ -37,14 +37,50 @@
 <a id="ancorasamsungocean"></a>
 # Samsung Ocean - 165 horas
 ## Android - 24 horas
-- [Programação Kotlin e Android Studio ](#ancora18)
+- [Programação Kotlin e Android Studio ](#ancora17)
+- [Laboratório](#ancora18)
+- [GPS com Google Maps](#ancora19)
+- [Webservices com Retrofit e Imagens com Glide](#ancora20)
+- [Listas com RecyclerView e Multithread](#ancora21)
+- [Banco de Dados - Room](#ancora22)
+- [Push Notification com Firebase](#ancora23)
+- [Android Jetpack e Arquitetura](#ancora24)
+
+<a id="ancorabackend"></a>
+## Backend - 12 horas
+- [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)
+- [Integrando os serviços de backend na nuvem](#ancora26)
+- [Backend com NodeJs e Express - parte 1](#ancora27)
+- [Backend com NodeJs e Express - parte 2](#ancora28)
+
+<a id="ancorabixby"></a>
+## Backend - 12 horas
+- [Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](#ancora29)
+
+<a id="ancorablockchain"></a>
+## Blockchain - 7 horas
+- [Introdução ao Blockchain](#ancora30)
+- [Ferramentas de desenvolvimento de dApps](#ancora31)
+- [Contratos inteligentes em Ethereum](#ancora32)
+
+<a id="ancoradevops"></a>
+## Desenvolvimento Ágil - 6 horas
+- [Introdução](#ancora33)
+- [DevOps Git](#ancora33)
+
+<a id="ancoraempreendedorismo"></a>
+## Empreendedorismo - 9 horas
+- [Ecossistemas de Inovação e Empreendedorismo](#ancora35)
+- [Design Thinking aplicado a Startups](#ancora36)
+- [Identificando o cliente e o problema](#ancora37)
+- [Construindo e validando a proposição de valor](#ancora38)
+
+
 - [Laboratório](#ancora19)
-- [GPS com Google Maps](#ancora20)
-- [Webservices com Retrofit e Imagens com Glide](#ancora21)
-- [Listas com RecyclerView e Multithread](#ancora22)
-- [Banco de Dados - Room](#ancora23)
-- [Push Notification com Firebase](#ancora24)
-- [Android Jetpack e Arquitetura](#ancora25)
+
+
+
+
 
 ---
 <a id="ancora1"></a>
