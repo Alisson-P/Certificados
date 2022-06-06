@@ -34,8 +34,8 @@
 - [Word](#ancora15)
 - [Powerpoint](#ancora16)
 
-# Samsung Ocean - 165 horas
 <a id="ancorasamsungocean"></a>
+# Samsung Ocean - 165 horas
 ## Android - 24 horas
 - [Programação Kotlin e Android Studio ](#ancora18)
 - [Laboratório](#ancora19)
@@ -312,8 +312,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  ### Laboratório - 3 horas
   <a id="ancora19"></a>
+  ### Laboratório - 3 horas
   ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png)
   
          Correção do desafio proposto no curso "Android - Introdução" - Criando mais de uma Activity;
@@ -326,73 +326,73 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
 
-  ### GPS com Google Maps - 3 horas
   <a id="ancora20"></a>
+  ### GPS com Google Maps - 3 horas
   ![GPS com Google Maps](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/GPS.png)
   
-    Configurando o Google Maps com o Google Play Services no Android;
-    Exibindo e interagindo com o mapa do Google Maps;
-    Preparando o acesso ao GPS (serviço de localização);
-    Utilizando o GPS, recebendo dados de localização em tempo real.
+      Configurando o Google Maps com o Google Play Services no Android;
+      Exibindo e interagindo com o mapa do Google Maps;
+      Preparando o acesso ao GPS (serviço de localização);
+      Utilizando o GPS, recebendo dados de localização em tempo real.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  ### Webservices com Retrofit e Imagens com Glide - 3 horas 
   <a id="ancora21"></a>
+  ### Webservices com Retrofit e Imagens com Glide - 3 horas 
   ![Webservices com Retrofit e Imagens com Glide](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Web%20Retro%20Glide.png)
   
-    Entendendo o significado de JSON e API Rest;
-    Preparando o Android para trabalhar com um WebService, utilizando a API Retrofit;
-    Interagindo com a web;
-    Tratamento de dados do Web Service, 
-    convertendo texto em JSON para objetos na linguagem de programação;
-    Exibindo o conteúdo carregado;
-    Realizando o monitoramento das conexões com o Network Profiling;
+      Entendendo o significado de JSON e API Rest;
+      Preparando o Android para trabalhar com um WebService, utilizando a API Retrofit;
+      Interagindo com a web;
+      Tratamento de dados do Web Service, 
+      convertendo texto em JSON para objetos na linguagem de programação;
+      Exibindo o conteúdo carregado;
+      Realizando o monitoramento das conexões com o Network Profiling;
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  ### Listas com RecyclerView e Multithread - 3 horas
   <a id="ancora22"></a>
+  ### Listas com RecyclerView e Multithread - 3 horas
   ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Recycler%20View.png)
   
-    Entendendo o conceito de multithreading no Android;
-    Criando e entendendo uma Worker-Thread;
-    Entendendo uma Async-Task;
-    Conhecendo alternativas de implementação em Kotlin;
-    Falando um pouco sobre o RX.
+      Entendendo o conceito de multithreading no Android;
+      Criando e entendendo uma Worker-Thread;
+      Entendendo uma Async-Task;
+      Conhecendo alternativas de implementação em Kotlin;
+      Falando um pouco sobre o RX.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  ### Banco de Dados - Room - 3 horas
   <a id="ancora23"></a>
+  ### Banco de Dados - Room - 3 horas
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Room.png) 
 
-    Introdução ao SQL e ao SQLite
-    Entendendo e importanto o Android Room
-    Configuração da Base de Dados
-    Criação da Base de Dados
-    Utilização da Base de Dados
+      Introdução ao SQL e ao SQLite
+      Entendendo e importanto o Android Room
+      Configuração da Base de Dados
+      Criação da Base de Dados
+      Utilização da Base de Dados
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
     
-  ### Push Notification com Firebase - 3 horas
   <a id="ancora24"></a>
+  ### Push Notification com Firebase - 3 horas
   ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/9f686e789851a78a82c2bb7b46de5fbadd968df8/PDFs/Android/Android%20Push%20Notification%20com%20Firebase.png) 
   
-    Apresentação do Firebase
-    Configurando o projeto do Android com uma conta google e o Firebase
-    Criando um serviço de mensageria no Firebase
-    Preparando o projeto do Android para integrar com o serviço de mensageria criado
-    Testando o envio de mensagens pela nuvem
-    Criando uma classe de envio de push notification
-    Testando a exibição de push notifications local
-    Conectando o serviço de mensageria com a exibição das notificações
-    Dicas e próximos passos
+      Apresentação do Firebase
+      Configurando o projeto do Android com uma conta google e o Firebase
+      Criando um serviço de mensageria no Firebase
+      Preparando o projeto do Android para integrar com o serviço de mensageria criado
+      Testando o envio de mensagens pela nuvem
+      Criando uma classe de envio de push notification
+      Testando a exibição de push notifications local
+      Conectando o serviço de mensageria com a exibição das notificações
+      Dicas e próximos passos
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
 
-### Android Jetpack e Arquitetura - 3 horas
 <a id="ancora25"></a>
+### Android Jetpack e Arquitetura - 3 horas
 ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/Android/Captura%20de%20tela%20de%202021-10-30%2013-25-13.png) 
 
     Revisão Geral
