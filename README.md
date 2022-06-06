@@ -306,7 +306,7 @@
 
 <a id="ancora8"></a>
 ### Python
-![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
+![Python](https://github.com/Alisson-JP/Certificados/blob/807d6c46ca96d72e1442243838d2384ccfebad4c/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Python%20selo.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
@@ -324,7 +324,7 @@
 
 <a id="ancora11"></a>
 ### Git
-![Git](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20GIT.png)
+![Git](https://github.com/Alisson-JP/Certificados/blob/807d6c46ca96d72e1442243838d2384ccfebad4c/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Git%20selo.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
@@ -342,19 +342,19 @@
 
 <a id="ancora14"></a>
 ### Excel
-![Excel](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Excel.png)
+![Excel](https://github.com/Alisson-JP/Certificados/blob/807d6c46ca96d72e1442243838d2384ccfebad4c/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Excel%20selo.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora15"></a>
 ### Word
-![Word](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Word.png)
+![Word](https://github.com/Alisson-JP/Certificados/blob/807d6c46ca96d72e1442243838d2384ccfebad4c/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Word%20selo.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora16"></a>
 ### Powerpoint
-![Powerpoint](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20PowerPoint.png)
+![Powerpoint](https://github.com/Alisson-JP/Certificados/blob/807d6c46ca96d72e1442243838d2384ccfebad4c/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/PowerPoint%20selo.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
