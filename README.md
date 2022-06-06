@@ -1369,7 +1369,6 @@
       Switchs
       Laboratórios via Packet Tracer
 - [Voltar CISCO](#ancoracisco)
-- [Voltar CCNA](#ancoraccna)
 - [Voltar ao topo](#ancora)      
 
 
