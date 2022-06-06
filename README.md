@@ -127,7 +127,7 @@
 - [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
 
 <a id="ancoraind4p0"></a>
-## Indústria 4.0 - 6 horas
+## Indústria 4.0
 - [Módulo 1](#ancora49)
 - [Módulo 2](#ancora50)
 - [Módulo 3](#ancora51)
