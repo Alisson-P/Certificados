@@ -8,18 +8,18 @@
 
 # Linux
 <a name="ancoralinux"></a>
-## 4Linux Open Software Specialists
-- [Segurança em Servidores](#ancora2)
-- [Linux Fundamentals](#ancora3)
+   ## 4Linux Open Software Specialists
+   - [Segurança em Servidores](#ancora2)
+   - [Linux Fundamentals](#ancora3)
 
-## CISCO - LPI
-- [Linux Unhatched](#ancora4)
-- [Linux Essentials](#ancora5)
+   ## CISCO - LPI
+   - [Linux Unhatched](#ancora4)
+   - [Linux Essentials](#ancora5)
 
 # Cyber Security
 <a name="ancorasimplilearn"></a>
-## Simplilearn
-- [Introduction to cyber security](#ancora6)
+   ## Simplilearn
+   - [Introduction to cyber security](#ancora6)
 
 <a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
@@ -38,28 +38,28 @@
 # Samsung Ocean
 
 <a id="ancorapython"></a>
-## Python
-- [Módulo 1](#ancora62)
-- [Módulo 2](#ancora63)
-- [Módulo 3](#ancora64)
-- [Consultando Bases SQL com Python - parte 1](#ancora65)
-- [Consultando Bases SQL com Python - parte 2](#ancora66)
-- [Aula Prática](#ancora67)
-- [Programando para web com Python, CSS e HTML - parte 1](#ancora68)
-- [Programando para web com Python, CSS e HTML - parte 2](#ancora69)
-- [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
+   ## Python
+   - [Módulo 1](#ancora62)
+   - [Módulo 2](#ancora63)
+   - [Módulo 3](#ancora64)
+   - [Consultando Bases SQL com Python - parte 1](#ancora65)
+   - [Consultando Bases SQL com Python - parte 2](#ancora66)
+   - [Aula Prática](#ancora67)
+   - [Programando para web com Python, CSS e HTML - parte 1](#ancora68)
+   - [Programando para web com Python, CSS e HTML - parte 2](#ancora69)
+   - [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
 
 <a id="ancorabackend"></a>
-## Backend
-- [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)
-- [Integrando os serviços de backend na nuvem](#ancora26)
-- [Backend com NodeJs e Express - parte 1](#ancora27)
-- [Backend com NodeJs e Express - parte 2](#ancora28)
+   ## Backend
+   - [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)
+   - [Integrando os serviços de backend na nuvem](#ancora26)
+   - [Backend com NodeJs e Express - parte 1](#ancora27)
+   - [Backend com NodeJs e Express - parte 2](#ancora28)
 
 <a id="ancorafrontend"></a>
-## Frontend
-- [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
-- [Frontend Web com ReactJS (Parte 2)](#ancora41)
+   ## Frontend
+   - [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
+   - [Frontend Web com ReactJS (Parte 2)](#ancora41)
 
 <a id="ancoraandroid"></a>
 ## Android
