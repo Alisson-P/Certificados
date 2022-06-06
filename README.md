@@ -35,8 +35,33 @@
 - [Powerpoint](#ancora16)
 
 <a id="ancorasamsungocean"></a>
-# Samsung Ocean - 165 horas
-## Android - 24 horas
+# Samsung Ocean
+
+<a id="ancorapython"></a>
+## Python
+- [Módulo 1](#ancora62)
+- [Módulo 2](#ancora63)
+- [Módulo 3](#ancora64)
+- [Consultando Bases SQL com Python - parte 1](#ancora65)
+- [Consultando Bases SQL com Python - parte 2](#ancora66)
+- [Aula Prática](#ancora67)
+- [Programando para web com Python, CSS e HTML - parte 1](#ancora68)
+- [Programando para web com Python, CSS e HTML - parte 2](#ancora69)
+- [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
+
+<a id="ancorabackend"></a>
+## Backend
+- [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)
+- [Integrando os serviços de backend na nuvem](#ancora26)
+- [Backend com NodeJs e Express - parte 1](#ancora27)
+- [Backend com NodeJs e Express - parte 2](#ancora28)
+
+<a id="ancorafrontend"></a>
+## Frontend
+- [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
+- [Frontend Web com ReactJS (Parte 2)](#ancora41)
+
+## Android
 - [Programação Kotlin e Android Studio ](#ancora17)
 - [Laboratório](#ancora18)
 - [GPS com Google Maps](#ancora19)
@@ -46,19 +71,12 @@
 - [Push Notification com Firebase](#ancora23)
 - [Android Jetpack e Arquitetura](#ancora24)
 
-<a id="ancorabackend"></a>
-## Backend - 12 horas
-- [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)
-- [Integrando os serviços de backend na nuvem](#ancora26)
-- [Backend com NodeJs e Express - parte 1](#ancora27)
-- [Backend com NodeJs e Express - parte 2](#ancora28)
-
 <a id="ancorabixby"></a>
 ## Bixby
 - [Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](#ancora29)
 
 <a id="ancorablockchain"></a>
-## Blockchain - 7 horas
+## Blockchain
 - [Introdução ao Blockchain](#ancora30)
 - [Ferramentas de desenvolvimento de dApps](#ancora31)
 - [Contratos inteligentes em Ethereum](#ancora32)
@@ -73,16 +91,11 @@
 - [Introdução aos Dispositivos Wearables](#ancora35)
 
 <a id="ancoraempreendedorismo"></a>
-## Empreendedorismo - 9 horas
+## Empreendedorismo
 - [Ecossistemas de Inovação e Empreendedorismo](#ancora36)
 - [Design Thinking aplicado a Startups](#ancora37)
 - [Identificando o cliente e o problema](#ancora38)
 - [Construindo e validando a proposição de valor](#ancora39)
-
-<a id="ancorafrontend"></a>
-## Frontend - 6 horas
-- [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
-- [Frontend Web com ReactJS (Parte 2)](#ancora41)
 
 <a id="ancoraia"></a>
 ## IA - Inteligência artificial - 21 horas
@@ -96,7 +109,6 @@
 - [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)
 - [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)
 - [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
-
 
 <a id="ancoraind4p0"></a>
 ## Indústria 4.0 - 6 horas
@@ -122,18 +134,6 @@
 ## Ocean Talks
 - [O Futuro dos bancos e Fintechs](#ancora60)
 - [Marco legal das startups](#ancora61)
-
-<a id="ancorapython"></a>
-## Python
-- [Módulo 1](#ancora62)
-- [Módulo 2](#ancora63)
-- [Módulo 3](#ancora64)
-- [Consultando Bases SQL com Python - parte 1](#ancora65)
-- [Consultando Bases SQL com Python - parte 2](#ancora66)
-- [Aula Prática](#ancora67)
-- [Programando para web com Python, CSS e HTML - parte 1](#ancora68)
-- [Programando para web com Python, CSS e HTML - parte 2](#ancora69)
-- [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
 
 <a id="ancoraux"></a>
 ## UX
