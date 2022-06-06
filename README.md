@@ -321,9 +321,9 @@
 ---
 
 ## Samsung Ocean - 165 horas
-<a id="ancora17"></a>
+<a id="ancorasamsungocean"></a>
  ### Android - 24 horas
- <a id="ancora18"></a>
+ <a id="ancora17"></a>
   
   ### Introdução - 3 horas
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png)
@@ -348,7 +348,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  <a id="ancora19"></a>
+  <a id="ancora18"></a>
   ### Laboratório - 3 horas
   ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png)
   
@@ -362,7 +362,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
 
-  <a id="ancora20"></a>
+  <a id="ancora19"></a>
   ### GPS com Google Maps - 3 horas
   ![GPS com Google Maps](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/GPS.png)
   
@@ -373,7 +373,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  <a id="ancora21"></a>
+  <a id="ancora20"></a>
   ### Webservices com Retrofit e Imagens com Glide - 3 horas 
   ![Webservices com Retrofit e Imagens com Glide](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Web%20Retro%20Glide.png)
   
@@ -387,7 +387,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  <a id="ancora22"></a>
+  <a id="ancora21"></a>
   ### Listas com RecyclerView e Multithread - 3 horas
   ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Recycler%20View.png)
   
@@ -399,7 +399,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
   
-  <a id="ancora23"></a>
+  <a id="ancora22"></a>
   ### Banco de Dados - Room - 3 horas
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Room.png) 
 
@@ -411,7 +411,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
     
-  <a id="ancora24"></a>
+  <a id="ancora23"></a>
   ### Push Notification com Firebase - 3 horas
   ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/9f686e789851a78a82c2bb7b46de5fbadd968df8/PDFs/Android/Android%20Push%20Notification%20com%20Firebase.png) 
   
@@ -427,7 +427,7 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar ao topo](#ancora)
 
-<a id="ancora25"></a>
+<a id="ancora24"></a>
 ### Android Jetpack e Arquitetura - 3 horas
 ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/Android/Captura%20de%20tela%20de%202021-10-30%2013-25-13.png) 
 
@@ -438,9 +438,9 @@
 - [Voltar ao topo](#ancora)
     
 ---
-
+<a id="ancorabackend"></a>
 ### Backend - 12 horas
-
+<a id="ancora25"></a>
 ### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
 ![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
 
@@ -458,6 +458,7 @@
     Integração do MongoDB com o NodeJS utilizando a própria biblioteca do MongoDB;
     Substituição das funções de backend desenvolvidas nas aulas anteriores para integrar o CRUD com a base de dados.
 
+<a id="ancora26"></a>
 ### Integrando os serviços de backend na nuvem - 3 horas
 ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Backend%20na%20Nuvem.png)
    
@@ -476,6 +477,7 @@
     Implementando a base de dados da nuvem na aplicação backend
     Testando todos os serviços online
 
+<a id="ancora27"></a>
 ### Backend com NodeJs e Express (Parte 1) - 3 horas
 ![Backend com NodeJs](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Backend%20Nuvem/Backend%20com%20NodeJs%20e%20Express%20(Parte%201).png)
 
@@ -487,7 +489,8 @@
     JSON Viewer;
     JavaScript: do frontend para o backend;
     NodeJS;
-    
+
+<a id="ancora28"></a>
 ### Backend com NodeJs e Express (Parte 2) - 3 horas
 ![Backend com NodeJs 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Backend/Backend%20com%20NodeJs%20e%20Express%20(Parte%202).png)
 
@@ -505,6 +508,7 @@
 
 ### Bixby
    
+   <a id="ancora29"></a>
    ### Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface - 2 horas
    ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](https://github.com/Alisson-JP/CertificadosSO/blob/e460e5b338f89bc1101d300396363916a4ed8e8f/PDFs/Bixby/Bixby.png)
    
@@ -516,6 +520,7 @@
 
 ### Blockchain - 7 horas
 
+<a id="ancora30"></a>
 ### Introdução ao Blockchain - 2 horas
 ![Intro Blochchain](https://github.com/Alisson-JP/Certificados/blob/f1a840db4021a7f9a3da11e3caf7bd73a8f5b190/PDFs/Blockchain/Introdu%C3%A7%C3%A3o%20ao%20Blockchain.png)
 
@@ -524,6 +529,7 @@
     Aplicações de Blockchain;
     Plataformas de Blockchain.
 
+<a id="ancora31"></a>
 ### Ferramentas de desenvolvimento de dApps e 
 ### Contratos inteligentes para Blockchain Ethereum - 2 horas
 ![Blochchain 2](https://github.com/Alisson-JP/Certificados/blob/e94be635356a5fcfbb9b0d522a8b5343ca0dbcbe/PDFs/Blockchain/Ferramentas%20de%20desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
@@ -531,7 +537,8 @@
     Elaboração do contrato inteligente;
     Construção do Front End;
     Testes numa rede blockchain local.
-    
+
+<a id="ancora32"></a>
 ### Desenvolvimento de dApps e Contratos inteligentes para Blockchain Ethereum - 3 horas
 ![Blochchain 3](https://github.com/Alisson-JP/Certificados/blob/99a35e6c8f6865655e2d74a1acece21cac7035ec/PDFs/Blockchain/Desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
 
@@ -543,6 +550,7 @@
 
 ### Desenvolvimento Ágil - 6 horas
 
+<a id="ancora33"></a>
 ### Introdução - 3 horas
 ![DevOps Git](https://github.com/Alisson-JP/Certificados/blob/e6eea907821971b972bc60b85562a153a30dc133/PDFs/Desenvolvimento%20%C3%81gil/Desenvolvimento%20%C3%81gil:%20Introdu%C3%A7%C3%A3o.png)
 
@@ -552,6 +560,7 @@
     Construção ágil;
     Teste de software.
 
+<a id="ancora34"></a>
 ### DevOps Git - 3 horas
 ![DevOps Git](https://github.com/Alisson-JP/Certificados/blob/e6eea907821971b972bc60b85562a153a30dc133/PDFs/Desenvolvimento%20%C3%81gil/DevOps%20Git.png)
    
@@ -573,6 +582,7 @@
 
 ### Dispositivos Wearables
 
+<a id="ancora35"></a>
 ### Introdução aos Dispositivos Wearables - 1 hora
 ![Wearables](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/Dispositivos%20Wearables/Introdu%C3%A7%C3%A3o%20aos%20dispositivos%20Wearables.png)
 
@@ -586,6 +596,7 @@
 
 ### Empreendedorismo - 9 horas
 
+<a id="ancora36"></a>
 ### Ecossistemas de Inovação e Empreendedorismo - 2 horas
 ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
    
@@ -594,6 +605,7 @@
       Ecossistemas de Inovação Nacionais e Internacionais;
       O papel da Universidade como supridor de talentos e conhecimento aos ecossistemas.
 
+<a id="ancora37"></a>
 ### Design Thinking aplicado a Startups - 2 horas
 ![Design Thinking aplicado a Startups](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Empreendedorismo/Empreendedorismo%20Desing%20Thinking%20-%20Startups.png) 
 
@@ -607,6 +619,7 @@
     Técnicas de ideação: Brainstorming, Brainwriting; Mindmapping, entre outras; 
     Técnicas de prototipação; Critérios de Seleção de ideias inovadoras.
 
+<a id="ancora38"></a>
 ### Identificando o cliente e o problema - 3 horas
 ![Identificando o cliente e o problema](https://github.com/Alisson-JP/Certificados/blob/689e22dab71ddb0a8322b583d6f2b521abf9f712/PDFs/Empreendedorismo/Identificando%20o%20cliente%20e%20o%20problema.png) 
 
@@ -622,6 +635,7 @@
     Importância da segmentação de clientes;
     Exemplos de segmentação de clientes.
 
+<a id="ancora39"></a>
 ### Construindo e validando a proposição de valor - 2 horas
 ![Value Propposition Canvas](https://github.com/Alisson-JP/Certificados/blob/96393f8631892096faae45aecc8c131bd4cfa06f/PDFs/Empreendedorismo/Empreendedorismo:%20Construindo%20e%20validando%20a%20proposi%C3%A7%C3%A3o%20de%20valor.png) 
 
@@ -641,6 +655,7 @@
 
 ### Frontend - 6 horas
 
+<a id="ancora40"></a>
 ### Frontend Web com ReactJS: Introdução (Parte 1) - 3 horas
 ![Introdução](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%201).png)
 
