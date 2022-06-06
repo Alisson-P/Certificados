@@ -98,7 +98,7 @@
 - [Contratos inteligentes em Ethereum](#ancora32)
 
 <a id="ancoradevops"></a>
-## Desenvolvimento Ágil - 6 horas
+## Desenvolvimento Ágil - DevOps
 - [Introdução](#ancora33)
 - [DevOps Git](#ancora34)
 
@@ -114,7 +114,7 @@
 - [Construindo e validando a proposição de valor](#ancora39)
 
 <a id="ancoraia"></a>
-## IA - Inteligência artificial - 21 horas
+## IA - Inteligência artificial
 ### Deep Learning
 - [Deep Learning - Parte 1](#ancora42)
 - [Deep Learning - Parte 2](#ancora43)
@@ -170,7 +170,7 @@
 <a id="ancora1"></a>
 ## Uptime - English
 
-   ### CAE - Certificate of Advanced English - 200 horas
+   ### CAE - Certificate of Advanced English
 
 ![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
 
@@ -181,7 +181,7 @@
 
 <a id="ancora2"></a>
 
-### Segurança em Servidores Linux - 40 horas
+### Segurança em Servidores Linux
 ![Segurança em Servidores Linux](https://github.com/Alisson-JP/Certificados/blob/6d68d3c4785ed5ddee412d7feb59203cfb6b0282/PDFs/Linux/4Linux%20-%20Seguran%C3%A7a%20em%20Servidores%20Linux.png)
 
     Hardening
@@ -202,7 +202,7 @@
 
 <a id="ancora3"></a>
 
-### Linux Fundamentals - 20 horas
+### Linux Fundamentals
 ![Linux Fundamentals](https://github.com/Alisson-JP/CertificadosSO/blob/8df6fda49cdc62cf672b29475188aff3211bd66a/PDFs/Linux/4Linux%20Essentials.png)
 
     Mercado Linux;
@@ -276,7 +276,7 @@
 ## Simplilearn
 <a id="ancora6"></a>
 
-### Introduction to Cyber Security - 3 horas
+### Introduction to Cyber Security
 ![Cyber Security](https://github.com/Alisson-JP/Certificados/blob/229730162533d79139c6eb39cb32956aec47ed98/PDFs/Simplilearn/Introduction%20to%20Cyber%20security.png)
 
     Cybersecurity fundamentals
@@ -360,12 +360,12 @@
 
 ---
 
-## Samsung Ocean - 165 horas
+## Samsung Ocean
 <a id="ancorasamsungocean"></a>
- ### Android - 24 horas
+ ### Android
  <a id="ancora17"></a>
   
-  ### Introdução - 3 horas
+  ### Introdução
   ![Introdução](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Introdu%C3%A7%C3%A3o.png)
   
      Utilização da linguagem de programação Kotlin e o software de desenvolvimento Android Studio.
@@ -390,7 +390,7 @@
 - [Voltar ao topo](#ancora)
   
   <a id="ancora18"></a>
-  ### Laboratório - 3 horas
+  ### Laboratório
   ![Laboratório](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Android/Android%20Laborat%C3%B3rio.png)
   
          Correção do desafio proposto no curso "Android - Introdução" - Criando mais de uma Activity;
@@ -405,7 +405,7 @@
 - [Voltar ao topo](#ancora)
 
   <a id="ancora19"></a>
-  ### GPS com Google Maps - 3 horas
+  ### GPS com Google Maps
   ![GPS com Google Maps](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/GPS.png)
   
       Configurando o Google Maps com o Google Play Services no Android;
@@ -417,7 +417,7 @@
 - [Voltar ao topo](#ancora)
   
   <a id="ancora20"></a>
-  ### Webservices com Retrofit e Imagens com Glide - 3 horas 
+  ### Webservices com Retrofit e Imagens com Glide
   ![Webservices com Retrofit e Imagens com Glide](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Web%20Retro%20Glide.png)
   
       Entendendo o significado de JSON e API Rest;
@@ -432,7 +432,7 @@
 - [Voltar ao topo](#ancora)
   
   <a id="ancora21"></a>
-  ### Listas com RecyclerView e Multithread - 3 horas
+  ### Listas com RecyclerView e Multithread
   ![Listas com RecyclerView e Multithread](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Recycler%20View.png)
   
       Entendendo o conceito de multithreading no Android;
@@ -445,7 +445,7 @@
 - [Voltar ao topo](#ancora)
   
   <a id="ancora22"></a>
-  ### Banco de Dados - Room - 3 horas
+  ### Banco de Dados - Room
   ![Banco de Dados - Room](https://github.com/Alisson-JP/CertificadosSO/blob/07ffb71b83d721cdd12f80fecdcfb411ad54831d/PDFs/Android/Room.png) 
 
       Introdução ao SQL e ao SQLite
@@ -458,7 +458,7 @@
 - [Voltar ao topo](#ancora)
     
   <a id="ancora23"></a>
-  ### Push Notification com Firebase - 3 horas
+  ### Push Notification com Firebase
   ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/9f686e789851a78a82c2bb7b46de5fbadd968df8/PDFs/Android/Android%20Push%20Notification%20com%20Firebase.png) 
   
       Apresentação do Firebase
@@ -475,7 +475,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora24"></a>
-### Android Jetpack e Arquitetura - 3 horas
+### Android Jetpack e Arquitetura
 ![Push Notification com Firebase](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/Android/Captura%20de%20tela%20de%202021-10-30%2013-25-13.png) 
 
     Revisão Geral
@@ -487,9 +487,9 @@
     
 ---
 <a id="ancorabackend"></a>
-### Backend - 12 horas
+### Backend
 <a id="ancora25"></a>
-### Laboratório de Backend e Banco de Dados com MongoDB - 3 horas
+### Laboratório de Backend e Banco de Dados com MongoDB
 ![Laboratório de Backend e Banco de Dados com MongoDB](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Banco%20de%20Dados%20MongoDB.png)
 
     O que é banco de dados?;
@@ -511,7 +511,7 @@
 
 
 <a id="ancora26"></a>
-### Integrando os serviços de backend na nuvem - 3 horas
+### Integrando os serviços de backend na nuvem
 ![Integrando os serviços de backend na nuvem](https://github.com/Alisson-JP/CertificadosSO/blob/0d14e8729430c8ebeb76916fb01b2ac342b7655b/PDFs/Backend%20Nuvem/Backend%20na%20Nuvem.png)
    
     Apresentação dos ecossistemas de cloud: AWS, Azure, Google Cloud, entre outros.
@@ -534,7 +534,7 @@
 
 
 <a id="ancora27"></a>
-### Backend com NodeJs e Express (Parte 1) - 3 horas
+### Backend com NodeJs e Express (Parte 1)
 ![Backend com NodeJs](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Backend%20Nuvem/Backend%20com%20NodeJs%20e%20Express%20(Parte%201).png)
 
     O que exatamente é backend?;
@@ -551,7 +551,7 @@
 
 
 <a id="ancora28"></a>
-### Backend com NodeJs e Express (Parte 2) - 3 horas
+### Backend com NodeJs e Express (Parte 2)
 ![Backend com NodeJs 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Backend/Backend%20com%20NodeJs%20e%20Express%20(Parte%202).png)
 
     Package Json;
@@ -573,7 +573,7 @@
 ### Bixby
    
    <a id="ancora29"></a>
-   ### Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface - 2 horas
+   ### Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface
    ![Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](https://github.com/Alisson-JP/CertificadosSO/blob/e460e5b338f89bc1101d300396363916a4ed8e8f/PDFs/Bixby/Bixby.png)
    
       A evolução dos principais assistentes de voz disponíveis no mercado; 
@@ -586,10 +586,10 @@
 
 ---
 
-### Blockchain - 7 horas
+### Blockchain
 
 <a id="ancora30"></a>
-### Introdução ao Blockchain - 2 horas
+### Introdução ao Blockchain
 ![Intro Blochchain](https://github.com/Alisson-JP/Certificados/blob/f1a840db4021a7f9a3da11e3caf7bd73a8f5b190/PDFs/Blockchain/Introdu%C3%A7%C3%A3o%20ao%20Blockchain.png)
 
     Introdução ao Blockchain;
@@ -603,7 +603,7 @@
 
 <a id="ancora31"></a>
 ### Ferramentas de desenvolvimento de dApps e 
-### Contratos inteligentes para Blockchain Ethereum - 2 horas
+### Contratos inteligentes para Blockchain Ethereum
 ![Blochchain 2](https://github.com/Alisson-JP/Certificados/blob/e94be635356a5fcfbb9b0d522a8b5343ca0dbcbe/PDFs/Blockchain/Ferramentas%20de%20desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
 
     Elaboração do contrato inteligente;
@@ -615,7 +615,7 @@
 
 
 <a id="ancora32"></a>
-### Desenvolvimento de dApps e Contratos inteligentes para Blockchain Ethereum - 3 horas
+### Desenvolvimento de dApps e Contratos inteligentes para Blockchain Ethereum
 ![Blochchain 3](https://github.com/Alisson-JP/Certificados/blob/99a35e6c8f6865655e2d74a1acece21cac7035ec/PDFs/Blockchain/Desenvolvimento%20de%20dApps%20e%20Contratos%20inteligentes%20para%20Blockchain%20Ethereum.png)
 
     Elaboração do contrato inteligente;
@@ -628,7 +628,7 @@
 
 ---
 
-### Desenvolvimento Ágil - 6 horas
+### Desenvolvimento Ágil
 
 <a id="ancora33"></a>
 ### Introdução - 3 horas
@@ -645,7 +645,7 @@
 
 
 <a id="ancora34"></a>
-### DevOps Git - 3 horas
+### DevOps Git
 ![DevOps Git](https://github.com/Alisson-JP/Certificados/blob/e6eea907821971b972bc60b85562a153a30dc133/PDFs/Desenvolvimento%20%C3%81gil/DevOps%20Git.png)
    
     Conceitos de engenharia de software para gerência de configuração; 
@@ -670,7 +670,7 @@
 ### Dispositivos Wearables
 
 <a id="ancora35"></a>
-### Introdução aos Dispositivos Wearables - 1 hora
+### Introdução aos Dispositivos Wearables
 ![Wearables](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/Dispositivos%20Wearables/Introdu%C3%A7%C3%A3o%20aos%20dispositivos%20Wearables.png)
 
     Contextualização de wearables;
@@ -685,10 +685,10 @@
 
 ---
 
-### Empreendedorismo - 9 horas
+### Empreendedorismo
 
 <a id="ancora36"></a>
-### Ecossistemas de Inovação e Empreendedorismo - 2 horas
+### Ecossistemas de Inovação e Empreendedorismo
 ![Ecossistemas de Inovação e Empreendedorismo](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Empreendedorismo/Ecossistema%20Empreendedorismo.png)
    
       Inovação e seu impacto na sociedade; A interação Universidade-Empresa;
@@ -701,7 +701,7 @@
 
 
 <a id="ancora37"></a>
-### Design Thinking aplicado a Startups - 2 horas
+### Design Thinking aplicado a Startups
 ![Design Thinking aplicado a Startups](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Empreendedorismo/Empreendedorismo%20Desing%20Thinking%20-%20Startups.png) 
 
     Pensamento divergente e convergente; 
@@ -719,7 +719,7 @@
 
 
 <a id="ancora38"></a>
-### Identificando o cliente e o problema - 3 horas
+### Identificando o cliente e o problema
 ![Identificando o cliente e o problema](https://github.com/Alisson-JP/Certificados/blob/689e22dab71ddb0a8322b583d6f2b521abf9f712/PDFs/Empreendedorismo/Identificando%20o%20cliente%20e%20o%20problema.png) 
 
     Formas de levantamento de informações sobre clientes e mercados;
@@ -739,7 +739,7 @@
 
 
 <a id="ancora39"></a>
-### Construindo e validando a proposição de valor - 2 horas
+### Construindo e validando a proposição de valor
 ![Value Propposition Canvas](https://github.com/Alisson-JP/Certificados/blob/96393f8631892096faae45aecc8c131bd4cfa06f/PDFs/Empreendedorismo/Empreendedorismo:%20Construindo%20e%20validando%20a%20proposi%C3%A7%C3%A3o%20de%20valor.png) 
 
     Value Propposition Canvas (VPC) como um subconjunto essencial do Business Model Canvas;
@@ -763,7 +763,7 @@
 ### Frontend - 6 horas
 
 <a id="ancora40"></a>
-### Frontend Web com ReactJS: Introdução (Parte 1) - 3 horas
+### Frontend Web com ReactJS: Introdução (Parte 1)
 ![Introdução](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%201).png)
 
     Criando o projeto;
@@ -780,7 +780,7 @@
 
 
 <a id="ancora41"></a>
-### Frontend Web com ReactJS (Parte 2) - 3 horas
+### Frontend Web com ReactJS (Parte 2)
 ![Parte 2](https://github.com/Alisson-JP/Certificados/blob/63ec5b7e3148d628a8ffecdf5d029fe7c61e99de/PDFs/Frontend/Frontend%20Web%20com%20ReactJS:%20Introdu%C3%A7%C3%A3o%20(Parte%202).png)
 
     Qual a responsabilidade do Frontend?;
@@ -794,12 +794,12 @@
 
 ---
 
-### IA - Inteligência artificial - 21 horas
+### IA - Inteligência artificial
 
-### Deep Learning - 6 horas
+### Deep Learning
 
 <a id="ancora42"></a>
-### Introdução ao Deep Learning (Parte 1) - 3 horas
+### Introdução ao Deep Learning (Parte 1)
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
 
 - [Voltar Samsung Ocean](#ancorasamsungocean)
@@ -807,7 +807,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora43"></a>
-### Introdução ao Deep Learning (Parte 2) - 3 horas
+### Introdução ao Deep Learning (Parte 2)
 ![Intro DL 2](https://github.com/Alisson-JP/Certificados/blob/99b774b9121053f76d67422099759973f231ecbb/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%202).png)
 
     Introdução a IA;
@@ -821,10 +821,10 @@
 - [Voltar ao topo](#ancora)
 
 
-### Ciência de Dados - 6 horas
+### Ciência de Dados
 
 <a id="ancora44"></a>
-### Fundamentos de Análise de Dados com Orange - 3 horas
+### Fundamentos de Análise de Dados com Orange
 ![Fundamentos de Análise de Dados com Orange](https://github.com/Alisson-JP/Certificados/blob/fb448fdccd61b386899fa75cdb31dd0487bf13a3/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Dados%20Orange.png)
    
     Trabalhando com Dados de forma visual;
@@ -838,7 +838,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora45"></a>
-### Análise de dados geográficos com Python- 3 horas
+### Análise de dados geográficos com Python
 ![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/326e0ebb4553f02771e48e7bdddab901e5f9c608/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Python%20-%20An%C3%A1lise%20de%20Dados%20Geogr%C3%A1ficos.png)
 
     Conceitos básicos;
@@ -858,24 +858,24 @@
 - [Voltar Inteligência artificial](#ancoraia)
 - [Voltar ao topo](#ancora)
 
-### Machine Learning com Orange - 9 Horas
+### Machine Learning com Orange
 
 <a id="ancora46"></a>
-### Entendendo e implementando Machine Learning com Orange (parte 1) - 3 horas
+### Entendendo e implementando Machine Learning com Orange (parte 1)
 ![ML com Orange 1](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Machine%20Learning:%20Entendendo%20e%20implementando%20com%20Orange.png)
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Inteligência artificial](#ancoraia)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora47"></a>
-### Entendendo e implementando Machine Learning com Orange (parte 2) - 3 horas
+### Entendendo e implementando Machine Learning com Orange (parte 2)
 ![ML com Orange 2](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Inteligência artificial](#ancoraia)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora48"></a>
-### Entendendo e implementando Machine Learning com Orange (parte 3)- 3 horas
+### Entendendo e implementando Machine Learning com Orange (parte 3)
 ![ML com Orange 3](https://github.com/Alisson-JP/Certificados/blob/91908687bc2b0b2d67aae9d7a1844fdbbe505230/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%203).png)
 
     Jupyter Notebook;
@@ -891,7 +891,7 @@
 
 ---
 
-### Indústria 4.0 - 6 horas
+### Indústria 4.0
 
 <a id="ancora49"></a>
 ### Módulo 1 - 2 horas
@@ -906,7 +906,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora50"></a>
-### Módulo 2 - 2 horas
+### Módulo 2
 ![Módulo 2](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%202.png)
 
     Banco de Dados Analítico (BIG DATA);
@@ -918,7 +918,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora51"></a>
-### Módulo 3 - 2 horas
+### Módulo 3
 ![Módulo 3](https://github.com/Alisson-JP/CertificadosSO/blob/2bb99f8cd2fa4eaec75ef58b7b428d4522b7768e/PDFs/Ind%C3%BAstria%204.0/Ind%20M%C3%B3dulo%203.png)
 
     Discutir as melhores práticas para diminuir os custos;
@@ -932,10 +932,10 @@
 
 ---
 
-### IoT - Internet das Coisas - 5 horas
+### IoT - Internet das Coisas
 
 <a id="ancora52"></a>
-### Introdução a Internet das Coisas - 2 horas
+### Introdução a Internet das Coisas
 ![Introdução a Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Introdu%C3%A7%C3%A3o.png)
 
     Introdução: Conceito, Evolução e Visão;
@@ -950,7 +950,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora53"></a>
-### Laboratório de IoT com Arduino - 3 horas
+### Laboratório de IoT com Arduino
 ![Laboratório de IoT com Arduino](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Laborat%C3%B3rio%20com%20Ardu%C3%ADno.png)
     
     Apresentação da Visão Geral e Prática para a construção de dispositivos de IoT;
@@ -963,10 +963,10 @@
 
 ---
 
-### Jogos Digitais - 13 horas
+### Jogos Digitais
 
 <a id="ancora54"></a>
-### Introdução aos Jogos Digitais - 2 horas
+### Introdução aos Jogos Digitais
 ![Introdução aos Jogos Digitais](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Jogos%20Digitais/Introdu%C3%A7%C3%A3o%20aos%20jogos%20digitais.png)
 
     Principais conceitos;
@@ -982,7 +982,7 @@
 ### Jogos 2D
 
 <a id="ancora55"></a>
-### Criação de Jogos 2D com Unity (Parte 1) - 2 horas
+### Criação de Jogos 2D com Unity (Parte 1)
 ![Jogos com Unity](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%201).png)
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Jogos Digitais](#ancorajogosdigitais)
@@ -990,7 +990,7 @@
 
 
 <a id="ancora56"></a>
-### Criação de Jogos 2D com Unity (Parte 2) - 2 horas
+### Criação de Jogos 2D com Unity (Parte 2)
 ![Jogos com Unity 2](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%202).png)
 
     Sprites, folhas de sprites e animações;
@@ -1005,7 +1005,7 @@
 
 ### Jogos 3D
 <a id="ancora57"></a>
-### Criação de Jogos 3D com Unity (Parte 1) - 3 horas
+### Criação de Jogos 3D com Unity (Parte 1)
 ![Jogos com Unity 3D 1](https://github.com/Alisson-JP/Certificados/blob/c3159aacd6aa5a99b1c01d8b658b7dc1712ee5b1/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%203D%20com%20Unity%20(Parte%201).png)
 
      Introdução ao Unity;
@@ -1019,9 +1019,9 @@
 - [Voltar ao topo](#ancora)
 
 
-### Modelagem 3D - 4 horas
+### Modelagem 3D
 <a id="ancora58"></a>
-### Modelagem 3D para Jogos Digitais (Parte 1) - 2 horas
+### Modelagem 3D para Jogos Digitais (Parte 1)
 ![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%201).png)
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Jogos Digitais](#ancorajogosdigitais)
@@ -1029,7 +1029,7 @@
 
 
 <a id="ancora59"></a>
-### Modelagem 3D para Jogos Digitais (Parte 2) - 2 horas
+### Modelagem 3D para Jogos Digitais (Parte 2)
 ![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%202).png)
 
     Introdução à modelagem 3D e ao Maya;
@@ -1044,10 +1044,10 @@
 
 ---
 
-### Ocean Talks - 3 horas
+### Ocean Talks
 
 <a id="ancora60"></a>
-### O Futuro dos bancos e Fintechs - 1,5 horas
+### O Futuro dos bancos e Fintechs
 ![O Futuro dos bancos e Fintechs](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Ocean%20Talks/Bancos%20e%20Fintechs.png)
    
     Quais são os riscos que existem nesta área tão dinâmica?;
@@ -1063,7 +1063,7 @@
 
 
 <a id="ancora61"></a>
-### Marco legal das startups - 1,5 horas
+### Marco legal das startups
 ![Marco legal das startups](https://github.com/Alisson-JP/Certificados/blob/689e22dab71ddb0a8322b583d6f2b521abf9f712/PDFs/Ocean%20Talks/Marco%20legal%20das%20startups.png)
 
     O que realmente muda com essa nova lei?
@@ -1078,10 +1078,10 @@
 
 ---
 
-### Python - 27 horas
+### Python
 
 <a id="ancora62"></a>
-### Módulo 1 - 3 horas
+### Módulo 1
 ![Linguagem Python: aprendendo a linguagem (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%201.png)
 
     Conhecendo os ambientes de desenvolvimento;
@@ -1101,7 +1101,7 @@
 
 
 <a id="ancora63"></a>
-### Módulo 2 - 3 horas
+### Módulo 2
 ![Linguagem Python: aprendendo a linguagem (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%202.png)
 
     Exibindo valores númericos formatados;
@@ -1122,7 +1122,7 @@
 
 
 <a id="ancora64"></a>
-### Módulo 3 - 3 horas
+### Módulo 3
 ![Linguagem Python: aprendendo a linguagem (Parte 3)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%203.png)
 
     Entendendo as Listas!
@@ -1143,7 +1143,7 @@
 
 
 <a id="ancora65"></a>
-### Consultando Bases SQL com Python (Parte 1) - 3 horas
+### Consultando Bases SQL com Python (Parte 1)
 ![Consultando Bases SQL com Python (Parte 1)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%20SQL.png)
 
     O que são bancos de dados e suas aplicações;
@@ -1157,7 +1157,7 @@
 
 
 <a id="ancora66"></a>
-### Consultando Bases SQL com Python (Parte 2) - 3 horas
+### Consultando Bases SQL com Python (Parte 2)
 ![Consultando Bases SQL com Python (Parte 2)](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/Python/Python%20SQL%202.png)
 
     A linguagem de descrição de dados (DDL);
@@ -1171,7 +1171,7 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora67"></a>
-### Aula Prática - 3 horas
+### Aula Prática
 ![Aula Prática](https://github.com/Alisson-JP/Certificados/blob/8bc8565abe3ef4ec80becad8bc6041758fc54587/PDFs/Python/Python%20Aula%20P%C5%95atica.png)
 
     Exercícios Aplicados envolvendo:
@@ -1193,7 +1193,7 @@
 
 
 <a id="ancora68"></a>
-### Programando para web com Python, CSS e HTML (Parte 1) - 3 horas
+### Programando para web com Python, CSS e HTML (Parte 1)
 ![Programando para web com Python, CSS e HTML](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%201).png)
 
     Conhecendo o HTML;
@@ -1206,7 +1206,7 @@
 
 
 <a id="ancora69"></a>
-### Programando para web com Python, CSS e HTML (Parte 2) - 3 horas
+### Programando para web com Python, CSS e HTML (Parte 2)
 ![Programando para web com Python, CSS e HTML - parte 2](https://github.com/Alisson-JP/Certificados/blob/e13eef9c1ae88373211aeab141dc7f3cca08a80e/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%202).png)
 
     Entendendo o que é servidor e porque precisamos dele;
@@ -1219,7 +1219,7 @@
 
 
 <a id="ancora70"></a>
-### Programando para web com Python, CSS e HTML (Parte 3) - 3 horas
+### Programando para web com Python, CSS e HTML (Parte 3)
 ![Programando para web com Python, CSS e HTML - parte 3](https://github.com/Alisson-JP/Certificados/blob/716e00563551bfbbc84193143f481ff538028d7d/PDFs/Python/Programando%20para%20web%20com%20Python,%20CSS%20e%20HTML%20(Parte%203).png)
 
     Integrando a nossa página de HTML e CSS no servidor;
@@ -1233,10 +1233,10 @@
 
 ---
 
-### UX - 21 horas
+### UX
 
 <a id="ancora71"></a>
-### Tópicos de UX para Design de Serviços - 3 horas
+### Tópicos de UX para Design de Serviços
 ![Tópicos de UX para Design de Serviços](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Design%20de%20servi%C3%A7os.png)
 
     Conceitos fundamentais;
@@ -1251,7 +1251,7 @@
 
 
 <a id="ancora72"></a>
-### Tópicos de UX para IA: Experiências Ominicanal - 3 horas
+### Tópicos de UX para IA: Experiências Ominicanal
 ![Tópicos de UX para IA: Experiências Ominicanal](https://github.com/Alisson-JP/CertificadosSO/blob/c9379630eaf3bbabe2ce51ff2ee4a10ff1870371/PDFs/UX/UX%20Ominicanal.png)
 
     Fundamentos: Experiência do Usuário (UX) e Inteligência Artificial (IA);
@@ -1265,7 +1265,7 @@
 
 
 <a id="ancora73"></a>
-### Tópicos de UX para IA: Interfaces Conversacionais - 3 horas
+### Tópicos de UX para IA: Interfaces Conversacionais
 ![Tópicos de UX para IA: Interfaces Conversacionais](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/UX/T%C3%B3picos%20de%20UX%20para%20IA:%20Interfaces%20Conversacionais.png)
 
     Conceitos da  GUI (Graphical User Interface) ao VUI (Voice User Interface);
@@ -1278,7 +1278,7 @@
 
 
 <a id="ancora74"></a>
-### Design Thinking - Conceitos e Práticas - 3 horas
+### Design Thinking - Conceitos e Práticas
 ![Design Thinking - Conceitos e Práticas](https://github.com/Alisson-JP/Certificados/blob/4d65ee7d9536ff33eea7202e840c32fee5abdd8b/PDFs/UX/Design%20Thinking.png)
    
        Introdução ao Design Thinking;
@@ -1290,7 +1290,7 @@
 
 
 <a id="ancora75"></a>
-### Tópicos de UX para Internet das Coisas - 3 horas
+### Tópicos de UX para Internet das Coisas
 ![Tópicos de UX para Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/645ea68c0936cd250b3cac6d350d3b90e662960d/PDFs/UX/Captura%20de%20tela%20de%202021-10-30%2013-24-58.png)
 
     Tópicos de UX para IoT
@@ -1302,7 +1302,7 @@
 
 
 <a id="ancora76"></a>
-### Tópicos de UX para VR e AR - 3 horas
+### Tópicos de UX para VR e AR
 ![Tópicos de UX para Internet das Coisas](https://github.com/Alisson-JP/Certificados/blob/716e00563551bfbbc84193143f481ff538028d7d/PDFs/UX/T%C3%B3picos%20de%20UX%20para%20VR%20e%20AR.png)
 
     Conceitos fundamentais;
@@ -1318,7 +1318,7 @@
 
 
 <a id="ancora77"></a>
-### Oficina de Usabilidade - 3 horas
+### Oficina de Usabilidade
 ![Usabilidade](https://github.com/Alisson-JP/Certificados/blob/100ed5778e8ae617e9e833eccbd5ddb8d1e0b2d0/PDFs/UX/Oficina%20de%20Usabilidade.png)
 
     UX, UI e Usabilidade;
@@ -1334,7 +1334,7 @@
  
  ### VR & AR
  <a id="ancora78"></a>
- ### V4: Realidade Aumentada: Laboratório com Unity e AR Foundation - 2 horas
+ ### V4: Realidade Aumentada: Laboratório com Unity e AR Foundation
 ![Unity e AR](https://github.com/Alisson-JP/Certificados/blob/6fabf14bef050b7430bdba2cfe56016e8884efbd/PDFs/VR%20&%20AR/Unity%20e%20AR.png)
 
     Fundamentos de Realidade Misturada;
