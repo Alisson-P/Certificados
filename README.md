@@ -13,7 +13,7 @@
    - [Linux Fundamentals](#ancora3)
    - [NerdIn](#ancora79)
 
-   ## CISCO - LPI
+   ## LPI | CISCO
    - [Linux Unhatched](#ancora4)
    - [Linux Essentials](#ancora5)
 
@@ -27,6 +27,9 @@
 ## CCNA - Introduction to Networks
 - [Badge CCNA1](#ancora80)
 - [Carta de Mérito](#ancora81)
+
+## Python
+- [PCAP: Programming Essentials in Python](#ancora84)
 
 <a name="ancoramicrosoft"></a>
 # Microsoft
@@ -1378,7 +1381,26 @@
       são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
       Ela serve para confirmar o nível de excelência alcançado.
 - [Voltar CISCO](#ancoracisco)
-- [Voltar ao topo](#ancora)   
+- [Voltar ao topo](#ancora)
+
+<a id="ancora84"></a>
+# PCAP: Programming Essentials in Python
+![Python](https://github.com/Alisson-JP/Certificados/blob/343522d3ebd54a7472527500473eb612facdc1d3/PDFs/Python/Cisco%20Python.png)
+
+      Universal concepts of computer programming, including:
+      Variables, data structures, algorithms, control flow, functions, and exceptions;
+      Can proficiently use the developer tools, the runtime environment,
+      and the syntax and semantics of the Python language;
+      Can use fundamental programming techniques, best practices,
+      customs, and vocabulary, including the most common standard library functions in Python 3;
+      Can write Python programs using standard language infrastructure,
+      and knows the means by which to resolve typical implementation problems;
+      Knows how to work with modules and packages, process text and binary files,
+      and use generators, iterators, and closures;
+      understands the fundamentals of object-oriented programming (OOP)
+      and the way they are adopted in Python.
+- [Voltar CISCO](#ancoracisco)
+- [Voltar ao topo](#ancora)
 
 ---
  
