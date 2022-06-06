@@ -34,8 +34,10 @@
 - [Word](#ancora15)
 - [Powerpoint](#ancora16)
 
-
-
+# Samsung Ocean - 165 horas
+<a id="ancorasamsungocean"></a>
+## Android - 24 horas
+- [Kotlin](#ancora17)
 ---
 <a id="ancora1"></a>
 ## Uptime - English
