@@ -6,7 +6,7 @@
 
 - [Advanced English](#ancora1)
 
-# Linux - 100 horas
+# Linux
 <a name="ancoralinux"></a>
 ## 4Linux Open Software Specialists
 - [Segurança em Servidores](#ancora2)
