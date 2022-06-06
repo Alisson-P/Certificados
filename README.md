@@ -1418,7 +1418,9 @@
 # CCNA: Carta de Mérito
 ![Carta de Mérito](https://github.com/Alisson-JP/Certificados/blob/ae594baa4bf3f5e0443c55f98c369705d2130a4b/PDFs/Cisco/Carta%20de%20M%C3%A9rito.png)
 
-      Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. Ela serve para confirmar o nível de excelência alcançado.
+      Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, 
+      são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
+      Ela serve para confirmar o nível de excelência alcançado.
 - [Voltar CISCO](#ancoracisco)
 - [Voltar ao topo](#ancora)   
 
