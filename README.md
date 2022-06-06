@@ -54,7 +54,7 @@
 - [Backend com NodeJs e Express - parte 2](#ancora28)
 
 <a id="ancorabixby"></a>
-## Backend - 12 horas
+## Bixby
 - [Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](#ancora29)
 
 <a id="ancorablockchain"></a>
@@ -66,21 +66,28 @@
 <a id="ancoradevops"></a>
 ## Desenvolvimento Ágil - 6 horas
 - [Introdução](#ancora33)
-- [DevOps Git](#ancora33)
+- [DevOps Git](#ancora34)
+
+<a id="ancoradispwearables"></a>
+## Dispositivos Wearables
+- [Introdução aos Dispositivos Wearables](#ancora35)
 
 <a id="ancoraempreendedorismo"></a>
 ## Empreendedorismo - 9 horas
-- [Ecossistemas de Inovação e Empreendedorismo](#ancora35)
-- [Design Thinking aplicado a Startups](#ancora36)
-- [Identificando o cliente e o problema](#ancora37)
-- [Construindo e validando a proposição de valor](#ancora38)
+- [Ecossistemas de Inovação e Empreendedorismo](#ancora36)
+- [Design Thinking aplicado a Startups](#ancora37)
+- [Identificando o cliente e o problema](#ancora38)
+- [Construindo e validando a proposição de valor](#ancora39)
 
+<a id="ancorafrontend"></a>
+## Frontend - 6 horas
+- [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
+- [Frontend Web com ReactJS (Parte 2)](#ancora41)
+
+<a id="ancoraia"></a>
+## IA - Inteligência artificial - 21 horas
 
 - [Laboratório](#ancora19)
-
-
-
-
 
 ---
 <a id="ancora1"></a>
