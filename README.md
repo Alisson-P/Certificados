@@ -15,11 +15,11 @@
 - [Linux Unhatched](#ancora4)
 - [Linux Essentials](#ancora5)
 
-#Cyber Security
+# Cyber Security
 ## Simplilearn
 - [Introduction to cyber security](#ancora6)
 
-#Selos de Avaliação e Competência do Linkedin
+# Selos de Avaliação e Competência do Linkedin
 - [Azure](#ancora7)
 - [Python](#ancora8)
 - [Bash](#ancora9)
@@ -200,33 +200,55 @@
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
+<a id="ancora7"></a>
+### Azure
+![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
+- [Voltar](#ancora)
 
+<a id="ancora8"></a>
 ### Python
 ![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
+- [Voltar](#ancora)
 
+<a id="ancora9"></a>
 ### Bash
 ![Bash](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Bash.png)
+- [Voltar](#ancora)
 
+<a id="ancora10"></a>
 ### Cibersegurança
 ![Cibersegurança](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Ciberseguran%C3%A7a.png)
+- [Voltar](#ancora)
 
+<a id="ancora11"></a>
 ### Git
 ![Git](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20GIT.png)
+- [Voltar](#ancora)
 
+<a id="ancora12"></a>
 ### Linux
 ![Linux](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Linux.png)
+- [Voltar](#ancora)
 
+<a id="ancora13"></a>
 ### Operações de TI
 ![Operações de TI](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Opera%C3%A7%C3%B5es%20de%20TI.png)
+- [Voltar](#ancora)
 
+<a id="ancora14"></a>
 ### Excel
 ![Excel](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Excel.png)
+- [Voltar](#ancora)
 
+<a id="ancora15"></a>
 ### Word
 ![Word](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Word.png)
+- [Voltar](#ancora)
 
+<a id="ancora16"></a>
 ### Powerpoint
 ![Powerpoint](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20PowerPoint.png)
+- [Voltar](#ancora)
 
 ---
 
