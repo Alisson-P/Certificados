@@ -1116,7 +1116,7 @@
     Variáveis, operações matemáticas e exibição no console;
     Juntando variáveis através da concatenação;
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1137,7 +1137,7 @@
     Desafio extra!;
     Lista de exercícios.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1158,7 +1158,7 @@
     Utilizando a função enumerate()
     Combinando listas e dicionários
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1172,7 +1172,7 @@
     O padrão SQL e seus dialetos;
     Criando um banco de dados em um SGDB.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1187,7 +1187,7 @@
     Consultando dados com junções (Join);
     Exercícios para fixação.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora67"></a>
@@ -1208,7 +1208,7 @@
     Dicionário;
     Touch.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1221,7 +1221,7 @@
     Construindo a primeira página do site;
     Páginas estáticas vs páginas dinâmicas;
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1234,7 +1234,7 @@
     Implementando o Flask;
     Exibindo uma página simples;
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
@@ -1247,7 +1247,7 @@
     Integrando código Python para geração dinâmica do HTML;
     Conhecendo alternativas para hospedagem gratuita de sites sem servidor.
 - [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Python](#ancoraopython)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)    
 
 
