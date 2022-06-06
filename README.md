@@ -21,7 +21,7 @@
 ## Simplilearn
 - [Introduction to cyber security](#ancora6)
 
-<a name="ancoraselosdolinkedin"></a>
+<a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
 - [Azure](#ancora7)
 - [Python](#ancora8)
