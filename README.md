@@ -184,57 +184,16 @@
 ### Segurança em Servidores Linux - 40 horas
 ![Segurança em Servidores Linux](https://github.com/Alisson-JP/Certificados/blob/6d68d3c4785ed5ddee412d7feb59203cfb6b0282/PDFs/Linux/4Linux%20-%20Seguran%C3%A7a%20em%20Servidores%20Linux.png)
 
-   ### Hardening
-    Configurações de Segurança Pós Instalação
-    TCP Wrappers e OPENSSH
-    Controle de Acesso com PAM
-    Trabalhando com ACLs de File System e Atributos Extendidos
-    Trabalhando graficamente com ACLsgetfacl / setfaclgetfattr / setfattr
-
-   ### Criptografia de Discos
-    dm-crypt com LUKS (Linux Unified Key Setup-on-disk-format)
-
-   ### OpenSSL e GPG (GNU Privacy Guard)
-    Geração de Certificado
-    Certificados do tipo Auto-Assinado
-    Criação de CA
-    Gerenciamento de Chaves Múltiplas
-
-   ### Isolamento de Serviços
-    Configurando as Aplicações em Chroot
-
-   ### Utilização do SYSLOG-NG
-    Administração e Monitoramento de logs no sistema
-    Sistema de Log Local e Remoto
-
-   ### HIDS (Host Intrusion Detection System)
-    Puppet
-    Tripwire
-    AIDE
-    OSSEC
-
-   ### IDS / IPS
-    Snort
-    Interface de Gerenciamento com AcidBase
-    Snort em Modo Brigde
-    Guardian
-
-   ### Processo de Auditoria
-    Nessus
-    SElinux
-    Implementação de Regras de Acesso com SELinux
-    Adicionando/Removendo regra por linha de comando
-    setenforce/getenforce
-    fixfiles/setfiles
-
-   ### Segurança utilizando Firewalls
-    Manipulando as tabelas Filter e Nat
-    iptables-save/iptables-restore
-
-   ### VPN – OpenVPN
-    Server – to – Host
-    Server – to – Server
-
+    Hardening
+    Criptografia de Discos
+    OpenSSL e GPG (GNU Privacy Guard)
+    Isolamento de Serviços (Chroot)
+    SYSLOG-NG
+    HIDS (Host Intrusion Detection System)
+    IDS / IPS
+    Processo de Auditoria
+    Segurança utilizando Firewalls
+    VPN – OpenVPN
 - [Voltar Linux](#ancoralinux)
 - [Voltar ao topo](#ancora)
 
@@ -266,7 +225,6 @@
     Comandos do GNU/Linux;
     Localização no sistema - Find e Locate;
     Laboratório 1, 2, 3.
-    
 - [Voltar Linux](#ancoralinux)
 - [Voltar ao topo](#ancora)
     
@@ -284,7 +242,6 @@
     Your Computer on the Network (PT)
     Basic Security and Identifying User Types (PT)
     Managing File Permissions and Ownership (PT)
-
 - [Voltar Linux](#ancoralinux)
 - [Voltar ao topo](#ancora)
 
@@ -311,7 +268,6 @@
     Creating Users and Groups
     Ownership and Permissions
     Special Directories and Files
-    
 - [Voltar Linux](#ancoralinux)
 - [Voltar ao topo](#ancora)
 
@@ -336,15 +292,15 @@
     Incident management
     Business continuity
     Disaster recovery
-
 - [Voltar Simplilearn](#ancorasimplilearn)
 - [Voltar ao topo](#ancora)
+
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
 <a id="ancora7"></a>
 ### Azure
-![Python](https://github.com/Alisson-JP/Certificados/blob/02bbe601c700a929a1f816371f029242f853c946/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Python.png)
+![Azure](https://github.com/Alisson-JP/Certificados/blob/a318939c1b2d7f3c8ed3b0b1c02d726f4f919e24/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Linkedin%20Azure%20Selo%20.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
@@ -356,13 +312,13 @@
 
 <a id="ancora9"></a>
 ### Bash
-![Bash](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Bash.png)
+![Bash](https://github.com/Alisson-JP/Certificados/blob/a318939c1b2d7f3c8ed3b0b1c02d726f4f919e24/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Linkedin%20Bash.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora10"></a>
 ### Cibersegurança
-![Cibersegurança](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Ciberseguran%C3%A7a.png)
+![Cibersegurança](https://github.com/Alisson-JP/Certificados/blob/a318939c1b2d7f3c8ed3b0b1c02d726f4f919e24/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Linkedin%20Ciberseguran%C3%A7a.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
@@ -374,13 +330,13 @@
 
 <a id="ancora12"></a>
 ### Linux
-![Linux](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Linux.png)
+![Linux](https://github.com/Alisson-JP/Certificados/blob/a318939c1b2d7f3c8ed3b0b1c02d726f4f919e24/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Linkedin%20Linux.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
 <a id="ancora13"></a>
 ### Operações de TI
-![Operações de TI](https://github.com/Alisson-JP/CertificadosSO/blob/5f4e43d8f7346648f72434058dcea4d06ba26adc/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Avalia%C3%A7%C3%A3o%20Linkedin%20Opera%C3%A7%C3%B5es%20de%20TI.png)
+![Operações de TI](https://github.com/Alisson-JP/Certificados/blob/a318939c1b2d7f3c8ed3b0b1c02d726f4f919e24/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/Linkedin%20Opera%C3%A7%C3%B5es%20de%20TI.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
 
