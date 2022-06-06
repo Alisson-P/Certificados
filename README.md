@@ -20,17 +20,20 @@
 <a name="ancorasimplilearn"></a>
 # Cyber Security
    ## Simplilearn
-   - [Introduction to cyber security](#ancora6)
+   - [Introduction to Cyber Security](#ancora6)
 
 <a name="ancoraccna"></a>
 # CCNA 1
 - [Badge CCNA1](#ancora80)
 - [Carta de Mérito](#ancora81)
 
-<a name="ancorawindows"></a>
-# Windows | Azure
-- [SC-900](#ancora82)
-- [NerdIn](#ancora83)
+<a name="ancoramicrosoft"></a>
+# Microoft
+   ## Azure
+   - [SC-900](#ancora82)
+   
+   ## Windows
+   - [NerdIn](#ancora83)
 
 <a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
@@ -1387,3 +1390,72 @@
 - [Voltar VR & AR](#ancoravrear)
 - [Voltar ao topo](#ancora)
  
+
+---
+ 
+### CISCO
+
+<a id="ancora80"></a>
+# CCNA: Introduction to Networks
+![Badge](https://github.com/Alisson-JP/Certificados/blob/999d57221f0b0e290f7f6cf5003e648aab3c3ee2/PDFs/Cisco/CCNA%20Networks%20Badge.png)
+
+      Ethernet
+      Conectividade IP
+      Serviços IP
+      Sub-rede IP
+      Endereçamento IPv4 e IPv6
+      Fundamentos de rede
+      Fundamentos de segurança
+      Switchs
+      Laboratórios via Packet Tracer
+- [Voltar Microsoft](#ancorasamsungocean)
+- [Voltar CISCO](#ancoravrear)
+- [Voltar ao topo](#ancora)      
+
+
+<a id="ancora81"></a>
+# CCNA: Carta de Mérito
+![Carta de Mérito](https://github.com/Alisson-JP/Certificados/blob/ae594baa4bf3f5e0443c55f98c369705d2130a4b/PDFs/Cisco/Carta%20de%20M%C3%A9rito.png)
+
+      Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. Ela serve para confirmar o nível de excelência alcançado.
+
+
+---
+ 
+### Microsoft
+<a id="ancora82"></a>
+## Azure
+![SC-900](https://github.com/Alisson-JP/Certificados/blob/5a3eb6ce40389263b7f00b92eff2549d598d7809/PDFs/Microsoft/SC-900%20Ka%20Solutions.png)
+
+      Conceitos básicos de segurança
+      Conformidade e identidade
+      Zero-Trust
+      responsabilidade compartilhada
+      princípios de privacidade
+
+      Conceitos e recursos das soluções de gerenciamento de acesso e identidade
+      Serviços e entidades de identidade do Azure AD
+      Autenticação segura
+      Recursos de gerenciamento de acesso
+      Proteção e governança de identidade
+
+      Recursos das soluções de segurança
+      Recursos de rede e plataforma do Azure
+      Gerenciamento de segurança do Azure e Sentinel
+      Proteção contra ameaças com o Microsoft 365 Defender
+      Gerenciamento de segurança do Microsoft 365
+      Proteção de endpoint com o Intune.
+
+      Recursos das soluções de conformidade
+      Centro de conformidade, proteção e governança de informações no Microsoft 365
+      Risco interno
+      Auditoria e soluções de eDiscovery
+      Recursos de governança de recursos do Azure.
+
+
+## Windows
+![SC-900](https://github.com/Alisson-JP/Certificados/blob/5a3eb6ce40389263b7f00b92eff2549d598d7809/PDFs/Microsoft/Windows%20NerdIn.png)
+  
+
+
+
