@@ -761,6 +761,10 @@
 ### Introdução ao Deep Learning (Parte 1) - 3 horas
 ![Intro DL 1](https://github.com/Alisson-JP/Certificados/blob/527f192a3452f3de578454b8617c5233a947aaa9/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%201).png)
 
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)
+
 <a id="ancora43"></a>
 ### Introdução ao Deep Learning (Parte 2) - 3 horas
 ![Intro DL 2](https://github.com/Alisson-JP/Certificados/blob/99b774b9121053f76d67422099759973f231ecbb/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Introdu%C3%A7%C3%A3o%20ao%20Deep%20Learning%20(Parte%202).png)
@@ -771,6 +775,9 @@
     Redes neurais, redes neurais profundas, redes neurais convolucionais;
     Hands on com python e keras;
     Exemplos de aplicações.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)
 
 
 ### Ciência de Dados - 6 horas
@@ -785,6 +792,9 @@
     Limpeza de dados;
     isualização de dados;
     Introdução aos algoritmos de Machine Learning.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora45"></a>
 ### Análise de dados geográficos com Python- 3 horas
@@ -803,16 +813,25 @@
     Atividade prática utilizando:
     Dados abertos; linguagem Python e as bibliotecas GeoPandas,
     Shapely e Folium na extração de informações de dados geográficos.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)
 
 ### Machine Learning com Orange - 9 Horas
 
 <a id="ancora46"></a>
 ### Entendendo e implementando Machine Learning com Orange (parte 1) - 3 horas
 ![ML com Orange 1](https://github.com/Alisson-JP/Certificados/blob/5b6169428e4821d7e2531da32cc1c0a45dd33a48/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Machine%20Learning:%20Entendendo%20e%20implementando%20com%20Orange.png)
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora47"></a>
 ### Entendendo e implementando Machine Learning com Orange (parte 2) - 3 horas
 ![ML com Orange 2](https://github.com/Alisson-JP/Certificados/blob/c6377f193e34540507dd37bf2c10826f1d0b7edf/PDFs/IA%20-%20Intelig%C3%AAncia%20Artificial/Entendendo%20e%20implementando%20Machine%20Learning%20com%20Orange%20(Parte%202).png)
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora48"></a>
 ### Entendendo e implementando Machine Learning com Orange (parte 3)- 3 horas
@@ -825,7 +844,10 @@
     Preparação e exploração de dados;
     Transformação de dados;
     Visualização de dados com Matplotlib;
-    
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Inteligência artificial](#ancoraia)
+- [Voltar ao topo](#ancora)    
+
 ---
 
 ### Indústria 4.0 - 6 horas
@@ -838,6 +860,9 @@
     Simulação Avançada de Sistemas (CPS);
     Robótica Inteligente (COBOTS); e
     Realidade Virtual Aumentada.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Indústria 4.0](#ancoraind4p0)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora50"></a>
 ### Módulo 2 - 2 horas
@@ -847,6 +872,9 @@
     Computação em Nuvem (I-CLOUD);
     Segurança Cibernética e Integração Horizontal; e
     Vertical de Sistemas.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Indústria 4.0](#ancoraind4p0)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora51"></a>
 ### Módulo 3 - 2 horas
@@ -857,7 +885,10 @@
     manufatura modular;
     operações integradas;
     otimização no chão de fábrica das empresas.
-   
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Indústria 4.0](#ancoraind4p0)
+- [Voltar ao topo](#ancora)
+
 ---
 
 ### IoT - Internet das Coisas - 5 horas
@@ -873,6 +904,10 @@
     Desafios;
     Conclusões.
 
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar IoT - Internet das Coisas](#ancoraiot)
+- [Voltar ao topo](#ancora)
+
 <a id="ancora53"></a>
 ### Laboratório de IoT com Arduino - 3 horas
 ![Laboratório de IoT com Arduino](https://github.com/Alisson-JP/Certificados/blob/6f71d7f9c7de5581e2ee5882842c9860a9883eb4/PDFs/IoT/IoT%20-%20Laborat%C3%B3rio%20com%20Ardu%C3%ADno.png)
@@ -881,6 +916,9 @@
     Aspectos de Hardware com Arduíno;
     Aspectos de Redes com WiFi/Ethernet e MQTT;
     Desenvolvimento de Protótipo Funcional.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar IoT - Internet das Coisas](#ancoraiot)
+- [Voltar ao topo](#ancora)
 
 ---
 
@@ -895,12 +933,20 @@
     Mecanismo de prototipação;
     Fluxo de trabalho.
 
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Jogos Digitais](#ancorajogosdigitais)
+- [Voltar ao topo](#ancora)
+
 ### Unity - 4 horas
 ### Jogos 2D
 
 <a id="ancora55"></a>
 ### Criação de Jogos 2D com Unity (Parte 1) - 2 horas
 ![Jogos com Unity](https://github.com/Alisson-JP/Certificados/blob/8ee4e5dd511d1859a7bb59218b506375987507da/PDFs/Jogos%20Digitais/Cria%C3%A7%C3%A3o%20de%20Jogos%202D%20com%20Unity%20(Parte%201).png)
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Jogos Digitais](#ancorajogosdigitais)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora56"></a>
 ### Criação de Jogos 2D com Unity (Parte 2) - 2 horas
@@ -911,6 +957,10 @@
     Criação de scripts em C#;
     Mecânica de jogo;
     Interface de Usuário.    
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Jogos Digitais](#ancorajogosdigitais)
+- [Voltar ao topo](#ancora)
+
 
 ### Jogos 3D
 <a id="ancora57"></a>
@@ -923,11 +973,19 @@
      Criando scripts de controle;
      Mecânica básica de jogo;
      Interface de Usuário.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Jogos Digitais](#ancorajogosdigitais)
+- [Voltar ao topo](#ancora)
+
 
 ### Modelagem 3D - 4 horas
 <a id="ancora58"></a>
 ### Modelagem 3D para Jogos Digitais (Parte 1) - 2 horas
 ![Modelagem 3D 1](https://github.com/Alisson-JP/Certificados/blob/4aea43a37f9133c9fac448650acf2277b5beb957/PDFs/Jogos%20Digitais/Modelagem%203D%20para%20Jogos%20Digitais%20(Parte%201).png)
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Jogos Digitais](#ancorajogosdigitais)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora59"></a>
 ### Modelagem 3D para Jogos Digitais (Parte 2) - 2 horas
@@ -938,6 +996,10 @@
     Editando a malha poligonal;
     Edição de UV e Texturas;
     Exportando para o Unity.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Jogos Digitais](#ancorajogosdigitais)
+- [Voltar ao topo](#ancora)
+
 
 ---
 
@@ -954,6 +1016,10 @@
     Thiago Chiliatto, fundador da Antecipa Fácil;
     Fernando Castro, CEO da HypeFlame.
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Ocean Talks](#ancoraoceantalks)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora61"></a>
 ### Marco legal das startups - 1,5 horas
@@ -965,6 +1031,9 @@
     Juliana Crepalde: Diretora Técnica do Fórum dos Gestores de Inovação e Transferência de Tecnologia (FORTEC).
     Newton Frateschi: responsável pela área de Ciência Tecnologia e Inovação da pasta de Campinas-SP.
     Débora Moretti: co-fundadora e Diretora de Pontes e Criatividade da iBench.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Ocean Talks](#ancoraoceantalks)
+- [Voltar ao topo](#ancora)
 
 ---
 
@@ -985,6 +1054,10 @@
     Exercícios para prática;
     Variáveis, operações matemáticas e exibição no console;
     Juntando variáveis através da concatenação;
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora63"></a>
 ### Módulo 2 - 3 horas
@@ -1002,6 +1075,10 @@
     Manipulação de bibliotecas, variáveis, exibição de números formatados;
     Desafio extra!;
     Lista de exercícios.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora64"></a>
 ### Módulo 3 - 3 horas
@@ -1019,6 +1096,10 @@
     Conhecendo a função items()
     Utilizando a função enumerate()
     Combinando listas e dicionários
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora65"></a>
 ### Consultando Bases SQL com Python (Parte 1) - 3 horas
@@ -1029,6 +1110,10 @@
     O Modelo Relacional;
     O padrão SQL e seus dialetos;
     Criando um banco de dados em um SGDB.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora66"></a>
 ### Consultando Bases SQL com Python (Parte 2) - 3 horas
@@ -1040,6 +1125,9 @@
     Criando tabelas que expressam relacionamentos entre entidades;
     Consultando dados com junções (Join);
     Exercícios para fixação.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
 
 <a id="ancora67"></a>
 ### Aula Prática - 3 horas
@@ -1058,6 +1146,10 @@
     Lista;
     Dicionário;
     Touch.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora68"></a>
 ### Programando para web com Python, CSS e HTML (Parte 1) - 3 horas
@@ -1067,6 +1159,10 @@
     Conhecendo o CSS;
     Construindo a primeira página do site;
     Páginas estáticas vs páginas dinâmicas;
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora69"></a>
 ### Programando para web com Python, CSS e HTML (Parte 2) - 3 horas
@@ -1076,6 +1172,10 @@
     Django vs Flask: Entendendo o que são essas tecnologias;
     Implementando o Flask;
     Exibindo uma página simples;
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora70"></a>
 ### Programando para web com Python, CSS e HTML (Parte 3) - 3 horas
@@ -1085,7 +1185,11 @@
     Interagindo com o usuário através do HTML;
     Integrando código Python para geração dinâmica do HTML;
     Conhecendo alternativas para hospedagem gratuita de sites sem servidor.
-    
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar Python](#ancoraopython)
+- [Voltar ao topo](#ancora)    
+
+
 ---
 
 ### UX - 21 horas
@@ -1100,6 +1204,10 @@
     Pilares projetuais em Design de Serviços;
     Jornada do usuário;
     Atividade: Blue Printing de um serviço.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora72"></a>
 ### Tópicos de UX para IA: Experiências Ominicanal - 3 horas
@@ -1110,6 +1218,10 @@
     Desafios e oportunidades;
     Tendências e cases;
     Prática: projetando uma experiência ominicanal orquestrada por IA.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora73"></a>
 ### Tópicos de UX para IA: Interfaces Conversacionais - 3 horas
@@ -1119,6 +1231,10 @@
     Desafios e oportunidades;
     Tendências e cases;
     Prática: prototipação de uma VUI.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora74"></a>
 ### Design Thinking - Conceitos e Práticas - 3 horas
@@ -1127,6 +1243,10 @@
        Introdução ao Design Thinking;
        Métodos, ferramentas e prática;
        Atividade: Simulando um Design Sprint.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora75"></a>
 ### Tópicos de UX para Internet das Coisas - 3 horas
@@ -1135,6 +1255,10 @@
     Tópicos de UX para IoT
     Desafios e oportunidades
     Prática: Prototipando uma solução em IoT
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora76"></a>
 ### Tópicos de UX para VR e AR - 3 horas
@@ -1147,6 +1271,10 @@
     Pilares projetuais em VR;
     Cases;
     UX para VR na prática.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)
+
 
 <a id="ancora77"></a>
 ### Oficina de Usabilidade - 3 horas
@@ -1156,7 +1284,11 @@
     Usuário vs. Sistema;
     10 heurísticas de usabilidade;
     Exercícios aplicados.
-    
+ - [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar UX](#ancoraux)
+- [Voltar ao topo](#ancora)   
+ 
+ 
  ---
  
  ### VR & AR
@@ -1170,4 +1302,7 @@
     Reconhecimento de ambientes;
     UI, UX e boas práticas.
     Testes com o Samsung Galaxy e GearVR.
+- [Voltar Samsung Ocean](#ancorasamsungocean)
+- [Voltar VR & AR](#ancoravrear)
+- [Voltar ao topo](#ancora)
  
