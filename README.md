@@ -7,10 +7,13 @@
 - [Advanced English](#ancora1)
 
 # Linux - 100 horas
+## 4Linux Open Software Specialists
 - [Segurança em Servidores](#ancora2)
 - [Linux Fundamentals](#ancora3)
-- [Raikage](#ancora4)
-- [Tsuchikage](#ancora4)
+
+## CISCO - LPI
+- [Linux Unhatched](#ancora4)
+- [Linux Essentials](#ancora5)
 
 ---
 <a id="ancora1"></a>
@@ -114,7 +117,7 @@
 - [Voltar](#ancora)
     
 ## NDG - CISCO
-
+<a id="ancora4"></a>
 ### LPI Linux Unhatched
 ![LPI 1](https://github.com/Alisson-JP/Certificados/blob/a69ad61b4bbd214c5b29cd6621c5f97330f67968/PDFs/Linux/AlissonJoabe%20Pereira-NDG%20Linux%20Unhatc-certificate.png)
 
@@ -128,9 +131,11 @@
     Basic Security and Identifying User Types (PT)
     Managing File Permissions and Ownership (PT)
 
+- [Voltar](#ancora)
 ## NDG - CISCO
 
 ### LPI Linux Essentials
+<a id="ancora5"></a>
 ![LPI 1](https://github.com/Alisson-JP/Certificados/blob/a69ad61b4bbd214c5b29cd6621c5f97330f67968/PDFs/Linux/AlissonJoabe%20Pereira-NDG%20Linux%20Essent-certificate.png)
 
     Introduction to Linux
@@ -151,6 +156,7 @@
     Creating Users and Groups
     Ownership and Permissions
     Special Directories and Files
+- [Voltar](#ancora)
 
 ---
 
