@@ -230,6 +230,12 @@
     Laboratório 1, 2, 3.
 - [Voltar Linux](#ancoralinux)
 - [Voltar ao topo](#ancora)
+
+<a id="ancora79"></a>
+### Linux NerdIn
+![NerdIn](https://github.com/Alisson-JP/Certificados/blob/5774d30b323d9a6872cbcdcdf08931741d444e46/PDFs/Linux/Linux%20NerdIn.png)
+- [Voltar Linux](#ancoralinux)
+- [Voltar ao topo](#ancora)
     
 ## NDG - CISCO
 <a id="ancora4"></a>
