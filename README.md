@@ -32,10 +32,10 @@
 # CISCO
 ## CCNA - Introduction to Networks
 - [Badge CCNA](#ancora80)
-- [Carta de Mérito](#ancora81)
+- [Carta de Mérito CCNA](#ancora81)
 - [Badge CyberOps](#ancora87)
-- [Carta de Mérito pg 1](#ancora88)
-- [Carta de Mérito pg 2](#ancora89)
+- [Carta de Mérito CyberOps pg 1](#ancora88)
+- [Carta de Mérito CyberOps pg 2](#ancora89)
 
 ## Python
 - [PCAP: Programming Essentials in Python](#ancora84)
@@ -1433,6 +1433,51 @@
 - [Voltar CISCO](#ancoracisco)
 - [Voltar ao topo](#ancora)
 
+
+<a id="ancora87"></a>
+# CyberOps Associate
+![CyberOps](https://github.com/Alisson-JP/Certificados/blob/bb25cee4f1fa069a9c4e02998265900184aa8b02/PDFs/Cisco/CyberOps%20Cisco.png)
+
+      Attack methods
+      Computer Forensics
+      Cryptography
+      Cybersecurity
+      Data and Event Analysis
+      Endpoint Threat Analysis
+      Host-based Analysis
+      Incident Response
+      Malware Analysis
+      Network Attacks
+      Network Intrusion Analysis SecOps
+      Security Concepts
+      Security Monitoring
+      Security Policy
+      Security Procedures
+      SOC Metrics
+      Threat Detection
+- [Voltar CISCO](#ancoracisco)
+- [Voltar ao topo](#ancora)
+
+<a id="ancora88"></a>
+# Carta de Mérito CyberOps pg 1
+![Carta1CyberOps](https://github.com/Alisson-JP/Certificados/blob/bb25cee4f1fa069a9c4e02998265900184aa8b02/PDFs/Cisco/Carta%20de%20M%C3%A9rito%20CyberOps%20pg1.png)
+
+      Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, 
+      são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
+      Ela serve para confirmar o nível de excelência alcançado.
+- [Voltar CISCO](#ancoracisco)
+- [Voltar ao topo](#ancora)
+
+<a id="ancora89"></a>
+# Carta de Mérito CyberOps pg 2
+![Carta2CyberOps]()
+
+      Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, 
+      são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
+      Ela serve para confirmar o nível de excelência alcançado.
+- [Voltar CISCO](#ancoracisco)
+- [Voltar ao topo](#ancora)
+
 ---
  
 ### Microsoft
@@ -1475,14 +1520,6 @@
 
 ---
 
-<a id="ancora85"></a>
-## IBSEC - Instituto Brasileiro de Cibersegurança
-![Cibersecurity Awareness](https://github.com/Alisson-JP/Certificados/blob/dd197dadb2770f4b64666206833785f1e7454dec/PDFs/Cibersecurity/Cibersecurity%20Awareness%20Ibsec.png)
-
-<a id="ancora86"></a>
-![Fundamentos em Cibersegurança](https://github.com/Alisson-JP/Certificados/blob/21340ee800caa6ead3073816a2437d024d75c303/PDFs/Cibersecurity/Fundamentos%20em%20Ciber%20Seguran%C3%A7a%20IBSec.png)
-   
----
 
 
 
