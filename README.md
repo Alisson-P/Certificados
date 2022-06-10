@@ -33,7 +33,9 @@
 ## CCNA - Introduction to Networks
 - [Badge CCNA](#ancora80)
 - [Carta de Mérito CCNA](#ancora81)
-- [Badge CyberOps](#ancora87)
+
+## CyberOps Associate
+- [CyberOps](#ancora87)
 - [Carta de Mérito CyberOps pg 1](#ancora88)
 - [Carta de Mérito CyberOps pg 2](#ancora89)
 
