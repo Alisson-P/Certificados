@@ -21,12 +21,19 @@
 # Cyber Security
    ## Simplilearn
    - [Introduction to Cyber Security](#ancora6)
+   
+   ## IBSEC - Instituto Brasileiro de Cibersegurança
+   - [Cibersecurity Awareness](#ancora85)
+   - [Fundamentos em Cibersegurança](#ancora86)
 
 <a name="ancoracisco"></a>
 # CISCO
 ## CCNA - Introduction to Networks
 - [Badge CCNA](#ancora80)
 - [Carta de Mérito](#ancora81)
+- [Badge CyberOps](#ancora87)
+- [Carta de Mérito pg 1](#ancora88)
+- [Carta de Mérito pg 2](#ancora89)
 
 ## Python
 - [PCAP: Programming Essentials in Python](#ancora84)
