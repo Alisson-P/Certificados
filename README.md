@@ -36,8 +36,7 @@
 
 ## CyberOps Associate
 - [CyberOps](#ancora87)
-- [Carta de Mérito CyberOps pg 1](#ancora88)
-- [Carta de Mérito CyberOps pg 2](#ancora89)
+- [Carta de Mérito CyberOps](#ancora88)
 
 ## Python
 - [PCAP: Programming Essentials in Python](#ancora84)
@@ -1461,18 +1460,8 @@
 - [Voltar ao topo](#ancora)
 
 <a id="ancora88"></a>
-# Carta de Mérito CyberOps pg 1
-![Carta1CyberOps](https://github.com/Alisson-JP/Certificados/blob/bb25cee4f1fa069a9c4e02998265900184aa8b02/PDFs/Cisco/Carta%20de%20M%C3%A9rito%20CyberOps%20pg1.png)
-
-      Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, 
-      são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
-      Ela serve para confirmar o nível de excelência alcançado.
-- [Voltar CISCO](#ancoracisco)
-- [Voltar ao topo](#ancora)
-
-<a id="ancora89"></a>
-# Carta de Mérito CyberOps pg 2
-![Carta2CyberOps](https://github.com/Alisson-JP/Certificados/blob/e424b5094ddd9f57f463d296626b822f0ecc9d07/PDFs/Cisco/Carta%20de%20M%C3%A9rito%20Cyber2.png)
+# Carta de Mérito CyberOps
+![Carta1CyberOps]()
 
       Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, 
       são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
