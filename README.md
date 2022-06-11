@@ -34,6 +34,11 @@
 - [Badge CCNA](#ancora80)
 - [Carta de Mérito CCNA](#ancora81)
 
+
+https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile
+
+https://www.credly.com/badges/98c9217e-0ee1-4a1c-9a45-0c4d43aaf503/linked_in?t=rd8eyt
+
 ## CyberOps Associate
 - [CyberOps](#ancora87)
 - [Carta de Mérito CyberOps](#ancora88)
