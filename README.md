@@ -1461,7 +1461,7 @@
 
 <a id="ancora88"></a>
 # Carta de Mérito CyberOps
-![Carta1CyberOps]()
+![Carta1CyberOps](https://github.com/Alisson-JP/Certificados/blob/54e86bd1ad97d384e9f6751609d13f2fdf412ffc/PDFs/Cisco/Carta%20de%20M%C3%A9rito%20Total.png)
 
       Aos alunos que obtiveram 75% ou mais de acertos no exame final do curso, 
       são concedidas cartas de mérito assinada pelo CEO da CISCO, Chuck Robbins. 
