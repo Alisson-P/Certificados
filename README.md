@@ -1,6 +1,6 @@
 <a name="ancora"></a>
 
-# 90 Certificados > 500 horas
+# 95 Certificados > 500 horas
 
 # Inglês - Uptime
 
@@ -27,6 +27,11 @@
    ## IBSEC - Instituto Brasileiro de Cibersegurança
    - [Cibersecurity Awareness](#ancora85)
    - [Fundamentos em Cibersegurança](#ancora86)
+   - [Fundamentos em Informática](#ancora89)
+   - [Fundamentos em Rede](#ancora90)
+   - [Analista de SOC Profissional](#ancora91)
+   - [Analista de Cibersegurança (Governança)](#ancora92)
+   - [Hacker Ético Associado](#ancora93)
 
 <a name="ancoracisco"></a>
 # CISCO
