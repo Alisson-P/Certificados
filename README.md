@@ -338,6 +338,46 @@
 - [Voltar IBSEC](#ancoraibsec)
 - [Voltar ao topo](#ancora)
 
+
+<a id="ancora89"></a>
+### Fundamentos em Informática
+![Fundamentos em Informática](https://github.com/Alisson-JP/Certificados/blob/3f5e1f3ca5c7884d22e3545581f0ffef9b528d5f/PDFs/Cibersecurity/IBSEC%2003%20Fundamentos%20em%20Inform%C3%A1tica.png)
+- [Voltar Cyber Security](#ancoracybersecurity)
+- [Voltar IBSEC](#ancoraibsec)
+- [Voltar ao topo](#ancora)
+
+
+<a id="ancora90"></a>
+### Fundamentos em Rede
+![Fundamentos em Rede](https://github.com/Alisson-JP/Certificados/blob/3f5e1f3ca5c7884d22e3545581f0ffef9b528d5f/PDFs/Cibersecurity/IBSEC%2004%20Fundamentos%20em%20rede.png)
+- [Voltar Cyber Security](#ancoracybersecurity)
+- [Voltar IBSEC](#ancoraibsec)
+- [Voltar ao topo](#ancora)
+
+
+<a id="ancora91"></a>
+### Analista de SOC Profissional
+![Analista de SOC Profissional](https://github.com/Alisson-JP/Certificados/blob/3f5e1f3ca5c7884d22e3545581f0ffef9b528d5f/PDFs/Cibersecurity/IBSEC%2005%20Analista%20de%20SOC%20Profissional.png)
+- [Voltar Cyber Security](#ancoracybersecurity)
+- [Voltar IBSEC](#ancoraibsec)
+- [Voltar ao topo](#ancora)
+
+
+<a id="ancora92"></a>
+### Analista de Cibersegurança (Governança)
+![Analista de Cibersegurança (Governança)](https://github.com/Alisson-JP/Certificados/blob/3f5e1f3ca5c7884d22e3545581f0ffef9b528d5f/PDFs/Cibersecurity/IBSEC%2006%20Analista%20de%20Ciberseguran%C3%A7a%20-%20Governan%C3%A7a.png)
+- [Voltar Cyber Security](#ancoracybersecurity)
+- [Voltar IBSEC](#ancoraibsec)
+- [Voltar ao topo](#ancora)
+
+
+<a id="ancora93"></a>
+### Hacker Ético Associado
+![Hacker Ético Associado](https://github.com/Alisson-JP/Certificados/blob/3f5e1f3ca5c7884d22e3545581f0ffef9b528d5f/PDFs/Cibersecurity/IBSEC%2007%20Hacker%20%C3%89tico%20Associado.png)
+- [Voltar Cyber Security](#ancoracybersecurity)
+- [Voltar IBSEC](#ancoraibsec)
+- [Voltar ao topo](#ancora)
+
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
