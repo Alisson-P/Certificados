@@ -35,15 +35,19 @@
 
 <a name="ancoracisco"></a>
 # CISCO
-## CCNA - Introduction to Networks
-- [CCNA - Introdução às redes](#ancora80)
-- [Badge CCNA](https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile)
-- [Carta de Mérito CCNA](#ancora81)
+
+## Cisco’s Cyber Defense Clinic (CDC)
+- [Cisco CDC](#ancora94)
 
 ## CyberOps Associate
 - [CyberOps](#ancora87)
 - [Badge CyberOps](https://www.credly.com/badges/98c9217e-0ee1-4a1c-9a45-0c4d43aaf503/linked_in?t=rd8eyt)
 - [Carta de Mérito CyberOps](#ancora88)
+
+## CCNA - Introduction to Networks
+- [CCNA - Introdução às redes](#ancora80)
+- [Badge CCNA](https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile)
+- [Carta de Mérito CCNA](#ancora81)
 
 ## Python
 - [PCAP: Programming Essentials in Python](#ancora84)
@@ -1434,6 +1438,23 @@
 ---
  
 ### CISCO
+
+<a id="ancora94"></a>
+# Cisco’s Cyber Defense Clinic (CDC)
+![Cisco CDC](https://github.com/Alisson-JP/Certificados/blob/083b13f5d2744be7c496fa065148231b209104f6/PDFs/Cisco/CDC%20Cisco%20AJP.png)
+
+      Labs and tools: attack and defense
+      Shodan / Masscan / NMAP
+      Rapid7 / Insight VM
+      Cisco AMP
+      Secure X
+      Stealthwatch
+      VPN
+      Splunk and QRadar (SIEM/SOAR)
+      WAF / MFA / Zero Trust
+      Dr. Workstation
+      Cloud Security
+
 
 <a id="ancora80"></a>
 # CCNA: Introduction to Networks
