@@ -33,7 +33,7 @@
    - [Analista de Cibersegurança (Governança)](#ancora92)
    - [Hacker Ético Associado](#ancora93)
    - [Segurança na Nuvem](#ancora95)
-   - [Python para Segurança Associado](#ancora96)
+   - [Python para Cibersegurança Associado](#ancora96)
 
 
 <a name="ancoracisco"></a>
@@ -395,8 +395,8 @@
 
 
 <a id="ancora96"></a>
-### Python para Segurança Associado
-![Python para Segurança Associado](https://github.com/Alisson-JP/Certificados/blob/a4c769e30b4e4bff0c593ca963a1a904c3329cf5/PDFs/Cibersecurity/IBSEC%2009%20Python%20para%20Seguran%C3%A7a%20Associado.png)
+### Python para Cibersegurança Associado
+![Python para Cibersegurança Associado](https://github.com/Alisson-JP/Certificados/blob/a4c769e30b4e4bff0c593ca963a1a904c3329cf5/PDFs/Cibersecurity/IBSEC%2009%20Python%20para%20Seguran%C3%A7a%20Associado.png)
 - [Voltar Cyber Security](#ancoracybersecurity)
 - [Voltar IBSEC](#ancoraibsec)
 - [Voltar ao topo](#ancora)
