@@ -21,9 +21,8 @@
 # Cyber Security
    <a name="ancorafat"></a>
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [CyberOps Associate Segunda Edição - Certificado](#ancora97)
-   - [CyberOps Associate Segunda Edição - Ementa](#ancora98)
-   
+   - [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
+      
    <a name="ancorasimplilearn"></a>
    ## Simplilearn
    - [Introduction to Cyber Security](#ancora6)
@@ -63,9 +62,8 @@
 <a name="ancoramicrosoft"></a>
 # Microsoft
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado](#ancora99)
-   - [AZ 900 - Microsoft Azure Fundamentals - Ementa](#ancora100)
-   
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora99)
+      
    ## KA Solution
    - [Azure - SC-900](#ancora82)
    
@@ -344,8 +342,6 @@
 ### CyberOps
 ![CyberOps Associate Segunda Edição - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/CyberOps%20FAT%201.png)
 
-
-<a id="ancora98"></a>
 ![CyberOps Associate Segunda Edição - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/CyberOps%20FAT%202.png)
 - [Voltar Cyber Security](#ancoracybersecurity)
 - [Voltar FAT](#ancorafat)
@@ -1581,7 +1577,6 @@
 ## Fundação de Apoio à Tecnologia - Programa Minha Chance
 ![AZ 900 - Microsoft Azure Fundamentals - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%201.png)
 
-<a id="ancora100"></a>
 ![AZ 900 - Microsoft Azure Fundamentals - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%202.png)
 - [Voltar Microsoft](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
