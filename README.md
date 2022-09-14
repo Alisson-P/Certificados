@@ -19,6 +19,11 @@
 
 <a name="ancoracybersecurity"></a>
 # Cyber Security
+   <a name="ancorafat"></a>
+   ## Fundação de Apoio à Tecnologia - Programa Minha Chance
+   - [CyberOps Associate Segunda Edição - Certificado](#ancora97)
+   - [CyberOps Associate Segunda Edição - Ementa](#ancora98)
+   
    <a name="ancorasimplilearn"></a>
    ## Simplilearn
    - [Introduction to Cyber Security](#ancora6)
@@ -57,8 +62,12 @@
 
 <a name="ancoramicrosoft"></a>
 # Microsoft
-   ## Azure
-   - [SC-900](#ancora82)
+   ## Fundação de Apoio à Tecnologia - Programa Minha Chance
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado](#ancora99)
+   - [AZ 900 - Microsoft Azure Fundamentals - Ementa](#ancora100)
+   
+   ## KA Solution
+   - [Azure - SC-900](#ancora82)
    
    ## Windows
    - [NerdIn](#ancora83)
@@ -329,6 +338,18 @@
 - [Voltar Simplilearn](#ancorasimplilearn)
 - [Voltar ao topo](#ancora)
 
+
+<a id="ancorafat"></a>
+## Fundação de Apoio à Tecnologia - Programa Minha Chance
+### CyberOps
+![CyberOps Associate Segunda Edição - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/CyberOps%20FAT%201.png)
+
+![CyberOps Associate Segunda Edição - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/CyberOps%20FAT%202.png)
+- [Voltar Cyber Security](#ancoracybersecurity)
+- [Voltar FAT](#ancorafat)
+- [Voltar ao topo](#ancora)
+---
+
 <a id="ancora85"></a>
 ## IBSEC - Instituto Brasileiro de Cibersegurança
 ### Boas práticas de Cibersegurança
@@ -400,8 +421,6 @@
 - [Voltar Cyber Security](#ancoracybersecurity)
 - [Voltar IBSEC](#ancoraibsec)
 - [Voltar ao topo](#ancora)
-
-
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
@@ -464,8 +483,8 @@
 ![Powerpoint](https://github.com/Alisson-JP/Certificados/blob/807d6c46ca96d72e1442243838d2384ccfebad4c/PDFs/Avalia%C3%A7%C3%B5es%20Linkedin%20-%20Selos/PowerPoint%20selo.png)
 - [Voltar Selos Linkedin](#ancoraselolinkedin)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ## Samsung Ocean
 <a id="ancorasamsungocean"></a>
@@ -591,8 +610,9 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Android](#ancoraandroid)
 - [Voltar ao topo](#ancora)
-    
 ---
+
+
 <a id="ancorabackend"></a>
 ### Backend
 <a id="ancora25"></a>
@@ -673,9 +693,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - Backend](#ancorabackend)
 - [Voltar ao topo](#ancora)
-
-
 ---
+
 
 ### Bixby
    
@@ -690,8 +709,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - Bixby](#ancorabixby)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ### Blockchain
 
@@ -731,9 +750,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - Blockchain](#ancorablockchain)
 - [Voltar ao topo](#ancora)
-
-
 ---
+
 
 ### Desenvolvimento Ágil
 
@@ -771,8 +789,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - DevOps](#ancoradevops)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ### Dispositivos Wearables
 
@@ -789,8 +807,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - Dispositovos Wearables](#ancoradispwearables)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ### Empreendedorismo
 
@@ -863,9 +881,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
 - [Voltar ao topo](#ancora)
-
-
 ---
+
 
 ### Frontend - 6 horas
 
@@ -897,9 +914,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Samsung Ocean - Frontend](#ancorafrontend)
 - [Voltar ao topo](#ancora)
-
-
 ---
+
 
 ### IA - Inteligência artificial
 
@@ -995,8 +1011,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Inteligência artificial](#ancoraia)
 - [Voltar ao topo](#ancora)    
-
 ---
+
 
 ### Indústria 4.0
 
@@ -1036,8 +1052,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Indústria 4.0](#ancoraind4p0)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ### IoT - Internet das Coisas
 
@@ -1067,8 +1083,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar IoT - Internet das Coisas](#ancoraiot)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ### Jogos Digitais
 
@@ -1147,9 +1163,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Jogos Digitais](#ancorajogosdigitais)
 - [Voltar ao topo](#ancora)
-
-
 ---
+
 
 ### Ocean Talks
 
@@ -1182,8 +1197,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Ocean Talks](#ancoraoceantalks)
 - [Voltar ao topo](#ancora)
-
 ---
+
 
 ### Python
 
@@ -1336,9 +1351,8 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)    
-
-
 ---
+
 
 ### UX
 
@@ -1435,9 +1449,8 @@
  - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar UX](#ancoraux)
 - [Voltar ao topo](#ancora)   
+---
  
- 
- ---
  
  ### VR & AR
  <a id="ancora78"></a>
@@ -1453,10 +1466,9 @@
 - [Voltar Samsung Ocean](#ancorasamsungocean)
 - [Voltar VR & AR](#ancoravrear)
 - [Voltar ao topo](#ancora)
- 
-
 ---
- 
+
+
 ### CISCO
 
 <a id="ancora94"></a>
@@ -1558,10 +1570,21 @@
       Ela serve para confirmar o nível de excelência alcançado.
 - [Voltar CISCO](#ancoracisco)
 - [Voltar ao topo](#ancora)
-
 ---
- 
+
+
 ### Microsoft
+
+<a id="ancora99"></a>
+## Fundação de Apoio à Tecnologia - Programa Minha Chance
+![AZ 900 - Microsoft Azure Fundamentals - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%201.png)
+
+<a id="ancora100"></a>
+![AZ 900 - Microsoft Azure Fundamentals - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%202.png)
+- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
+
+
 <a id="ancora82"></a>
 ## Azure
 ![SC-900](https://github.com/Alisson-JP/Certificados/blob/5a3eb6ce40389263b7f00b92eff2549d598d7809/PDFs/Microsoft/SC-900%20Ka%20Solutions.png)
