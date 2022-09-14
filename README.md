@@ -62,9 +62,10 @@
 <a name="ancoramicrosoft"></a>
 # Cloud | Cloud Security
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora99)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora97)
       
    ## KA Solution
+   - [AWS Week](#ancora98)
    - [Azure - SC-900](#ancora82)
    
    ## Windows
@@ -1571,9 +1572,17 @@
 ---
 
 
-### Microsoft
+### Cloud | Cloud Security
 
-<a id="ancora99"></a>
+<a id="ancora98"></a>
+## KA Solution - AWS Week
+![AWS Week 1](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%201.png)
+
+![AWS Week 2](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%202.png)
+- [Voltar Cloud](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
+
+<a id="ancora97"></a>
 ## Fundação de Apoio à Tecnologia - Programa Minha Chance
 ![AZ 900 - Microsoft Azure Fundamentals - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%201.png)
 
@@ -1581,8 +1590,6 @@
 - [Voltar Microsoft](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
-
-<a id="ancora82"></a>
 ## Azure
 ![SC-900](https://github.com/Alisson-JP/Certificados/blob/5a3eb6ce40389263b7f00b92eff2549d598d7809/PDFs/Microsoft/SC-900%20Ka%20Solutions.png)
 
@@ -1610,7 +1617,7 @@
       Risco interno
       Auditoria e soluções de eDiscovery
       Recursos de governança de recursos do Azure.
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Cloud](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
 <a id="ancora83"></a>
