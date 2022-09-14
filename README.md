@@ -68,15 +68,16 @@
    - [AWS Week](#ancora99)
    - [Azure - SC-900](#ancora82)
    
-   ## Windows
-   - [NerdIn](#ancora83)
-
 
 <a name="ancoralgpd"></a>
 # LGPD & DPO
    ## Ka Solution - DPO & LGPD na Prática
    - [DPO & LGPD](#ancora100)
-   
+
+
+# Windows
+- [NerdIn](#ancora83)
+
 
 <a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
