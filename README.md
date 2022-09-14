@@ -1,6 +1,6 @@
 <a name="ancora"></a>
 
-# 100 Certificados > 700 horas
+# 103 Certificados > 700 horas
 
 # Inglês - Uptime
 
@@ -59,16 +59,31 @@
 ## Python
 - [PCAP: Programming Essentials in Python](#ancora84)
 
-<a name="ancoramicrosoft"></a>
-# Microsoft
+<a name="ancoracloud"></a>
+# Cloud | Cloud Security
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora99)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
       
    ## KA Solution
+   - [AWS Week](#ancora99)
    - [Azure - SC-900](#ancora82)
    
-   ## Windows
-   - [NerdIn](#ancora83)
+
+<a name="ancoralgpd"></a>
+# LGPD & DPO
+   ## Ka Solution - DPO & LGPD na Prática
+   - [DPO & LGPD](#ancora100)
+
+
+<a name="ancorazabbix"></a>
+# Zabbix
+- [Zabbix Starter Week](#ancora101)
+
+
+<a name="ancoramicrosoft"></a>
+# Windows
+- [NerdIn](#ancora83)
+
 
 <a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
@@ -1571,14 +1586,23 @@
 ---
 
 
-### Microsoft
+### Cloud | Cloud Security
 
 <a id="ancora99"></a>
+## KA Solution - AWS Week
+![AWS Week 1](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%201.png)
+
+![AWS Week 2](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%202.png)
+- [Voltar Cloud](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+
+<a id="ancora98"></a>
 ## Fundação de Apoio à Tecnologia - Programa Minha Chance
 ![AZ 900 - Microsoft Azure Fundamentals - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%201.png)
 
 ![AZ 900 - Microsoft Azure Fundamentals - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%202.png)
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Cloud](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1610,8 +1634,27 @@
       Risco interno
       Auditoria e soluções de eDiscovery
       Recursos de governança de recursos do Azure.
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Cloud](#ancoracloud)
 - [Voltar ao topo](#ancora)   
+---
+
+
+<a id="ancora100"></a>
+### LGPD & DPO - Lei Geral de Proteção de Dados & Data Protection Officer
+## Ka Solution - DPO & LGPD na Prática
+![DPO & LGPD](https://github.com/Alisson-JP/Certificados/blob/6a63373b4a156689ca2894daf84d9041625231f1/PDFs/KA%20Solutions/DPO%20e%20LGPD.png)
+- [Voltar LGPD](#ancoralgpd)
+- [Voltar ao topo](#ancora)   
+---
+
+
+<a id="ancora101"></a>
+## Zabbix
+![Zabbix Starter Week]()
+- [Voltar Zabbix](#ancorazabbix)
+- [Voltar ao topo](#ancora)   
+---
+
 
 <a id="ancora83"></a>
 ## Windows
