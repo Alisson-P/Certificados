@@ -71,6 +71,13 @@
    ## Windows
    - [NerdIn](#ancora83)
 
+
+<a name="ancoralgpd"></a>
+# LGPD & DPO - Lei Geral de Proteção de Dados & Data Protection Officer
+   ## Ka Solution - DPO & LGPD na Prática
+   - [DPO & LGPD](#ancora100)
+   
+
 <a name="ancoraselolinkedin"></a>
 # Selos de Avaliação e Competência do Linkedin
 - [Azure](#ancora7)
@@ -1622,6 +1629,17 @@
       Recursos de governança de recursos do Azure.
 - [Voltar Cloud](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
+---
+
+
+<a id="ancora100"></a>
+### LGPD & DPO - Lei Geral de Proteção de Dados & Data Protection Officer
+## Ka Solution - DPO & LGPD na Prática
+![DPO & LGPD](https://github.com/Alisson-JP/Certificados/blob/6a63373b4a156689ca2894daf84d9041625231f1/PDFs/KA%20Solutions/DPO%20e%20LGPD.png)
+- [Voltar LGPD](#ancoralgpd)
+- [Voltar ao topo](#ancora)   
+---
+
 
 <a id="ancora83"></a>
 ## Windows
