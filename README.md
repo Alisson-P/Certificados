@@ -1590,6 +1590,8 @@
 - [Voltar Microsoft](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
+
+<a id="ancora82"></a>
 ## Azure
 ![SC-900](https://github.com/Alisson-JP/Certificados/blob/5a3eb6ce40389263b7f00b92eff2549d598d7809/PDFs/Microsoft/SC-900%20Ka%20Solutions.png)
 
