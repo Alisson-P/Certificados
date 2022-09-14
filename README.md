@@ -1,6 +1,6 @@
 <a name="ancora"></a>
 
-# 100 Certificados > 500 horas
+# 100 Certificados > 700 horas
 
 # Inglês - Uptime
 
