@@ -73,7 +73,8 @@
 
 
 <a name="ancoralgpd"></a>
-# LGPD & DPO - Lei Geral de Proteção de Dados & Data Protection Officer
+# LGPD & DPO
+# Lei Geral de Proteção de Dados & Data Protection Officer
    ## Ka Solution - DPO & LGPD na Prática
    - [DPO & LGPD](#ancora100)
    
