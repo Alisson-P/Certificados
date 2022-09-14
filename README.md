@@ -1650,7 +1650,7 @@
 
 <a id="ancora101"></a>
 ## Zabbix
-![Zabbix Starter Week]()
+![Zabbix Starter Week](https://github.com/Alisson-JP/Certificados/blob/c66cf1c2f19fee9d75085c79ddcdb9a888f0698c/PDFs/Zabbix/Zabbix%20Week.png)
 - [Voltar Zabbix](#ancorazabbix)
 - [Voltar ao topo](#ancora)   
 ---
