@@ -75,6 +75,11 @@
    - [DPO & LGPD](#ancora100)
 
 
+<a name="ancorazabbix"></a>
+# Zabbix
+- [Zabbix Starter Week](#ancora101)
+
+
 <a name="ancoramicrosoft"></a>
 # Windows
 - [NerdIn](#ancora83)
