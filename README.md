@@ -62,10 +62,10 @@
 <a name="ancoramicrosoft"></a>
 # Cloud | Cloud Security
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora97)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
       
    ## KA Solution
-   - [AWS Week](#ancora98)
+   - [AWS Week](#ancora99)
    - [Azure - SC-900](#ancora82)
    
    ## Windows
@@ -1574,7 +1574,7 @@
 
 ### Cloud | Cloud Security
 
-<a id="ancora98"></a>
+<a id="ancora99"></a>
 ## KA Solution - AWS Week
 ![AWS Week 1](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%201.png)
 
@@ -1582,7 +1582,8 @@
 - [Voltar Cloud](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
-<a id="ancora97"></a>
+
+<a id="ancora98"></a>
 ## Fundação de Apoio à Tecnologia - Programa Minha Chance
 ![AZ 900 - Microsoft Azure Fundamentals - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%201.png)
 
