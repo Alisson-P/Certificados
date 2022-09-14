@@ -59,7 +59,7 @@
 ## Python
 - [PCAP: Programming Essentials in Python](#ancora84)
 
-<a name="ancoramicrosoft"></a>
+<a name="ancoracloud"></a>
 # Cloud | Cloud Security
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
    - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
@@ -75,6 +75,7 @@
    - [DPO & LGPD](#ancora100)
 
 
+<a name="ancoramicrosoft"></a>
 # Windows
 - [NerdIn](#ancora83)
 
@@ -1587,7 +1588,7 @@
 ![AWS Week 1](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%201.png)
 
 ![AWS Week 2](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%202.png)
-- [Voltar Cloud](#ancoramicrosoft)
+- [Voltar Cloud](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1596,7 +1597,7 @@
 ![AZ 900 - Microsoft Azure Fundamentals - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%201.png)
 
 ![AZ 900 - Microsoft Azure Fundamentals - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/AZ-900%20FAT%202.png)
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Cloud](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1628,7 +1629,7 @@
       Risco interno
       Auditoria e soluções de eDiscovery
       Recursos de governança de recursos do Azure.
-- [Voltar Cloud](#ancoramicrosoft)
+- [Voltar Cloud](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 ---
 
