@@ -1651,6 +1651,22 @@
 <a id="ancora101"></a>
 ## Zabbix
 ![Zabbix Starter Week](https://github.com/Alisson-JP/Certificados/blob/c66cf1c2f19fee9d75085c79ddcdb9a888f0698c/PDFs/Zabbix/Zabbix%20Week.png)
+        
+      Por que monitorar?
+      Overview do Zabbix (incluindo a funcionalidade Business Service Monitoring)
+      Instalando o Zabbix do 0
+      Explorando o Frontend na prática | Parte 1
+      Opções do Menu "Monitoring"
+      Opções do Menu "Services"
+      Mais sobre SLA e BSM
+      Explorando o Frontend na prática | Parte 2
+      Opções do Menu Inventory
+      Diferenças de filtros e por qual motivo usar inventário
+      Opções do Menu Reports
+      Opções do menu "Configuration"
+      Opções do menu "Administration"
+        
+
 - [Voltar Zabbix](#ancorazabbix)
 - [Voltar ao topo](#ancora)   
 ---
