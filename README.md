@@ -46,6 +46,41 @@
    - [Azure - SC-900](#ancora82)
    
 
+# Crowdstrike
+<a name="ancoraCrowd"></a>
+   ## Endpoint Security & Falcon Platform
+      Falcon Platform Architecture Overview
+      Falcon Platform Technical Fundamentals
+      Falcon Platform Onboarding Configuration
+      Endpoint Security Module
+      Sensor Installation, Configuration & Troubleshooting
+      Falcon for Mobile
+
+   ## Detection, Threat Intelligence & MITRE
+      CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
+      MITRE ATT&CK & Falcon Detection Methods
+      Investigation Fundamentals
+      Incidents Fundamentals
+
+   ## Response & Automation
+      Real Time Response Fundamentals
+      Falcon Fusion Fundamentals
+      Falcon Fusion Workflow Creation
+
+   ## Identity, Exposure & Vulnerability Management
+      Falcon Identity Protection (IDP)
+      Falcon Exposure Management
+      Falcon Spotlight (Vulnerability Management)
+      Falcon Discover (Asset Visibility)
+
+   ## Network & Protection Controls
+      Falcon Firewall Management Fundamentals
+
+   ## SIEM & Visibility
+      Next-Gen SIEM Fundamentals (NGSIEM 100)
+      Customizable Dashboards
+
+
 <a name="ancoralgpd"></a>
 # LGPD & DPO
    ## Ka Solution - DPO & LGPD na Prática
