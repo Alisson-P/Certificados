@@ -50,22 +50,11 @@
 <a name="ancoraCrowd"></a>
    ## Endpoint Security & Falcon Platform
    - [Falcon Platform Architecture Overview](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20100%20Falcon%20Platform%20Architecture%20Overview.pdf)
-     
-
-<a id="ancora106"></a>
-## KA Solution - AWS Week
-![AWS Week 1](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%201.png)
-
-![AWS Week 2](https://github.com/Alisson-JP/Certificados/blob/3dad6a80fefa5193cb645b5984e3adf2b19f5e22/PDFs/KA%20Solutions/AWS%20Week%20Unificado%202.png)
-- [Voltar Cloud](#ancoracloud)
-- [Voltar ao topo](#ancora)   
-
-
-   Falcon Platform Technical Fundamentals
-   Falcon Platform Onboarding Configuration
-   Endpoint Security Module
-   Sensor Installation, Configuration & Troubleshooting
-   Falcon for Mobile
+   - [Falcon Platform Technical Fundamentals]()
+   - [Falcon Platform Onboarding Configuration]()
+   - [Endpoint Security Module]()
+   - [Sensor Installation, Configuration & Troubleshooting]()
+   - [Falcon for Mobile]()
 
    ## Detection, Threat Intelligence & MITRE
       CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
