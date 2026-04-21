@@ -50,6 +50,8 @@
 <a name="ancoraCrowd"></a>
    ## Endpoint Security & Falcon Platform
    - [Falcon Platform Architecture Overview](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
+   - [Voltar CISCO](#ancoraCrowd)
+   - [Voltar ao topo](#ancora)   
    - [Falcon Platform Technical Fundamentals](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20101.png)
    - [Falcon Platform Onboarding Configuration](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20102.png)
    - [Endpoint Security Module](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20104.png)
