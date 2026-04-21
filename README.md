@@ -29,7 +29,15 @@
 - [PCAP: Programming Essentials in Python](#ancora84)
 
 <a name="ancoracloud"></a>
-# Cloud | Cloud Security
+# Cloud | Cloud Security | Microsoft
+   ## Microsoft Certified: Azure Fundamentals (AZ-900)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora102)
+   ## Microsoft 365 Certified: Fundamentals (MS-900)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora103)
+   ## Microsoft Certified: Azure AI Fundamentals (AI-900)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora104)
+   ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora105)
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
    - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
       
