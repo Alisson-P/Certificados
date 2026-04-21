@@ -49,12 +49,12 @@
 # Crowdstrike
 <a name="ancoraCrowd"></a>
    ## Endpoint Security & Falcon Platform
-   - [Falcon Platform Architecture Overview](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20100%20Falcon%20Platform%20Architecture%20Overview.pdf)
-   - [Falcon Platform Technical Fundamentals]()
-   - [Falcon Platform Onboarding Configuration]()
-   - [Endpoint Security Module]()
-   - [Sensor Installation, Configuration & Troubleshooting]()
-   - [Falcon for Mobile]()
+   - [Falcon Platform Architecture Overview](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
+   - [Falcon Platform Technical Fundamentals](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20101.png)
+   - [Falcon Platform Onboarding Configuration](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20102.png)
+   - [Endpoint Security Module](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20104.png)
+   - [Sensor Installation, Configuration & Troubleshooting](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20105.png)
+   - [Falcon for Mobile](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20160.png)
 
    ## Detection, Threat Intelligence & MITRE
       CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
