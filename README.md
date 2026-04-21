@@ -49,14 +49,12 @@
 # Crowdstrike
 <a name="ancoraCrowd"></a>
    ## Endpoint Security & Falcon Platform
-   - [Falcon Platform Architecture Overview](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
-   - [Voltar CISCO](#ancoraCrowd)
-   - [Voltar ao topo](#ancora)   
-   - [Falcon Platform Technical Fundamentals](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20101.png)
-   - [Falcon Platform Onboarding Configuration](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20102.png)
-   - [Endpoint Security Module](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20104.png)
-   - [Sensor Installation, Configuration & Troubleshooting](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20105.png)
-   - [Falcon for Mobile](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20160.png)
+   - [Falcon Platform Architecture Overview](#ancora106)
+   - [Falcon Platform Technical Fundamentals](#ancora107)
+   - [Falcon Platform Onboarding Configuration](#ancora108)
+   - [Endpoint Security Module](#ancora109)
+   - [Sensor Installation, Configuration & Troubleshooting](#ancora110)
+   - [Falcon for Mobile](#ancora111)
 
    ## Detection, Threat Intelligence & MITRE
       CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
@@ -1794,6 +1792,54 @@
 - [Voltar ao topo](#ancora)   
 
 ---
-   
 
+<a id="ancora106"></a>
+## Falcon Platform Architecture Overview
+- [FHT 100](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+
+---
+<a id="ancora107"></a>
+## Falcon Platform Technical Fundamentals
+- [FHT 101](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20101.png)
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+
+---
+<a id="ancora108"></a>
+## Falcon Platform Onboarding Configuration
+- [FHT 102](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20102.png)
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+
+---
+<a id="ancora109"></a>
+## Endpoint Security Module
+- [FHT 104](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20104.png)
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+
+---
+<a id="ancora110"></a>
+## Sensor Installation, Configuration & Troubleshooting
+- [FHT 105](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20105.png)
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+
+---
+<a id="ancora111"></a>
+- [FHT 160](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20160.png)
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
 
