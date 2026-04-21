@@ -1697,7 +1697,7 @@
 
 <a id="ancora102"></a>
 ## Microsoft Certified: Azure Fundamentals (AZ-900)
-![AZ-900](https://learn.microsoft.com/api/credentials/share/pt-br/AlissonJoabePereira/BDD7326CE42BBCAB?sharingId=4B5B2D8814C3BD0C)
+![AZ-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AZ-900.png)
 
       Cloud Computing
       Microsoft Azure
@@ -1705,7 +1705,7 @@
       Governance
       Pricing Models
 
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Microsoft](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1721,7 +1721,7 @@
       Productivity
       Security & Compliance
 
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Microsoft](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1737,7 +1737,7 @@
       NLP
       Computer Vision
 
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Microsoft](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1745,23 +1745,18 @@
 
 <a id="ancora105"></a>
 ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-![SC-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900.png)
+![SC-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-900.png)
 
-      Artificial Intelligence
-      Machine Learning
-      Azure AI Services
-      NLP
-      Computer Vision
+      Cybersecurity
+      Zero Trust, Identity
+      Compliance
+      Microsoft Defender
+      Microsoft Entra ID
 
-- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar Microsoft](#ancoracloud)
 - [Voltar ao topo](#ancora)   
 
-
+---
    
-   
-   
-   ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-   - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
-
 
 
