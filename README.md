@@ -1692,21 +1692,74 @@
 - [Voltar Microsoft](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
+
 ---
 
 <a id="ancora102"></a>
 ## Microsoft Certified: Azure Fundamentals (AZ-900)
-![AZ-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AZ-900.png)
+![AZ-900](https://learn.microsoft.com/api/credentials/share/pt-br/AlissonJoabePereira/BDD7326CE42BBCAB?sharingId=4B5B2D8814C3BD0C)
+
+      Cloud Computing
+      Microsoft Azure
+      Cloud Architecture
+      Governance
+      Pricing Models
+
 - [Voltar Microsoft](#ancoramicrosoft)
 - [Voltar ao topo](#ancora)   
 
+
 ---
-## Microsoft Certified: Azure Fundamentals (AZ-900)
-   - [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
-   ## Microsoft 365 Certified: Fundamentals (MS-900)
-   - [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
-   ## Microsoft Certified: Azure AI Fundamentals (AI-900)
-   - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
+
+<a id="ancora103"></a>
+## Microsoft 365 Certified: Fundamentals (MS-900)
+![MS-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/MS-900.png)
+
+      Microsoft 365
+      Identity & Access Management (IAM)
+      SaaS
+      Productivity
+      Security & Compliance
+
+- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora104"></a>
+## Microsoft Certified: Azure AI Fundamentals (AI-900)
+![AI-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900.png)
+
+      Artificial Intelligence
+      Machine Learning
+      Azure AI Services
+      NLP
+      Computer Vision
+
+- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora105"></a>
+## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+![SC-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900.png)
+
+      Artificial Intelligence
+      Machine Learning
+      Azure AI Services
+      NLP
+      Computer Vision
+
+- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
+
+
+   
+   
+   
    ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
    - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
 
