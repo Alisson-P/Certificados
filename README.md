@@ -1694,6 +1694,21 @@
 
 ---
 
+<a id="ancora102"></a>
+## Microsoft Certified: Azure Fundamentals (AZ-900)
+![AZ-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AZ-900.png)
+- [Voltar Microsoft](#ancoramicrosoft)
+- [Voltar ao topo](#ancora)   
+
+---
+## Microsoft Certified: Azure Fundamentals (AZ-900)
+   - [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
+   ## Microsoft 365 Certified: Fundamentals (MS-900)
+   - [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
+   ## Microsoft Certified: Azure AI Fundamentals (AI-900)
+   - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
+   ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+   - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
 
 
 
