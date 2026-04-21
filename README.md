@@ -1797,7 +1797,7 @@
 ## Falcon Platform Architecture Overview
 ![FHT 100](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
 
-- [Voltar Microsoft](#ancoraCrowd)
+- [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1806,7 +1806,7 @@
 ## Falcon Platform Technical Fundamentals
 ![FHT 101](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20101.png)
 
-- [Voltar Microsoft](#ancoraCrowd)
+- [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1815,7 +1815,7 @@
 ## Falcon Platform Onboarding Configuration
 ![FHT 102](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20102.png)
 
-- [Voltar Microsoft](#ancoraCrowd)
+- [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1824,7 +1824,7 @@
 ## Endpoint Security Module
 ![FHT 104](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20104.png)
 
-- [Voltar Microsoft](#ancoraCrowd)
+- [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1833,7 +1833,7 @@
 ## Sensor Installation, Configuration & Troubleshooting
 ![FHT 105](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20105.png)
 
-- [Voltar Microsoft](#ancoraCrowd)
+- [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
 
@@ -1841,6 +1841,6 @@
 <a id="ancora111"></a>
 ![FHT 160](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20160.png)
 
-- [Voltar Microsoft](#ancoraCrowd)
+- [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
