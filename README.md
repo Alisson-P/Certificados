@@ -31,13 +31,13 @@
 <a name="ancoracloud"></a>
 # Cloud | Cloud Security | Microsoft
    ## Microsoft Certified: Azure Fundamentals (AZ-900)
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora102)
+   - [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
    ## Microsoft 365 Certified: Fundamentals (MS-900)
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora103)
+   - [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
    ## Microsoft Certified: Azure AI Fundamentals (AI-900)
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora104)
+   - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
    ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora105)
+   - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
    - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
       
