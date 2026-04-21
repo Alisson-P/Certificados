@@ -1,43 +1,12 @@
 <a name="ancora"></a>
 
-# 139 Certificados > 700 horas
+# 136 Certificados > 1168 horas
 
 # Inglês - Uptime
 
 - [Advanced English](#ancora1)
 
 <a name="ancoralinux"></a>
-# Linux
-   ## 4Linux Open Software Specialists
-   - [Segurança em Servidores](#ancora2)
-   - [Linux Fundamentals](#ancora3)
-   - [NerdIn](#ancora79)
-
-   ## LPI | CISCO
-   - [Linux Unhatched](#ancora4)
-   - [Linux Essentials](#ancora5)
-
-<a name="ancoracybersecurity"></a>
-# Cyber Security
-   <a name="ancorafat"></a>
-   ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
-      
-   <a name="ancorasimplilearn"></a>
-   ## Simplilearn
-   - [Introduction to Cyber Security](#ancora6)
-   
-   <a name="ancoraibsec"></a>
-   ## IBSEC - Instituto Brasileiro de Cibersegurança
-   - [Cibersecurity Awareness](#ancora85)
-   - [Fundamentos em Cibersegurança](#ancora86)
-   - [Fundamentos em Informática](#ancora89)
-   - [Fundamentos em Rede](#ancora90)
-   - [Analista de SOC Profissional](#ancora91)
-   - [Analista de Cibersegurança (Governança)](#ancora92)
-   - [Hacker Ético Associado](#ancora93)
-   - [Segurança na Nuvem](#ancora95)
-   - [Python para Cibersegurança Associado](#ancora96)
 
 
 <a name="ancoracisco"></a>
@@ -83,6 +52,43 @@
 <a name="ancoramicrosoft"></a>
 # Windows
 - [NerdIn](#ancora83)
+
+
+
+# Linux
+   ## 4Linux Open Software Specialists
+   - [Segurança em Servidores](#ancora2)
+   - [Linux Fundamentals](#ancora3)
+   - [NerdIn](#ancora79)
+
+   ## LPI | CISCO
+   - [Linux Unhatched](#ancora4)
+   - [Linux Essentials](#ancora5)
+
+<a name="ancoracybersecurity"></a>
+# Cyber Security
+   <a name="ancorafat"></a>
+   ## Fundação de Apoio à Tecnologia - Programa Minha Chance
+   - [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
+      
+   <a name="ancorasimplilearn"></a>
+   ## Simplilearn
+   - [Introduction to Cyber Security](#ancora6)
+   
+   <a name="ancoraibsec"></a>
+   ## IBSEC - Instituto Brasileiro de Cibersegurança
+   - [Cibersecurity Awareness](#ancora85)
+   - [Fundamentos em Cibersegurança](#ancora86)
+   - [Fundamentos em Informática](#ancora89)
+   - [Fundamentos em Rede](#ancora90)
+   - [Analista de SOC Profissional](#ancora91)
+   - [Analista de Cibersegurança (Governança)](#ancora92)
+   - [Hacker Ético Associado](#ancora93)
+   - [Segurança na Nuvem](#ancora95)
+   - [Python para Cibersegurança Associado](#ancora96)
+
+
+
 
 
 <a name="ancoraselolinkedin"></a>
