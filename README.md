@@ -1917,3 +1917,113 @@
 
 
 ---
+
+<a id="ancora117"></a>
+# Response & Automation
+## Real Time Response Fundamentals
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora118"></a>
+# Response & Automation
+## Falcon Fusion Fundamentals
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora119"></a>
+# Response & Automation
+## Falcon Fusion Workflow Creation
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora120"></a>
+# Identity, Exposure & Vulnerability Management
+## Falcon Identity Protection (IDP)
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora121"></a>
+# Identity, Exposure & Vulnerability Management
+## Falcon Exposure Management
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora122"></a>
+# Identity, Exposure & Vulnerability Management
+## Falcon Spotlight (Vulnerability Management)
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora123"></a>
+# Identity, Exposure & Vulnerability Management
+## Falcon Discover (Asset Visibility)
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora124"></a>
+# Network & Protection Controls
+## Falcon Firewall Management Fundamentals
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora125"></a>
+# SIEM & Visibility
+## Next-Gen SIEM Fundamentals (NGSIEM 100)
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora126"></a>
+# SIEM & Visibility
+## Customizable Dashboards
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
