@@ -29,7 +29,6 @@
 `Communication | Technical English | Professional Development`
 
 - 🎓 [Advanced English](#ancora1)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -42,7 +41,6 @@
 `Blue Team | SOC Simulation | Threat Detection`
 
 - 🎓 [Cisco CDC](#ancora94)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -52,7 +50,6 @@
 - 🎓 [CyberOps](#ancora87)  
 - 🏅 [Badge CyberOps](https://www.credly.com/badges/98c9217e-0ee1-4a1c-9a45-0c4d43aaf503/linked_in?t=rd8eyt)  
 - 📄 [Carta de Mérito CyberOps](#ancora88)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -62,7 +59,6 @@
 - 🎓 [CCNA - Introdução às redes](#ancora80)  
 - 🏅 [Badge CCNA](https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile)  
 - 📄 [Carta de Mérito CCNA](#ancora81)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -85,7 +81,6 @@
 `Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
 
 - 🎓 [SC-200 - Threat detection and incident response, Security monitoring, Investigation, Incident management, Integration](#ancora112)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -93,7 +88,6 @@
 `Zero Trust | Identity | Compliance | Microsoft Defender | Entra ID`
 
 - 🎓 [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -101,7 +95,6 @@
 `Artificial Intelligence | Machine Learning | NLP | Computer Vision`
 
 - 🎓 [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
-- 🔝 [Back to top](#ancoraUP) 
 
 ---
 
@@ -109,7 +102,6 @@
 `Cloud Computing | Azure Architecture | Governance | Pricing`
 
 - 🎓 [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -145,7 +137,6 @@
 - 🎓 [Endpoint Security Module](#ancora109)  
 - 🎓 [Sensor Installation, Configuration & Troubleshooting](#ancora110)  
 - 🎓 [Falcon for Mobile](#ancora111)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -156,7 +147,6 @@
 - 🎓 [MITRE ATT&CK & Falcon Detection Methods](#ancora114)  
 - 🎓 [Investigation Fundamentals](#ancora115)  
 - 🎓 [Incidents Fundamentals](#ancora116)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -166,7 +156,6 @@
 - 🎓 [Real Time Response Fundamentals](#ancora117)  
 - 🎓 [Falcon Fusion Fundamentals](#ancora118)  
 - 🎓 [Falcon Fusion Workflow Creation](#ancora119)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -177,7 +166,6 @@
 - 🎓 [Falcon Exposure Management](#ancora121)  
 - 🎓 [Falcon Spotlight (Vulnerability Management)](#ancora122)  
 - 🎓 [Falcon Discover (Asset Visibility)](#ancora123)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -185,7 +173,6 @@
 `Firewall | Network Security | Policy Management`
 
 - 🎓 [Falcon Firewall Management Fundamentals](#ancora124)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -210,7 +197,6 @@
 
 - 🎓 [Vulnerability Management Detection and Response](#ancora127)  
 - 🎓 [CyberSecurity Asset Management](#ancora128)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -277,7 +263,6 @@
 - 🎓 [Segurança em Servidores](#ancora2)  
 - 🎓 [Linux Fundamentals](#ancora3)  
 - 🎓 [NerdIn](#ancora79)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -300,7 +285,6 @@
 ## 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
 
 - 🎓 [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
