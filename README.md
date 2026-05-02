@@ -1851,7 +1851,7 @@
 
 <a id="ancora112"></a>
 ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
-![SC-200](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900.png)
+![SC-200](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-200.png)
 
      Threat detection and incident response using Microsoft Sentinel
       Security monitoring and alert triage across cloud and hybrid environments
