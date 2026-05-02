@@ -122,8 +122,6 @@
 <a name="ancoraCrowd"></a>
 # 🦅 CrowdStrike
 
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat)
-
 ---
 
 ## 🖥️ Endpoint Security & Falcon Platform
