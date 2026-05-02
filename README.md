@@ -202,76 +202,118 @@
 - 🎓 [Qualys Sensor Foundation](#ancora132)
 
 
-# Multi-Cloud KA Solution
-   - [AWS Week](#ancora99)
-   - [Azure - SC-900](#ancora82)
+# 🌐 Multi-Cloud | KA Solution
 
+`AWS | Azure | Multi-Cloud Fundamentals`
+
+- 🎓 [AWS Week](#ancora99)  
+- 🎓 [Azure - SC-900](#ancora82)
+
+---
 
 <a name="ancoralgpd"></a>
-# LGPD & DPO
-   ## Ka Solution - DPO & LGPD na Prática
-   - [DPO & LGPD](#ancora100)
+# ⚖️ LGPD & Data Protection
 
+`LGPD | Data Privacy | Compliance | DPO`
+
+## 🛡️ Ka Solution - DPO & LGPD na Prática
+
+- 🎓 [DPO & LGPD](#ancora100)
+
+---
 
 <a name="ancorazabbix"></a>
-# Zabbix
-- [Zabbix Starter Week](#ancora101)
+# 📊 Zabbix
 
+`Monitoring | Observability | Infrastructure`
+
+- 🎓 [Zabbix Starter Week](#ancora101)
+
+---
 
 <a name="ancoramicrosoft"></a>
-# Windows
-- [NerdIn](#ancora83)
+# 🪟 Windows
 
+`Operating Systems | Administration | IT Fundamentals`
 
+- 🎓 [NerdIn](#ancora83)
 
-# Linux
-   ## 4Linux Open Software Specialists
-   - [Segurança em Servidores](#ancora2)
-   - [Linux Fundamentals](#ancora3)
-   - [NerdIn](#ancora79)
+---
 
-   ## LPI | CISCO
-   - [Linux Unhatched](#ancora4)
-   - [Linux Essentials](#ancora5)
+# 🐧 Linux
+
+`Systems Administration | Hardening | Open Source`
+
+---
+
+## 🛠️ 4Linux Open Software Specialists
+
+- 🎓 [Segurança em Servidores](#ancora2)  
+- 🎓 [Linux Fundamentals](#ancora3)  
+- 🎓 [NerdIn](#ancora79)
+
+---
+
+## 🌐 LPI | CISCO
+
+- 🎓 [Linux Unhatched](#ancora4)  
+- 🎓 [Linux Essentials](#ancora5)
+
+---
 
 <a name="ancoracybersecurity"></a>
-# Cyber Security
-   <a name="ancorafat"></a>
-   ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
-      
-   <a name="ancorasimplilearn"></a>
-   ## Simplilearn
-   - [Introduction to Cyber Security](#ancora6)
-   
-   <a name="ancoraibsec"></a>
-   ## IBSEC - Instituto Brasileiro de Cibersegurança
-   - [Cibersecurity Awareness](#ancora85)
-   - [Fundamentos em Cibersegurança](#ancora86)
-   - [Fundamentos em Informática](#ancora89)
-   - [Fundamentos em Rede](#ancora90)
-   - [Analista de SOC Profissional](#ancora91)
-   - [Analista de Cibersegurança (Governança)](#ancora92)
-   - [Hacker Ético Associado](#ancora93)
-   - [Segurança na Nuvem](#ancora95)
-   - [Python para Cibersegurança Associado](#ancora96)
+# 🛡️ Cyber Security
 
+`SOC | Blue Team | Governance | Ethical Hacking | Cloud Security`
 
+---
 
+<a name="ancorafat"></a>
+## 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
 
+- 🎓 [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
+
+---
+
+<a name="ancorasimplilearn"></a>
+## 🌍 Simplilearn
+
+- 🎓 [Introduction to Cyber Security](#ancora6)
+
+---
+
+<a name="ancoraibsec"></a>
+## 🧠 IBSEC - Instituto Brasileiro de Cibersegurança
+
+`SOC | Governance | Awareness | Offensive Security`
+
+- 🎓 [Cibersecurity Awareness](#ancora85)  
+- 🎓 [Fundamentos em Cibersegurança](#ancora86)  
+- 🎓 [Fundamentos em Informática](#ancora89)  
+- 🎓 [Fundamentos em Rede](#ancora90)  
+- 🎓 [Analista de SOC Profissional](#ancora91)  
+- 🎓 [Analista de Cibersegurança (Governança)](#ancora92)  
+- 🎓 [Hacker Ético Associado](#ancora93)  
+- 🎓 [Segurança na Nuvem](#ancora95)  
+- 🎓 [Python para Cibersegurança Associado](#ancora96)
+
+---
 
 <a name="ancoraselolinkedin"></a>
-# Selos de Avaliação e Competência do Linkedin
-- [Azure](#ancora7)
-- [Python](#ancora8)
-- [Bash](#ancora9)
-- [Cibersegurança](#ancora10)
-- [Git](#ancora11)
-- [Linux](#ancora12)
-- [Operações de TI](#ancora13)
-- [Excel](#ancora14)
-- [Word](#ancora15)
-- [Powerpoint](#ancora16)
+# 🏅 LinkedIn Skill Assessments
+
+`Validated Skills | Industry Benchmark | Technical Proficiency`
+
+- 🏅 [Azure](#ancora7)  
+- 🏅 [Python](#ancora8)  
+- 🏅 [Bash](#ancora9)  
+- 🏅 [Cibersegurança](#ancora10)  
+- 🏅 [Git](#ancora11)  
+- 🏅 [Linux](#ancora12)  
+- 🏅 [Operações de TI](#ancora13)  
+- 🏅 [Excel](#ancora14)  
+- 🏅 [Word](#ancora15)  
+- 🏅 [Powerpoint](#ancora16)
 
 <a id="ancorasamsungocean"></a>
 # Samsung Ocean
