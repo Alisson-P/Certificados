@@ -316,92 +316,160 @@
 - 🏅 [Powerpoint](#ancora16)
 
 <a id="ancorasamsungocean"></a>
-# Samsung Ocean
+# 🌊 Samsung Ocean
+
+`Full Stack | Mobile | AI | IoT | Blockchain | Innovation`
+
+---
 
 <a id="ancorapython"></a>
-   ## Python
-   - [Módulo 1](#ancora62)
-   - [Módulo 2](#ancora63)
-   - [Módulo 3](#ancora64)
-   - [Consultando Bases SQL com Python - parte 1](#ancora65)
-   - [Consultando Bases SQL com Python - parte 2](#ancora66)
-   - [Aula Prática](#ancora67)
-   - [Programando para web com Python, CSS e HTML - parte 1](#ancora68)
-   - [Programando para web com Python, CSS e HTML - parte 2](#ancora69)
-   - [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
+## 🐍 Python
+
+`Automation | Data Processing | Web Development | SQL Integration`
+
+- 🎓 [Módulo 1](#ancora62)  
+- 🎓 [Módulo 2](#ancora63)  
+- 🎓 [Módulo 3](#ancora64)  
+- 🎓 [Consultando Bases SQL com Python - parte 1](#ancora65)  
+- 🎓 [Consultando Bases SQL com Python - parte 2](#ancora66)  
+- 🎓 [Aula Prática](#ancora67)  
+- 🎓 [Programando para web com Python, CSS e HTML - parte 1](#ancora68)  
+- 🎓 [Programando para web com Python, CSS e HTML - parte 2](#ancora69)  
+- 🎓 [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
+
+---
 
 <a id="ancorabackend"></a>
-   ## Backend
-   - [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)
-   - [Integrando os serviços de backend na nuvem](#ancora26)
-   - [Backend com NodeJs e Express - parte 1](#ancora27)
-   - [Backend com NodeJs e Express - parte 2](#ancora28)
+## ⚙️ Backend
+
+`APIs | Node.js | Express | Cloud Integration | Databases`
+
+- 🎓 [Laboratório de Backend e Banco de Dados com MongoDB](#ancora25)  
+- 🎓 [Integrando os serviços de backend na nuvem](#ancora26)  
+- 🎓 [Backend com NodeJs e Express - parte 1](#ancora27)  
+- 🎓 [Backend com NodeJs e Express - parte 2](#ancora28)
+
+---
 
 <a id="ancorafrontend"></a>
-   ## Frontend
-   - [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)
-   - [Frontend Web com ReactJS (Parte 2)](#ancora41)
+## 🎨 Frontend
+
+`ReactJS | UI Development | Web Applications`
+
+- 🎓 [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)  
+- 🎓 [Frontend Web com ReactJS (Parte 2)](#ancora41)
+
+---
 
 <a id="ancoraandroid"></a>
-## Android
-- [Programação Kotlin e Android Studio ](#ancora17)
-- [Laboratório](#ancora18)
-- [GPS com Google Maps](#ancora19)
-- [Webservices com Retrofit e Imagens com Glide](#ancora20)
-- [Listas com RecyclerView e Multithread](#ancora21)
-- [Banco de Dados - Room](#ancora22)
-- [Push Notification com Firebase](#ancora23)
-- [Android Jetpack e Arquitetura](#ancora24)
+## 📱 Android
+
+`Mobile Development | Kotlin | Architecture | Firebase`
+
+- 🎓 [Programação Kotlin e Android Studio ](#ancora17)  
+- 🎓 [Laboratório](#ancora18)  
+- 🎓 [GPS com Google Maps](#ancora19)  
+- 🎓 [Webservices com Retrofit e Imagens com Glide](#ancora20)  
+- 🎓 [Listas com RecyclerView e Multithread](#ancora21)  
+- 🎓 [Banco de Dados - Room](#ancora22)  
+- 🎓 [Push Notification com Firebase](#ancora23)  
+- 🎓 [Android Jetpack e Arquitetura](#ancora24)
+
+---
 
 <a id="ancorabixby"></a>
-## Bixby
-- [Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](#ancora29)
+## 🗣️ Bixby
+
+`Voice Assistants | Conversational Interfaces | AI Interaction`
+
+- 🎓 [Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](#ancora29)
+
+---
 
 <a id="ancorablockchain"></a>
-## Blockchain
-- [Introdução ao Blockchain](#ancora30)
-- [Ferramentas de desenvolvimento de dApps](#ancora31)
-- [Contratos inteligentes em Ethereum](#ancora32)
+## ⛓️ Blockchain
+
+`Web3 | Smart Contracts | dApps | Ethereum`
+
+- 🎓 [Introdução ao Blockchain](#ancora30)  
+- 🎓 [Ferramentas de desenvolvimento de dApps](#ancora31)  
+- 🎓 [Contratos inteligentes em Ethereum](#ancora32)
+
+---
 
 <a id="ancoradevops"></a>
-## Desenvolvimento Ágil - DevOps
-- [Introdução](#ancora33)
-- [DevOps Git](#ancora34)
+## 🚀 Desenvolvimento Ágil - DevOps
+
+`CI/CD | Git | Agile | Automation`
+
+- 🎓 [Introdução](#ancora33)  
+- 🎓 [DevOps Git](#ancora34)
+
+---
 
 <a id="ancoradispwearables"></a>
-## Dispositivos Wearables
-- [Introdução aos Dispositivos Wearables](#ancora35)
+## ⌚ Dispositivos Wearables
+
+`Embedded Systems | Smart Devices | Sensors`
+
+- 🎓 [Introdução aos Dispositivos Wearables](#ancora35)
+
+---
 
 <a id="ancoraempreendedorismo"></a>
-## Empreendedorismo
-- [Ecossistemas de Inovação e Empreendedorismo](#ancora36)
-- [Design Thinking aplicado a Startups](#ancora37)
-- [Identificando o cliente e o problema](#ancora38)
-- [Construindo e validando a proposição de valor](#ancora39)
+## 💡 Empreendedorismo
+
+`Innovation | Startups | Product Thinking | Business Strategy`
+
+- 🎓 [Ecossistemas de Inovação e Empreendedorismo](#ancora36)  
+- 🎓 [Design Thinking aplicado a Startups](#ancora37)  
+- 🎓 [Identificando o cliente e o problema](#ancora38)  
+- 🎓 [Construindo e validando a proposição de valor](#ancora39)
+
+---
 
 <a id="ancoraia"></a>
-## IA - Inteligência artificial
-### Deep Learning
-- [Deep Learning - Parte 1](#ancora42)
-- [Deep Learning - Parte 2](#ancora43)
-### Ciência de Dados
-- [Análise de Dados com Orange](#ancora44)
-- [Análise de dados geográficos com Python](#ancora45)
-### Machine Learning
-- [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)
-- [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)
-- [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
+## 🤖 IA - Inteligência Artificial
+
+`AI | Machine Learning | Data Science | Deep Learning`
+
+### 🧠 Deep Learning
+- 🎓 [Deep Learning - Parte 1](#ancora42)  
+- 🎓 [Deep Learning - Parte 2](#ancora43)
+
+---
+
+### 📊 Ciência de Dados
+- 🎓 [Análise de Dados com Orange](#ancora44)  
+- 🎓 [Análise de dados geográficos com Python](#ancora45)
+
+---
+
+### 🤖 Machine Learning
+- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)  
+- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)  
+- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
+
+---
 
 <a id="ancoraind4p0"></a>
-## Indústria 4.0
-- [Módulo 1](#ancora49)
-- [Módulo 2](#ancora50)
-- [Módulo 3](#ancora51)
+## 🏭 Indústria 4.0
+
+`Automation | Digital Transformation | Smart Industry`
+
+- 🎓 [Módulo 1](#ancora49)  
+- 🎓 [Módulo 2](#ancora50)  
+- 🎓 [Módulo 3](#ancora51)
+
+---
 
 <a id="ancoraiot"></a>
-## IoT - Internet das Coisas
-- [Introdução a Internet das Coisas](#ancora52)
-- [Laboratório de IoT com Arduino](#ancora53)
+## 🌐 IoT - Internet das Coisas
+
+`IoT | Embedded Systems | Arduino | Connectivity`
+
+- 🎓 [Introdução a Internet das Coisas](#ancora52)  
+- 🎓 [Laboratório de IoT com Arduino](#ancora53)
 
 <a id="ancorajogosdigitais"></a>
 ## Jogos Digitais
