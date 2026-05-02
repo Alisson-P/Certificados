@@ -20,7 +20,7 @@
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
-- 🛡️ [Cyber Security](ancoracybersecurity)
+- 🛡️ [Cyber Security](ancoracyber)
 
 ---
 
@@ -244,7 +244,7 @@
 
 ---
 
-<a name="ancoracybersecurity"></a>
+<a name="ancoracyber"></a>
 # 🛡️ Cyber Security
 
 `SOC | Blue Team | Governance | Ethical Hacking | Cloud Security`
