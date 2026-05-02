@@ -13,15 +13,16 @@
 ---
 
 ## 📂 Sections
-- 🌍 [English](#ancora1)
+- 🌍 [English](#ancoraEnglish)
 - 🌐 [Cisco](#ancoracisco)
 - ☁️ [Cloud & Microsoft](#ancoracloud)
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
-- 🐧 [Linux](#ancora2)
+- 🐧 [Linux](#ancoralinux)
 
 ---
 
+<a name="ancoraEnglish"></a>
 # 🇬🇧 English - Uptime
 
 `Communication | Technical English | Professional Development`
