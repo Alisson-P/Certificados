@@ -1735,7 +1735,7 @@
 
 <a id="ancora102"></a>
 ## Microsoft Certified: Azure Fundamentals (AZ-900)
-![AZ-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AZ-900.png)
+![AZ-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AZ-900%20english.png)
 
       Cloud Computing
       Microsoft Azure
@@ -1751,7 +1751,7 @@
 
 <a id="ancora103"></a>
 ## Microsoft 365 Certified: Fundamentals (MS-900)
-![MS-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/MS-900.png)
+![MS-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/MS-900%20-%20us.png)
 
       Microsoft 365
       Identity & Access Management (IAM)
@@ -1767,7 +1767,7 @@
 
 <a id="ancora104"></a>
 ## Microsoft Certified: Azure AI Fundamentals (AI-900)
-![AI-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900.png)
+![AI-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900%20-%20us.png)
 
       Artificial Intelligence
       Machine Learning
@@ -1783,7 +1783,7 @@
 
 <a id="ancora105"></a>
 ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-![SC-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-900.png)
+![SC-900](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-900%20-%20us.png)
 
       Cybersecurity
       Zero Trust, Identity
@@ -1851,7 +1851,7 @@
 
 <a id="ancora112"></a>
 ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
-![SC-200](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-200.png)
+![SC-200](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-200%20English.png)
 
      Threat detection and incident response using Microsoft Sentinel
       Security monitoring and alert triage across cloud and hybrid environments
