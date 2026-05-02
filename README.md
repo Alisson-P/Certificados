@@ -47,10 +47,6 @@
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
    - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
       
-   ## KA Solution
-   - [AWS Week](#ancora99)
-   - [Azure - SC-900](#ancora82)
-   
 
 # Crowdstrike
 <a name="ancoraCrowd"></a>
@@ -85,6 +81,11 @@
    ## SIEM & Visibility
    - [Next-Gen SIEM Fundamentals (NGSIEM 100)](#ancora125)
    - [Customizable Dashboards](#ancora126)
+
+
+# Multi-Cloud KA Solution
+   - [AWS Week](#ancora99)
+   - [Azure - SC-900](#ancora82)
 
 
 <a name="ancoralgpd"></a>
@@ -1800,6 +1801,7 @@
 ---
 
 <a id="ancora106"></a>
+# Endpoint Security & Falcon Platform
 ## Falcon Platform Architecture Overview
 ![FHT 100](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
 
@@ -1809,6 +1811,7 @@
 
 ---
 <a id="ancora107"></a>
+# Endpoint Security & Falcon Platform
 ## Falcon Platform Technical Fundamentals
 ![FHT 101](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20101.png)
 
@@ -1818,6 +1821,7 @@
 
 ---
 <a id="ancora108"></a>
+# Endpoint Security & Falcon Platform
 ## Falcon Platform Onboarding Configuration
 ![FHT 102](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20102.png)
 
@@ -1827,6 +1831,7 @@
 
 ---
 <a id="ancora109"></a>
+# Endpoint Security & Falcon Platform
 ## Endpoint Security Module
 ![FHT 104](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20104.png)
 
@@ -1836,6 +1841,7 @@
 
 ---
 <a id="ancora110"></a>
+# Endpoint Security & Falcon Platform
 ## Sensor Installation, Configuration & Troubleshooting
 ![FHT 105](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20105.png)
 
@@ -1845,6 +1851,8 @@
 
 ---
 <a id="ancora111"></a>
+# Endpoint Security & Falcon Platform
+## Falcon for Mobile
 ![FHT 160](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20160.png)
 
 - [Voltar Crowdstrike](#ancoraCrowd)
@@ -1932,7 +1940,7 @@
 <a id="ancora118"></a>
 # Response & Automation
 ## Falcon Fusion Fundamentals
-![FHT 114](http://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/2-5-26/FHT%20114.png)
+![FHT 114](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/2-5-26/FHT%20114.png)
 
 - [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
