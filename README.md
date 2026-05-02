@@ -472,32 +472,50 @@
 - 🎓 [Laboratório de IoT com Arduino](#ancora53)
 
 <a id="ancorajogosdigitais"></a>
-## Jogos Digitais
-- [Introdução aos Jogos Digitais](#ancora54)
-- [Criação de Jogos 2D com Unity - parte 1](#ancora55)
-- [Criação de Jogos 2D com Unity - parte 2](#ancora56)
-- [Criação de Jogos 3D com Unity - parte 1](#ancora57)
-- [Modelagem 3D para Jogos Digitais - parte 1](#ancora58)
-- [Modelagem 3D para Jogos Digitais - parte 2](#ancora59)
+## 🎮 Jogos Digitais
+
+`Game Development | Unity | 2D & 3D | 3D Modeling`
+
+- 🎓 [Introdução aos Jogos Digitais](#ancora54)  
+- 🎓 [Criação de Jogos 2D com Unity - parte 1](#ancora55)  
+- 🎓 [Criação de Jogos 2D com Unity - parte 2](#ancora56)  
+- 🎓 [Criação de Jogos 3D com Unity - parte 1](#ancora57)  
+- 🎓 [Modelagem 3D para Jogos Digitais - parte 1](#ancora58)  
+- 🎓 [Modelagem 3D para Jogos Digitais - parte 2](#ancora59)
+
+---
 
 <a id="ancoraoceantalks"></a>
-## Ocean Talks
-- [O Futuro dos bancos e Fintechs](#ancora60)
-- [Marco legal das startups](#ancora61)
+## 🎤 Ocean Talks
+
+`Fintech | Innovation | Startups | Market Trends`
+
+- 🎓 [O Futuro dos bancos e Fintechs](#ancora60)  
+- 🎓 [Marco legal das startups](#ancora61)
+
+---
 
 <a id="ancoraux"></a>
-## UX
-- [Tópicos de UX para Design de Serviços](#ancora71)
-- [Tópicos de UX para IA: Experiências Ominicanal](#ancora72)
-- [Tópicos de UX para IA: Interfaces Conversacionais](#ancora73)
-- [Design Thinking - Conceitos e Práticas](#ancora74)
-- [Tópicos de UX para Internet das Coisas](#ancora75)
-- [Tópicos de UX para VR e AR](#ancora76)
-- [Oficina de Usabilidade](#ancora77)
+## 🎨 UX (User Experience)
+
+`UX Design | Service Design | AI Interfaces | Usability`
+
+- 🎓 [Tópicos de UX para Design de Serviços](#ancora71)  
+- 🎓 [Tópicos de UX para IA: Experiências Ominicanal](#ancora72)  
+- 🎓 [Tópicos de UX para IA: Interfaces Conversacionais](#ancora73)  
+- 🎓 [Design Thinking - Conceitos e Práticas](#ancora74)  
+- 🎓 [Tópicos de UX para Internet das Coisas](#ancora75)  
+- 🎓 [Tópicos de UX para VR e AR](#ancora76)  
+- 🎓 [Oficina de Usabilidade](#ancora77)
+
+---
 
 <a id="ancoravrear"></a>
-### VR & AR
-- [Realidade Aumentada: Laboratório com Unity e AR Foundation](#ancora78)
+### 🕶️ VR & AR
+
+`Virtual Reality | Augmented Reality | Immersive Experiences`
+
+- 🎓 [Realidade Aumentada: Laboratório com Unity e AR Foundation](#ancora78)
 
 
 ---
