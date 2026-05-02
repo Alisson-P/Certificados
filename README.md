@@ -31,17 +31,14 @@
 <a name="ancoracloud"></a>
 # Cloud | Cloud Security | Microsoft
 
-# Security
    ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
    - [SC-200 - Threat detection and incident response, Security monitoring, Investigation, Incident management, Integration](#ancora112)
    ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
    - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
 
-# AI
    ## Microsoft Certified: Azure AI Fundamentals (AI-900)
    - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)   
 
-# Azure
    ## Microsoft Certified: Azure Fundamentals (AZ-900)
    - [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
    ## Microsoft 365 Certified: Fundamentals (MS-900)
