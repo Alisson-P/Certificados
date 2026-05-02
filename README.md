@@ -22,7 +22,7 @@
 ---
 
 <a name="ancoraEnglish"></a>
-# 🇬🇧 English - Uptime
+# 🌍 English - Uptime
 
 `Communication | Technical English | Professional Development`
 
