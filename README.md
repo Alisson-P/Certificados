@@ -1877,7 +1877,40 @@
 <a id="ancora113"></a>
 # Detection, Threat Intelligence & MITRE
 ## CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
-![CTI 130](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
+![CTI 130](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/CTI%20130.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora114"></a>
+# Detection, Threat Intelligence & MITRE
+## MITRE ATT&CK & Falcon Detection Methods
+![Falcon 109](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/Falcon%20109%20using%20MITRE.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora115"></a>
+# Detection, Threat Intelligence & MITRE
+## Investigation Fundamentals
+![FHT 120](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20120.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora116"></a>
+# Detection, Threat Intelligence & MITRE
+## Incidents Fundamentals
+![FHT 150](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT%20150.png)
 
 - [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
