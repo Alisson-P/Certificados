@@ -2051,7 +2051,14 @@
 <a id="ancora127"></a>
 # Qualys Certified Specialist
 ## Vulnerability Management Detection and Response
-![QCS VMDR]()
+![QCS VMDR](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Qualys%20Certified%20Specialist%20-%20Vulnerability%20Management%20Detection%20and%20Response.png)
+
+      Identify, prioritize, and remediate vulnerabilities at scale
+      Perform continuous risk detection using the Qualys platform
+      Analyze CVEs based on severity and business impact
+      Implement patching and mitigation strategies
+      Continuously monitor and improve security posture
+      Integrate vulnerability management with incident response workflows
 
 - [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
@@ -2062,7 +2069,14 @@
 <a id="ancora128"></a>
 # Qualys Certified Specialist
 ## CyberSecurity Asset Management
-![CSAM]()
+![CSAM](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Qualys%20Certified%20Specialist%20-%20CyberSecurity%20Asset%20Management.png)
+
+      Discover and maintain a complete asset inventory (on-prem & cloud)
+      Classify and enrich assets with risk context
+      Gain full visibility of the attack surface
+      Detect unmanaged and shadow IT assets
+      Correlate assets with vulnerabilities for risk analysis
+      Support risk-based decision-making processes
 
 - [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
@@ -2073,7 +2087,7 @@
 <a id="ancora129"></a>
 # Vulnerability Management
 ## Vulnerability Management Detection and Response
-![VMDR]()
+![VMDR](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Vulnerability%20Management%20Detection%20and%20Response.png)
 
 - [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
@@ -2084,7 +2098,7 @@
 <a id="ancora130"></a>
 # Vulnerability Management
 ## CyberSecurity Asset Management
-![CSAM1]()
+![CSAM1](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/CyberSecurity%20Asset%20Management.png)
 
 - [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
@@ -2095,7 +2109,7 @@
 <a id="ancora131"></a>
 # Vulnerability Management
 ## Vulnerability Management Foundations
-![VMF]()
+![VMF](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Vulnerability%20Management%20Foundations.png)
 
 - [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
@@ -2106,7 +2120,7 @@
 <a id="ancora132"></a>
 # Vulnerability Management
 ## Qualys Sensor Foundation
-![QSF]()
+![QSF](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Qualys%20Sensor%20Foundation.png)
 
 - [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
