@@ -5,10 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Certifications-136-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hours-1168+-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Cloud%20Security%20%7C%20Threat%20Detection-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Vulnerability Management%20%7C%20Cloud%20Security%20%7C%20Threat%20Detection-green?style=for-the-badge">
 </p>
-
-> Focused on SOC Operations, Threat Detection, Vulnerability Management, and Cloud Security.
 
 ---
 
