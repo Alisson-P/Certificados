@@ -20,6 +20,7 @@
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
+- 🛡️ [Cyber Security](ancoracybersecurity)
 
 ---
 
@@ -257,14 +258,6 @@
 
 ---
 
-<a name="ancorasimplilearn"></a>
-## 🌍 Simplilearn
-
-- 🎓 [Introduction to Cyber Security](#ancora6)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
 <a name="ancoraibsec"></a>
 ## 🧠 IBSEC - Instituto Brasileiro de Cibersegurança
 
@@ -279,6 +272,14 @@
 - 🎓 [Hacker Ético Associado](#ancora93)  
 - 🎓 [Segurança na Nuvem](#ancora95)  
 - 🎓 [Python para Cibersegurança Associado](#ancora96)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancorasimplilearn"></a>
+## 🌍 Simplilearn
+
+- 🎓 [Introduction to Cyber Security](#ancora6)
 - 🔝 [Back to top](#ancoraUP)
 
 ---
