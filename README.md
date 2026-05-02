@@ -16,11 +16,10 @@
 ## 📂 Sections
 - 🌍 [English](#ancoraEnglish)
 - 🌐 [Cisco](#ancoracisco)
-- <img src="https://img.icons8.com/?size=100&id=YJfJ0JM5Imsj&format=png&color=000000">[Microsoft](#ancoracloud)
+- 🛡️ [Microsoft Security](#ancoracloud)
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
-- 🛡️ [Cyber Security](ancoracyber)
 
 ---
 
