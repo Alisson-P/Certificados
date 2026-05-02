@@ -184,8 +184,6 @@
 <a name="ancoraQualys"></a>
 # 🔍 Qualys
 
-![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=flat)
-
 ---
 
 ## 🛡️ Qualys Certified Specialist
