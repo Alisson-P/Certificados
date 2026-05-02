@@ -30,14 +30,17 @@
 
 <a name="ancoracloud"></a>
 # Cloud | Cloud Security | Microsoft
+   ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
+   - [SC-200 - Detect, Investigate, respond to threats using Microsoft 365 Defender, Azure Defender and tools like SIEM/SOAR](#ancora112)
+   ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+   - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
+   ## Microsoft Certified: Azure AI Fundamentals (AI-900)
+   - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)   
    ## Microsoft Certified: Azure Fundamentals (AZ-900)
    - [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
    ## Microsoft 365 Certified: Fundamentals (MS-900)
    - [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
-   ## Microsoft Certified: Azure AI Fundamentals (AI-900)
-   - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
-   ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-   - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
+      
    ## Fundação de Apoio à Tecnologia - Programa Minha Chance
    - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
       
@@ -1844,3 +1847,26 @@
 - [Voltar Crowdstrike](#ancoraCrowd)
 - [Voltar ao topo](#ancora)   
 
+---
+
+<a id="ancora112"></a>
+## Microsoft Certified: Security Operations Analyst Associate (SC-200)
+![SC-200](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/AI-900.png)
+
+     Threat detection and incident response using Microsoft Sentinel
+      Security monitoring and alert triage across cloud and hybrid environments
+      Log analysis and investigation using KQL (Kusto Query Language)
+      Incident management and remediation workflows
+      Integration of data sources into SIEM solutions
+      Threat intelligence analysis and enrichment
+      Automation of security operations using playbooks (Logic Apps)
+      Endpoint protection and investigation with Microsoft Defender XDR
+      Identity threat detection with Microsoft Entra ID Protection
+      Hunting for threats using advanced queries and analytics rules
+      MITRE ATT&CK framework mapping and threat analysis
+      Continuous improvement of detection rules and security posture
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+---
