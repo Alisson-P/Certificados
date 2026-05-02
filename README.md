@@ -63,28 +63,28 @@
    - [Falcon for Mobile](#ancora111)
 
    ## Detection, Threat Intelligence & MITRE
-      CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
-      MITRE ATT&CK & Falcon Detection Methods
-      Investigation Fundamentals
-      Incidents Fundamentals
+   - [CrowdStrike Falcon Intelligence Fundamentals (CTI 130)](#ancora113)
+   - [MITRE ATT&CK & Falcon Detection Methods](#ancora114)
+   - [Investigation Fundamentals](#ancora115)
+   - [Incidents Fundamentals](#ancora116)
 
    ## Response & Automation
-      Real Time Response Fundamentals
-      Falcon Fusion Fundamentals
-      Falcon Fusion Workflow Creation
+   - [Real Time Response Fundamentals](#ancora117)
+   - [Falcon Fusion Fundamentals](#ancora118)
+   - [Falcon Fusion Workflow Creation](#ancora119)
 
    ## Identity, Exposure & Vulnerability Management
-      Falcon Identity Protection (IDP)
-      Falcon Exposure Management
-      Falcon Spotlight (Vulnerability Management)
-      Falcon Discover (Asset Visibility)
+   - [Falcon Identity Protection (IDP)](#ancora120)
+   - [Falcon Exposure Management](#ancora121)
+   - [Falcon Spotlight (Vulnerability Management)](#ancora122)
+   - [Falcon Discover (Asset Visibility)](#ancora123)
 
    ## Network & Protection Controls
-      Falcon Firewall Management Fundamentals
+   - [Falcon Firewall Management Fundamentals](#ancora124)
 
    ## SIEM & Visibility
-      Next-Gen SIEM Fundamentals (NGSIEM 100)
-      Customizable Dashboards
+   - [Next-Gen SIEM Fundamentals (NGSIEM 100)](#ancora125)
+   - [Customizable Dashboards](#ancora126)
 
 
 <a name="ancoralgpd"></a>
@@ -1871,5 +1871,16 @@
 
 - [Voltar Microsoft](#ancoracloud)
 - [Voltar ao topo](#ancora)   
+
+---
+
+<a id="ancora113"></a>
+# Detection, Threat Intelligence & MITRE
+## CrowdStrike Falcon Intelligence Fundamentals (CTI 130)
+![CTI 130](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/FHT100.png)
+
+- [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
 
 ---
