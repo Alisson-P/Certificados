@@ -19,7 +19,7 @@
 - ☁️ [Cloud & Microsoft](#ancoracloud)
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
-- 🐧 [Linux](#ancoralinux)
+- 🐧 [Linux](#ancoraLinux)
 
 ---
 
@@ -121,8 +121,8 @@
 
 ---
 
-# 🦅 CrowdStrike
 <a name="ancoraCrowd"></a>
+# 🦅 CrowdStrike
 
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat)
 
@@ -185,8 +185,8 @@
 
 ---
 
-# 🔍 Qualys
 <a name="ancoraQualys"></a>
+# 🔍 Qualys
 
 ![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=flat)
 
@@ -220,38 +220,7 @@
 
 ---
 
-<a name="ancoralgpd"></a>
-# ⚖️ LGPD & Data Protection
-
-`LGPD | Data Privacy | Compliance | DPO`
-
-## 🛡️ Ka Solution - DPO & LGPD na Prática
-
-- 🎓 [DPO & LGPD](#ancora100)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
-<a name="ancorazabbix"></a>
-# 📊 Zabbix
-
-`Monitoring | Observability | Infrastructure`
-
-- 🎓 [Zabbix Starter Week](#ancora101)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
-<a name="ancoramicrosoft"></a>
-# 💻 Windows
-
-`Operating Systems | Administration | IT Fundamentals`
-
-- 🎓 [NerdIn](#ancora83)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
+<a name="ancoraLinux"></a>
 # 🐧 Linux
 
 `Systems Administration | Hardening | Open Source`
@@ -330,6 +299,41 @@
 - 🏅 [Word](#ancora15)  
 - 🏅 [Powerpoint](#ancora16)
 - 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancoralgpd"></a>
+# ⚖️ LGPD & Data Protection
+
+`LGPD | Data Privacy | Compliance | DPO`
+
+## 🛡️ Ka Solution - DPO & LGPD na Prática
+
+- 🎓 [DPO & LGPD](#ancora100)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancorazabbix"></a>
+# 📊 Zabbix
+
+`Monitoring | Observability | Infrastructure`
+
+- 🎓 [Zabbix Starter Week](#ancora101)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancoramicrosoft"></a>
+# 💻 Windows
+
+`Operating Systems | Administration | IT Fundamentals`
+
+- 🎓 [NerdIn](#ancora83)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
 
 <a id="ancorasamsungocean"></a>
 # 🌊 Samsung Ocean
