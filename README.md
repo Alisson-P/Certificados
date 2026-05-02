@@ -2060,7 +2060,7 @@
       Continuously monitor and improve security posture
       Integrate vulnerability management with incident response workflows
 
-- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar Qualys](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
@@ -2078,7 +2078,7 @@
       Correlate assets with vulnerabilities for risk analysis
       Support risk-based decision-making processes
 
-- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar Qualys](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
@@ -2089,7 +2089,7 @@
 ## Vulnerability Management Detection and Response
 ![VMDR](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Vulnerability%20Management%20Detection%20and%20Response.png)
 
-- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar Qualys](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
@@ -2100,7 +2100,7 @@
 ## CyberSecurity Asset Management
 ![CSAM1](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/CyberSecurity%20Asset%20Management.png)
 
-- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar Qualys](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
@@ -2111,7 +2111,7 @@
 ## Vulnerability Management Foundations
 ![VMF](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Vulnerability%20Management%20Foundations.png)
 
-- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar Qualys](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
@@ -2122,7 +2122,7 @@
 ## Qualys Sensor Foundation
 ![QSF](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Qualys/Qualys%20Sensor%20Foundation.png)
 
-- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar Qualys](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
