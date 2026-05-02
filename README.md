@@ -1,98 +1,205 @@
 <a name="ancora"></a>
 
-# 136 Certificados > 1168 horas
+# 🛡️ Cybersecurity Certification Portfolio
 
-# Inglês - Uptime
+<p align="center">
+  <img src="https://img.shields.io/badge/Certifications-136-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hours-1168+-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20Cloud%20Security%20%7C%20Threat%20Detection-green?style=for-the-badge">
+</p>
 
-- [Advanced English](#ancora1)
+> Focused on SOC Operations, Threat Detection, Vulnerability Management, and Cloud Security.
 
-<a name="ancoralinux"></a>
+---
 
+## 📂 Sections
+- 🇬🇧 English
+- 🌐 Cisco
+- ☁️ Cloud & Microsoft
+- 🦅 CrowdStrike
+- 🔍 Qualys
+
+---
+
+# 🇬🇧 English - Uptime
+
+`Communication | Technical English | Professional Development`
+
+- 🎓 [Advanced English](#ancora1)
+
+---
 
 <a name="ancoracisco"></a>
-# CISCO
+# 🌐 CISCO
 
-## Cisco’s Cyber Defense Clinic (CDC)
-- [Cisco CDC](#ancora94)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
-## CyberOps Associate
-- [CyberOps](#ancora87)
-- [Badge CyberOps](https://www.credly.com/badges/98c9217e-0ee1-4a1c-9a45-0c4d43aaf503/linked_in?t=rd8eyt)
-- [Carta de Mérito CyberOps](#ancora88)
+## 🛡️ Cisco’s Cyber Defense Clinic (CDC)
+`Blue Team | SOC Simulation | Threat Detection`
 
-## CCNA - Introduction to Networks
-- [CCNA - Introdução às redes](#ancora80)
-- [Badge CCNA](https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile)
-- [Carta de Mérito CCNA](#ancora81)
+- 🎓 [Cisco CDC](#ancora94)
 
-## Python
-- [PCAP: Programming Essentials in Python](#ancora84)
+---
+
+## 🧠 CyberOps Associate
+`SOC | SIEM | Incident Response | Network Security`
+
+- 🎓 [CyberOps](#ancora87)  
+- 🏅 [Badge CyberOps](https://www.credly.com/badges/98c9217e-0ee1-4a1c-9a45-0c4d43aaf503/linked_in?t=rd8eyt)  
+- 📄 [Carta de Mérito CyberOps](#ancora88)
+
+---
+
+## 🌐 CCNA - Introduction to Networks
+`Networking | Routing & Switching | Infrastructure`
+
+- 🎓 [CCNA - Introdução às redes](#ancora80)  
+- 🏅 [Badge CCNA](https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile)  
+- 📄 [Carta de Mérito CCNA](#ancora81)
+
+---
+
+## 🐍 Python
+`Automation | Scripting | Security Tools`
+
+- 🎓 [PCAP: Programming Essentials in Python](#ancora84)
+
+---
 
 <a name="ancoracloud"></a>
-# Cloud | Cloud Security | Microsoft
+# ☁️ Cloud | Cloud Security | Microsoft
 
-   ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
-   - [SC-200 - Threat detection and incident response, Security monitoring, Investigation, Incident management, Integration](#ancora112)
-   ## Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-   - [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
 
-   ## Microsoft Certified: Azure AI Fundamentals (AI-900)
-   - [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)   
+---
 
-   ## Microsoft Certified: Azure Fundamentals (AZ-900)
-   - [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
-   ## Microsoft 365 Certified: Fundamentals (MS-900)
-   - [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
+### 🛡️ Microsoft Certified: Security Operations Analyst Associate (SC-200)
+`Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
+
+- 🎓 [SC-200 - Threat detection and incident response, Security monitoring, Investigation, Incident management, Integration](#ancora112)
+
+---
+
+### 🔐 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+`Zero Trust | Identity | Compliance | Microsoft Defender | Entra ID`
+
+- 🎓 [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
+
+---
+
+### 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
+`Artificial Intelligence | Machine Learning | NLP | Computer Vision`
+
+- 🎓 [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)   
+
+---
+
+### ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+`Cloud Computing | Azure Architecture | Governance | Pricing`
+
+- 🎓 [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
+
+---
+
+### 🧩 Microsoft 365 Certified: Fundamentals (MS-900)
+`IAM | SaaS | Productivity | Security & Compliance`
+
+- 🎓 [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
       
-   ## Fundação de Apoio à Tecnologia - Programa Minha Chance
-   - [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
-      
+---
 
-# Crowdstrike
+### 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
+`Cloud Fundamentals | Azure Training`
+
+- 🎓 [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
+
+---
+
+# 🦅 CrowdStrike
 <a name="ancoraCrowd"></a>
-   ## Endpoint Security & Falcon Platform
-   - [Falcon Platform Architecture Overview](#ancora106)
-   - [Falcon Platform Technical Fundamentals](#ancora107)
-   - [Falcon Platform Onboarding Configuration](#ancora108)
-   - [Endpoint Security Module](#ancora109)
-   - [Sensor Installation, Configuration & Troubleshooting](#ancora110)
-   - [Falcon for Mobile](#ancora111)
 
-   ## Detection, Threat Intelligence & MITRE
-   - [CrowdStrike Falcon Intelligence Fundamentals (CTI 130)](#ancora113)
-   - [MITRE ATT&CK & Falcon Detection Methods](#ancora114)
-   - [Investigation Fundamentals](#ancora115)
-   - [Incidents Fundamentals](#ancora116)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01F3D?style=flat)
 
-   ## Response & Automation
-   - [Real Time Response Fundamentals](#ancora117)
-   - [Falcon Fusion Fundamentals](#ancora118)
-   - [Falcon Fusion Workflow Creation](#ancora119)
+---
 
-   ## Identity, Exposure & Vulnerability Management
-   - [Falcon Identity Protection (IDP)](#ancora120)
-   - [Falcon Exposure Management](#ancora121)
-   - [Falcon Spotlight (Vulnerability Management)](#ancora122)
-   - [Falcon Discover (Asset Visibility)](#ancora123)
+## 🖥️ Endpoint Security & Falcon Platform
+`EDR | XDR | Endpoint Protection | Platform Architecture`
 
-   ## Network & Protection Controls
-   - [Falcon Firewall Management Fundamentals](#ancora124)
+- 🎓 [Falcon Platform Architecture Overview](#ancora106)  
+- 🎓 [Falcon Platform Technical Fundamentals](#ancora107)  
+- 🎓 [Falcon Platform Onboarding Configuration](#ancora108)  
+- 🎓 [Endpoint Security Module](#ancora109)  
+- 🎓 [Sensor Installation, Configuration & Troubleshooting](#ancora110)  
+- 🎓 [Falcon for Mobile](#ancora111)
 
-   ## SIEM & Visibility
-   - [Next-Gen SIEM Fundamentals (NGSIEM 100)](#ancora125)
-   - [Customizable Dashboards](#ancora126)
+---
 
+## 🧠 Detection, Threat Intelligence & MITRE
+`Threat Intelligence | MITRE ATT&CK | Detection Engineering`
 
-# Qualys
+- 🎓 [CrowdStrike Falcon Intelligence Fundamentals (CTI 130)](#ancora113)  
+- 🎓 [MITRE ATT&CK & Falcon Detection Methods](#ancora114)  
+- 🎓 [Investigation Fundamentals](#ancora115)  
+- 🎓 [Incidents Fundamentals](#ancora116)
+
+---
+
+## ⚙️ Response & Automation
+`Incident Response | Automation | SOAR`
+
+- 🎓 [Real Time Response Fundamentals](#ancora117)  
+- 🎓 [Falcon Fusion Fundamentals](#ancora118)  
+- 🎓 [Falcon Fusion Workflow Creation](#ancora119)
+
+---
+
+## 🛡️ Identity, Exposure & Vulnerability Management
+`Identity Protection | Attack Surface | Vulnerability Management`
+
+- 🎓 [Falcon Identity Protection (IDP)](#ancora120)  
+- 🎓 [Falcon Exposure Management](#ancora121)  
+- 🎓 [Falcon Spotlight (Vulnerability Management)](#ancora122)  
+- 🎓 [Falcon Discover (Asset Visibility)](#ancora123)
+
+---
+
+## 🌐 Network & Protection Controls
+`Firewall | Network Security | Policy Management`
+
+- 🎓 [Falcon Firewall Management Fundamentals](#ancora124)
+
+---
+
+## 📊 SIEM & Visibility
+`Next-Gen SIEM | Observability | Dashboards`
+
+- 🎓 [Next-Gen SIEM Fundamentals (NGSIEM 100)](#ancora125)  
+- 🎓 [Customizable Dashboards](#ancora126)
+
+---
+
+# 🔍 Qualys
 <a name="ancoraQualys"></a>
-   ## Qualys Certified Specialist
-   - [Vulnerability Management Detection and Response](#ancora127)
-   - [CyberSecurity Asset Management](#ancora128)
-   ## Vulnerability Management
-   - [Vulnerability Management Detection and Response](#ancora129)
-   - [CyberSecurity Asset Management](#ancora130)
-   - [Vulnerability Management Foundations](#ancora131)
-   - [Qualys Sensor Foundation](#ancora132)
+
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=flat)
+
+---
+
+## 🛡️ Qualys Certified Specialist
+`Vulnerability Management | Asset Management | Detection & Response`
+
+- 🎓 [Vulnerability Management Detection and Response](#ancora127)  
+- 🎓 [CyberSecurity Asset Management](#ancora128)
+
+---
+
+## 🔍 Vulnerability Management
+`VMDR | Asset Visibility | Risk Assessment`
+
+- 🎓 [Vulnerability Management Detection and Response](#ancora129)  
+- 🎓 [CyberSecurity Asset Management](#ancora130)  
+- 🎓 [Vulnerability Management Foundations](#ancora131)  
+- 🎓 [Qualys Sensor Foundation](#ancora132)
 
 
 # Multi-Cloud KA Solution
