@@ -13,11 +13,12 @@
 ---
 
 ## 📂 Sections
-- 🇬🇧 English
-- 🌐 Cisco
-- ☁️ Cloud & Microsoft
-- 🦅 CrowdStrike
-- 🔍 Qualys
+- 🌍 [English](#ancora1)
+- 🌐 [Cisco](#ancoracisco)
+- ☁️ [Cloud & Microsoft](#ancoracloud)
+- 🦅 [CrowdStrike](#ancoraCrowd)
+- 🔍 [Qualys](#ancoraQualys)
+- 🐧 [Linux](#ancora2)
 
 ---
 
