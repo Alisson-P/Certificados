@@ -83,6 +83,18 @@
    - [Customizable Dashboards](#ancora126)
 
 
+# Qualys
+<a name="ancoraQualys"></a>
+   ## Qualys Certified Specialist
+   - [Vulnerability Management Detection and Response](#ancora127)
+   - [CyberSecurity Asset Management](#ancora128)
+   ## Vulnerability Management
+   - [Vulnerability Management Detection and Response](#ancora129)
+   - [CyberSecurity Asset Management](#ancora130)
+   - [Vulnerability Management Foundations](#ancora131)
+   - [Qualys Sensor Foundation](#ancora132)
+
+
 # Multi-Cloud KA Solution
    - [AWS Week](#ancora99)
    - [Azure - SC-900](#ancora82)
@@ -2031,6 +2043,72 @@
 ![FHT 106](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Crowdstrike/2-5-26/FHT%20106.png)
 
 - [Voltar Crowdstrike](#ancoraCrowd)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora127"></a>
+# Qualys Certified Specialist
+## Vulnerability Management Detection and Response
+![QCS VMDR]()
+
+- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora128"></a>
+# Qualys Certified Specialist
+## CyberSecurity Asset Management
+![CSAM]()
+
+- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora129"></a>
+# Vulnerability Management
+## Vulnerability Management Detection and Response
+![VMDR]()
+
+- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora130"></a>
+# Vulnerability Management
+## CyberSecurity Asset Management
+![CSAM1]()
+
+- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora131"></a>
+# Vulnerability Management
+## Vulnerability Management Foundations
+![VMF]()
+
+- [Voltar Crowdstrike](#ancoraQualys)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora132"></a>
+# Vulnerability Management
+## Qualys Sensor Foundation
+![QSF]()
+
+- [Voltar Crowdstrike](#ancoraQualys)
 - [Voltar ao topo](#ancora)   
 
 
