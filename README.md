@@ -232,7 +232,7 @@
 ---
 
 <a name="ancoramicrosoft"></a>
-# 🪟 Windows
+# 💻 Windows
 
 `Operating Systems | Administration | IT Fundamentals`
 
