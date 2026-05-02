@@ -69,7 +69,9 @@
 ---
 
 <a name="ancoracloud"></a>
-# ☁️ Cloud | Cloud Security | Microsoft
+# ☁️ Cloud | 🛡️ Cloud Security | Microsoft
+
+# ☁️ Cloud | 🛡️ Cloud Security | Microsoft [![Microsoft Defender for Cloud](https://img.shields.io/badge/Microsoft_Defender_for_Cloud-0078D4?style=flat&logo=microsoft&logoColor=white)](#ancora)
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
 
