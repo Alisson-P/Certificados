@@ -12,6 +12,7 @@
 
 ---
 
+<a name="ancoraUP"></a>
 ## 📂 Sections
 - 🌍 [English](#ancoraEnglish)
 - 🌐 [Cisco](#ancoracisco)
@@ -28,6 +29,7 @@
 `Communication | Technical English | Professional Development`
 
 - 🎓 [Advanced English](#ancora1)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -40,6 +42,7 @@
 `Blue Team | SOC Simulation | Threat Detection`
 
 - 🎓 [Cisco CDC](#ancora94)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -49,6 +52,7 @@
 - 🎓 [CyberOps](#ancora87)  
 - 🏅 [Badge CyberOps](https://www.credly.com/badges/98c9217e-0ee1-4a1c-9a45-0c4d43aaf503/linked_in?t=rd8eyt)  
 - 📄 [Carta de Mérito CyberOps](#ancora88)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -58,6 +62,7 @@
 - 🎓 [CCNA - Introdução às redes](#ancora80)  
 - 🏅 [Badge CCNA](https://www.credly.com/badges/da17e727-8550-4ac9-a162-f4adb0ec1a0a?source=linked_in_profile)  
 - 📄 [Carta de Mérito CCNA](#ancora81)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -65,6 +70,7 @@
 `Automation | Scripting | Security Tools`
 
 - 🎓 [PCAP: Programming Essentials in Python](#ancora84)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -79,6 +85,7 @@
 `Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
 
 - 🎓 [SC-200 - Threat detection and incident response, Security monitoring, Investigation, Incident management, Integration](#ancora112)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -86,13 +93,15 @@
 `Zero Trust | Identity | Compliance | Microsoft Defender | Entra ID`
 
 - 🎓 [SC-900 - Cybersecurity, Zero Trust, Identity, Compliance, Microsoft Defender, Microsoft Entra ID](#ancora105)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
 ### 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
 `Artificial Intelligence | Machine Learning | NLP | Computer Vision`
 
-- 🎓 [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)   
+- 🎓 [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
+- 🔝 [Back to top](#ancoraUP) 
 
 ---
 
@@ -100,6 +109,7 @@
 `Cloud Computing | Azure Architecture | Governance | Pricing`
 
 - 🎓 [AZ-900 - Cloud Computing, Microsoft Azure, Cloud Architecture, Governance, Pricing Models](#ancora102)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -107,6 +117,7 @@
 `IAM | SaaS | Productivity | Security & Compliance`
 
 - 🎓 [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
+- 🔝 [Back to top](#ancoraUP)
       
 ---
 
@@ -114,6 +125,7 @@
 `Cloud Fundamentals | Azure Training`
 
 - 🎓 [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -133,6 +145,7 @@
 - 🎓 [Endpoint Security Module](#ancora109)  
 - 🎓 [Sensor Installation, Configuration & Troubleshooting](#ancora110)  
 - 🎓 [Falcon for Mobile](#ancora111)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -143,6 +156,7 @@
 - 🎓 [MITRE ATT&CK & Falcon Detection Methods](#ancora114)  
 - 🎓 [Investigation Fundamentals](#ancora115)  
 - 🎓 [Incidents Fundamentals](#ancora116)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -152,6 +166,7 @@
 - 🎓 [Real Time Response Fundamentals](#ancora117)  
 - 🎓 [Falcon Fusion Fundamentals](#ancora118)  
 - 🎓 [Falcon Fusion Workflow Creation](#ancora119)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -162,6 +177,7 @@
 - 🎓 [Falcon Exposure Management](#ancora121)  
 - 🎓 [Falcon Spotlight (Vulnerability Management)](#ancora122)  
 - 🎓 [Falcon Discover (Asset Visibility)](#ancora123)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -169,6 +185,7 @@
 `Firewall | Network Security | Policy Management`
 
 - 🎓 [Falcon Firewall Management Fundamentals](#ancora124)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -177,6 +194,7 @@
 
 - 🎓 [Next-Gen SIEM Fundamentals (NGSIEM 100)](#ancora125)  
 - 🎓 [Customizable Dashboards](#ancora126)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -192,6 +210,7 @@
 
 - 🎓 [Vulnerability Management Detection and Response](#ancora127)  
 - 🎓 [CyberSecurity Asset Management](#ancora128)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -202,6 +221,7 @@
 - 🎓 [CyberSecurity Asset Management](#ancora130)  
 - 🎓 [Vulnerability Management Foundations](#ancora131)  
 - 🎓 [Qualys Sensor Foundation](#ancora132)
+- 🔝 [Back to top](#ancoraUP)
 
 
 # 🌐 Multi-Cloud | KA Solution
@@ -210,6 +230,7 @@
 
 - 🎓 [AWS Week](#ancora99)  
 - 🎓 [Azure - SC-900](#ancora82)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -221,6 +242,7 @@
 ## 🛡️ Ka Solution - DPO & LGPD na Prática
 
 - 🎓 [DPO & LGPD](#ancora100)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -230,6 +252,7 @@
 `Monitoring | Observability | Infrastructure`
 
 - 🎓 [Zabbix Starter Week](#ancora101)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -239,6 +262,7 @@
 `Operating Systems | Administration | IT Fundamentals`
 
 - 🎓 [NerdIn](#ancora83)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -253,6 +277,7 @@
 - 🎓 [Segurança em Servidores](#ancora2)  
 - 🎓 [Linux Fundamentals](#ancora3)  
 - 🎓 [NerdIn](#ancora79)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -260,6 +285,7 @@
 
 - 🎓 [Linux Unhatched](#ancora4)  
 - 🎓 [Linux Essentials](#ancora5)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -274,6 +300,7 @@
 ## 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
 
 - 🎓 [CyberOps Associate Segunda Edição - Certificado + Ementa](#ancora97)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -281,6 +308,7 @@
 ## 🌍 Simplilearn
 
 - 🎓 [Introduction to Cyber Security](#ancora6)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -298,6 +326,7 @@
 - 🎓 [Hacker Ético Associado](#ancora93)  
 - 🎓 [Segurança na Nuvem](#ancora95)  
 - 🎓 [Python para Cibersegurança Associado](#ancora96)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -316,6 +345,7 @@
 - 🏅 [Excel](#ancora14)  
 - 🏅 [Word](#ancora15)  
 - 🏅 [Powerpoint](#ancora16)
+- 🔝 [Back to top](#ancoraUP)
 
 <a id="ancorasamsungocean"></a>
 # 🌊 Samsung Ocean
@@ -338,6 +368,7 @@
 - 🎓 [Programando para web com Python, CSS e HTML - parte 1](#ancora68)  
 - 🎓 [Programando para web com Python, CSS e HTML - parte 2](#ancora69)  
 - 🎓 [Programando para web com Python, CSS e HTML - parte 3](#ancora70)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -350,6 +381,7 @@
 - 🎓 [Integrando os serviços de backend na nuvem](#ancora26)  
 - 🎓 [Backend com NodeJs e Express - parte 1](#ancora27)  
 - 🎓 [Backend com NodeJs e Express - parte 2](#ancora28)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -360,6 +392,7 @@
 
 - 🎓 [Frontend Web com ReactJS: Introdução (Parte 1)](#ancora40)  
 - 🎓 [Frontend Web com ReactJS (Parte 2)](#ancora41)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -376,6 +409,7 @@
 - 🎓 [Banco de Dados - Room](#ancora22)  
 - 🎓 [Push Notification com Firebase](#ancora23)  
 - 🎓 [Android Jetpack e Arquitetura](#ancora24)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -385,6 +419,7 @@
 `Voice Assistants | Conversational Interfaces | AI Interaction`
 
 - 🎓 [Assistente Virtual de Voz em Bixby - Trazendo Inteligência à Interface](#ancora29)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -396,6 +431,7 @@
 - 🎓 [Introdução ao Blockchain](#ancora30)  
 - 🎓 [Ferramentas de desenvolvimento de dApps](#ancora31)  
 - 🎓 [Contratos inteligentes em Ethereum](#ancora32)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -406,6 +442,7 @@
 
 - 🎓 [Introdução](#ancora33)  
 - 🎓 [DevOps Git](#ancora34)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -415,6 +452,7 @@
 `Embedded Systems | Smart Devices | Sensors`
 
 - 🎓 [Introdução aos Dispositivos Wearables](#ancora35)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -427,6 +465,7 @@
 - 🎓 [Design Thinking aplicado a Startups](#ancora37)  
 - 🎓 [Identificando o cliente e o problema](#ancora38)  
 - 🎓 [Construindo e validando a proposição de valor](#ancora39)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -438,12 +477,14 @@
 ### 🧠 Deep Learning
 - 🎓 [Deep Learning - Parte 1](#ancora42)  
 - 🎓 [Deep Learning - Parte 2](#ancora43)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
 ### 📊 Ciência de Dados
 - 🎓 [Análise de Dados com Orange](#ancora44)  
 - 🎓 [Análise de dados geográficos com Python](#ancora45)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -451,6 +492,7 @@
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)  
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)  
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -462,6 +504,7 @@
 - 🎓 [Módulo 1](#ancora49)  
 - 🎓 [Módulo 2](#ancora50)  
 - 🎓 [Módulo 3](#ancora51)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -472,6 +515,7 @@
 
 - 🎓 [Introdução a Internet das Coisas](#ancora52)  
 - 🎓 [Laboratório de IoT com Arduino](#ancora53)
+- 🔝 [Back to top](#ancoraUP)
 
 <a id="ancorajogosdigitais"></a>
 ## 🎮 Jogos Digitais
@@ -484,6 +528,7 @@
 - 🎓 [Criação de Jogos 3D com Unity - parte 1](#ancora57)  
 - 🎓 [Modelagem 3D para Jogos Digitais - parte 1](#ancora58)  
 - 🎓 [Modelagem 3D para Jogos Digitais - parte 2](#ancora59)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -494,6 +539,7 @@
 
 - 🎓 [O Futuro dos bancos e Fintechs](#ancora60)  
 - 🎓 [Marco legal das startups](#ancora61)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -509,6 +555,7 @@
 - 🎓 [Tópicos de UX para Internet das Coisas](#ancora75)  
 - 🎓 [Tópicos de UX para VR e AR](#ancora76)  
 - 🎓 [Oficina de Usabilidade](#ancora77)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -518,6 +565,7 @@
 `Virtual Reality | Augmented Reality | Immersive Experiences`
 
 - 🎓 [Realidade Aumentada: Laboratório com Unity e AR Foundation](#ancora78)
+- 🔝 [Back to top](#ancoraUP)
 
 
 ---
