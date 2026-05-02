@@ -16,7 +16,7 @@
 ## 📂 Sections
 - 🌍 [English](#ancoraEnglish)
 - 🌐 [Cisco](#ancoracisco)
-- ☁️ [Cloud & Microsoft](#ancoracloud)
+- [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)](#ancoracloud)
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
