@@ -478,7 +478,7 @@
 ---
 
 <a id="ancoraOT"></a>
-## 🏭 OT-ICS | Industria 4.0 | IoT
+## 🏭 OT-ICS
 
 `Operational Technology Security | Industrial Control Systems | Critical Infrastructure Protection`
 
