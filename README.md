@@ -2406,6 +2406,12 @@
 ## Análise de Negócio
 ![BPM](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/BPM.png)
 
+    Fundamentos de Business Process Management (BPM) aplicados ao contexto organizacional
+    Compreensão de levantamento, análise e documentação de processos de negócio
+    Identificação de gargalos, riscos operacionais e oportunidades de melhoria contínua
+    Apoio à padronização de processos visando eficiência e alinhamento estratégico
+    Visão integrada entre negócio, tecnologia e stakeholders
+
 - [Voltar Business](#ancoraBusi)
 - [Voltar ao topo](#ancora)   
 
@@ -2417,9 +2423,23 @@
 ## Gerenciamento de Projetos com Ênfase no PMI - Da Iniciação ao Planejamento
 ![PMI1](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/PMI.png)
 
+    Fundamentos do PMI (PMBOK) aplicados ao ciclo de vida do projeto
+    Compreensão dos processos de Iniciação e Planejamento
+    Definição de escopo, cronograma, custos e stakeholders
+    Identificação e análise de riscos iniciais do projeto
+    Elaboração de documentação base do projeto (termo de abertura, plano inicial)
+    Alinhamento entre objetivos estratégicos e execução do projeto
+
 <a id="ancora135"></a>
 ## Gerenciamento de Projetos com Ênfase no PMI - Planejamento Avançado
 ![PMI2](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/PMI2.png)
+
+    Planejamento avançado conforme boas práticas do PMI / PMBOK
+    Estruturação detalhada de escopo, WBS, cronograma e orçamento
+    Planejamento de riscos, qualidade, comunicações e aquisições
+    Definição de indicadores de desempenho (KPIs) do projeto
+    Integração entre áreas de conhecimento para controle e governança
+    Base sólida para atuação em gestão de projetos complexos
 
 - [Voltar Business](#ancoraBusi)
 - [Voltar ao topo](#ancora)   
@@ -2432,6 +2452,13 @@
 ## Project 2013
 ![Project](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Project.png)
 
+    Utilização do Microsoft Project para planejamento e controle de projetos
+    Criação e manutenção de cronogramas, tarefas, marcos e dependências
+    Alocação e gerenciamento de recursos e cargas de trabalho
+    Monitoramento de prazo, esforço e progresso do projeto
+    Apoio ao planejamento conforme boas práticas do PMI
+    Geração de relatórios e visibilidade para tomada de decisão
+
 - [Voltar Business](#ancoraBusi)
 - [Voltar ao topo](#ancora)   
 
@@ -2442,6 +2469,13 @@
 # Business Process Management | Project Governance | Productivity Tools
 ## Scrum - Gestão e Desenvolvimento Ágil de Projetos
 ![Scrum](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Scrum.png)
+
+    Fundamentos do framework Scrum aplicados à gestão ágil de projetos
+    Compreensão dos papéis, eventos e artefatos do Scrum
+    Planejamento e acompanhamento de sprints, backlog e entregas incrementais
+    Foco em colaboração, transparência e melhoria contínua
+    Aplicação de práticas ágeis para aumento de valor e eficiência na entrega
+    Integração do Scrum com contextos de projetos tradicionais e híbridos
 
 - [Voltar Business](#ancoraBusi)
 - [Voltar ao topo](#ancora)   
@@ -2454,7 +2488,21 @@
 ## Excel 2016 - Módulo I e II
 ![ExcelI](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Excel1.png)
 
+    Fundamentos do Microsoft Excel aplicados a ambientes corporativos
+    Criação e formatação de planilhas estruturadas
+    Utilização de fórmulas e funções básicas
+    Organização, classificação e tratamento inicial de dados
+    Aplicação de gráficos e recursos de visualização
+    Apoio à análise básica de informações para tomada de decisão
+
 ![ExcelII](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Excel2.png)
+
+    Utilização intermediária e avançada do Excel para análise de dados
+    Aplicação de funções avançadas (lógicas, estatísticas e condicionais)
+    Criação de planilhas dinâmicas e automatizadas
+    Uso de tabelas e gráficos avançados para análise e apresentação
+    Consolidação e cruzamento de grandes volumes de dados
+    Apoio à produtividade, análise operacional e relatórios gerenciais
 
 - [Voltar Business](#ancoraBusi)
 - [Voltar ao topo](#ancora)   
