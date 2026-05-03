@@ -60,14 +60,6 @@
 
 ---
 
-## 🐍 Python
-`Automation | Scripting | Security Tools`
-
-- 🎓 [PCAP: Programming Essentials in Python](#ancora84)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
 <a name="ancoracloud"></a>
 # ☁️ Cloud | 🛡️ Cloud Security | Microsoft
 
@@ -203,15 +195,6 @@
 - 🎓 [Qualys Sensor Foundation](#ancora132)
 - 🔝 [Back to top](#ancoraUP)
 
-
-# 🌐 Multi-Cloud | KA Solution
-
-`AWS | Azure | Multi-Cloud Fundamentals`
-
-- 🎓 [AWS Week](#ancora99)  
-- 🎓 [Azure - SC-900](#ancora82)
-- 🔝 [Back to top](#ancoraUP)
-
 ---
 
 <a name="ancoraLinux"></a>
@@ -296,6 +279,15 @@
 
 ---
 
+# 🌐 Multi-Cloud | KA Solution
+
+`AWS | Azure | Multi-Cloud Fundamentals`
+
+- 🎓 [AWS Week](#ancora99)  
+- 🎓 [Azure - SC-900](#ancora82)
+- 🔝 [Back to top](#ancoraUP)
+
+
 <a name="ancoralgpd"></a>
 # ⚖️ LGPD & Data Protection
 
@@ -338,6 +330,12 @@
 
 <a id="ancorapython"></a>
 ## 🐍 Python
+
+`Automation | Scripting | Security Tools`
+
+- 🎓 [PCAP: Programming Essentials in Python](#ancora84)
+- 🔝 [Back to top](#ancoraUP)
+
 
 `Automation | Data Processing | Web Development | SQL Integration`
 
