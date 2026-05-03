@@ -321,7 +321,7 @@
 <a id="ancorasamsungocean"></a>
 # 🌊 Samsung Ocean
 
-`Full Stack | Mobile | AI | IoT | Blockchain | Innovation`
+`Python | AI | IoT | Full Stack | Mobile | Blockchain | Innovation`
 
 ---
 
