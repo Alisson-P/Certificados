@@ -2531,7 +2531,7 @@
     Conceitos de segregação de redes, zonas e conduítes (ISA/IEC 62443)
     Base para atuação em proteção de infraestruturas críticas e sistemas industriais
 
-- [Voltar Business](#ancoraBusi)
+- [Voltar OT-ICS](#ancoraOT)
 - [Voltar ao topo](#ancora)   
 
 
