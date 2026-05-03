@@ -335,6 +335,12 @@
 
 - 🎓 [PCAP: Programming Essentials in Python](#ancora84)
 
+`Algorithmic Thinking | Python Programming | Logical Structures`
+
+- 🎓 [Introdução à Lógica de Programação](#ancora141)  
+- 🎓 [Python - Programando com a Linguagem](#ancora142)  
+- 🎓 [Lógica de Programação Aplicada à Linguagem](#ancora143)  
+
 `Automation | Data Processing | Web Development | SQL Integration`
 
 - 🎓 [Módulo 1](#ancora62)  
@@ -2532,6 +2538,46 @@
     Base para atuação em proteção de infraestruturas críticas e sistemas industriais
 
 - [Voltar OT-ICS](#ancoraOT)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora141"></a>
+# Algorithmic Thinking | Python Programming | Logical Structures
+## Introdução à Lógica de Programação - 40 horas
+![python40]()
+
+    Fundamentos de lógica de programação aplicados à construção de soluções computacionais
+    Compreensão de algoritmos, variáveis, operadores e estruturas de controle
+    Aplicação de estruturas condicionais e de repetição
+    Desenvolvimento do raciocínio lógico e analítico para resolução de problemas
+    Base conceitual para aprendizado de linguagens de programação
+    Apoio à automação e estruturação de soluções técnicas
+
+- [Voltar Python](#ancorapython)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora142"></a>
+# Algorithmic Thinking | Python Programming | Logical Structures
+## Python - Programando com a Linguagem
+![python2](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Python.png)
+
+- [Voltar Python](#ancorapython)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora143"></a>
+# Algorithmic Thinking | Python Programming | Logical Structures
+## Lógica de Programação Aplicada à Linguagem
+![python3](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Log%20Prog%20aplicada.png)
+
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)   
 
 
