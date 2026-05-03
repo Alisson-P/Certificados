@@ -21,6 +21,7 @@
 - 🐍 [Python](#ancorapython)
 - 🤖 [AI](#ancoraia)
 - 🛡️ [Cyber Security - IBSEC](#ancoracyber)
+- 🏭 [OT-ICS | Industria 4.0 | IoT](#ancoraOT)
 - 💼 [Business | Tools](#ancoraBusi)
 - 🧭 [Leadership | Management](#ancoraBusi)
 
@@ -475,6 +476,14 @@
 - 🔝 [Back to top](#ancoraUP)
 
 ---
+
+<a id="ancoraOT"></a>
+## 🏭 OT-ICS | Industria 4.0 | IoT
+
+`Operational Technology Security | Industrial Control Systems | Critical Infrastructure Protection`
+
+- 🎓 [Redes Industriais Seguras OT-ICS](#ancora140)  
+
 
 <a id="ancoraind4p0"></a>
 ## 🏭 Indústria 4.0
@@ -2510,3 +2519,20 @@
 
 ---
 
+<a id="ancora140"></a>
+# OT-ICS | IoT | Industria 4.0
+## Redes Industriais Seguras OT-ICS
+![OT-ICS](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Cibersecurity/Redes%20Industriais%20Seguras%20OT-ICS.png)
+
+    Fundamentos de segurança em ambientes industriais (OT/ICS)
+    Compreensão da arquitetura e funcionamento de redes industriais
+    Identificação de riscos, ameaças e vulnerabilidades em sistemas OT
+    Aplicação de boas práticas de segurança cibernética para ambientes industriais
+    Conceitos de segregação de redes, zonas e conduítes (ISA/IEC 62443)
+    Base para atuação em proteção de infraestruturas críticas e sistemas industriais
+
+- [Voltar Business](#ancoraBusi)
+- [Voltar ao topo](#ancora)   
+
+
+---
