@@ -372,6 +372,7 @@
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)  
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)  
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
