@@ -33,8 +33,6 @@
 <a name="ancoracisco"></a>
 # 🌐 CISCO
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
 ## 🛡️ Cisco’s Cyber Defense Clinic (CDC)
 `Blue Team | SOC Simulation | Threat Detection`
 
@@ -62,10 +60,6 @@
 
 <a name="ancoracloud"></a>
 # ☁️ Cloud | 🛡️ Cloud Security | Microsoft
-
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
-
----
 
 ### 🛡️ Microsoft Certified: Security Operations Analyst Associate (SC-200)
 `Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
