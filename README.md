@@ -756,7 +756,7 @@
 ![Python para Cibersegurança Associado](https://github.com/Alisson-JP/Certificados/blob/a4c769e30b4e4bff0c593ca963a1a904c3329cf5/PDFs/Cibersecurity/IBSEC%2009%20Python%20para%20Seguran%C3%A7a%20Associado.png)
 - [Voltar Cyber Security](#ancoracyber)
 - [Voltar ao topo](#ancora)
-- 
+
 ---
 
 ## Selos de Avaliação e Competência do Linkedin
