@@ -330,8 +330,6 @@
 `Automation | Scripting | Security Tools`
 
 - 🎓 [PCAP: Programming Essentials in Python](#ancora84)
-- 🔝 [Back to top](#ancoraUP)
-
 
 `Automation | Data Processing | Web Development | SQL Integration`
 
@@ -361,14 +359,12 @@
 ### 🧠 Deep Learning
 - 🎓 [Deep Learning - Parte 1](#ancora42)  
 - 🎓 [Deep Learning - Parte 2](#ancora43)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
 ### 📊 Ciência de Dados
 - 🎓 [Análise de Dados com Orange](#ancora44)  
 - 🎓 [Análise de dados geográficos com Python](#ancora45)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -376,7 +372,6 @@
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)  
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)  
 - 🎓 [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
