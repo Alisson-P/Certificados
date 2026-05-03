@@ -2546,7 +2546,7 @@
 <a id="ancora141"></a>
 # Algorithmic Thinking | Python Programming | Logical Structures
 ## Introdução à Lógica de Programação - 40 horas
-![python40]()
+![python40](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Python40.png)
 
     Fundamentos de lógica de programação aplicados à construção de soluções computacionais
     Compreensão de algoritmos, variáveis, operadores e estruturas de controle
