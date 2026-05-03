@@ -21,6 +21,8 @@
 - 🐍 [Python](#ancorapython)
 - 🤖 [AI](#ancoraia)
 - 🛡️ [Cyber Security - IBSEC](#ancoracyber)
+- 💼 [Business | Tools](#ancoraBusi)
+- 🧭 [Leadership | Management](#ancoraBusi)
 
 ---
 
@@ -545,6 +547,22 @@
 - 🎓 [Realidade Aumentada: Laboratório com Unity e AR Foundation](#ancora78)
 - 🔝 [Back to top](#ancoraUP)
 
+
+---
+
+<a id="ancoraBusi"></a>
+### 💼 Business | 🧭 Leadership | 🛠️ Tools
+
+`Business Process Management | Project Governance | Productivity Tools`
+
+-  📊 [Análise de Negócio - BPM](#ancora133)
+-  📋 [Gerenciamento de Projetos com Ênfase no PMI - Da Iniciação ao Planejamento](#ancora134)
+-  📈 [Gerenciamento de Projetos com Ênfase no PMI - Planejamento Avançado](#ancora135)
+-  🛠️ [Project 2013](#ancora136)
+-  🔁 [Scrum - Gestão e Desenvolvimento Ágil de Projetos](#ancora137)
+-  📊 [Excel 2016 - Módulo I](#ancora138)
+-  📊 [Excel 2016 - Módulo II](#ancora139)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 <a id="ancora1"></a>
@@ -2382,3 +2400,65 @@
 
 
 ---
+
+<a id="ancora133"></a>
+# Business Process Management | Project Governance | Productivity Tools
+## Análise de Negócio
+![BPM]()
+
+- [Voltar Business](#ancoraBusi)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora134"></a>
+# Business Process Management | Project Governance | Productivity Tools
+## Gerenciamento de Projetos com Ênfase no PMI - Da Iniciação ao Planejamento
+![PMI1]()
+
+<a id="ancora135"></a>
+## Gerenciamento de Projetos com Ênfase no PMI - Planejamento Avançado
+![PMI2]()
+
+- [Voltar Business](#ancoraBusi)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora136"></a>
+# Business Process Management | Project Governance | Productivity Tools
+## Project 2013
+![Project]()
+
+- [Voltar Business](#ancoraBusi)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora137"></a>
+# Business Process Management | Project Governance | Productivity Tools
+## Scrum - Gestão e Desenvolvimento Ágil de Projetos
+![Scrum]()
+
+- [Voltar Business](#ancoraBusi)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
+<a id="ancora138"></a>
+# Business Process Management | Project Governance | Productivity Tools
+## Excel 2016 - Módulo I e II
+![ExcelI]()
+
+![ExcelII]()
+
+- [Voltar Business](#ancoraBusi)
+- [Voltar ao topo](#ancora)   
+
+
+---
+
