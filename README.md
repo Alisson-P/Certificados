@@ -1387,7 +1387,7 @@
     Simulação Avançada de Sistemas (CPS);
     Robótica Inteligente (COBOTS); e
     Realidade Virtual Aumentada.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
+
 - [Voltar Indústria 4.0](#ancoraind4p0)
 - [Voltar ao topo](#ancora)
 
@@ -1399,7 +1399,7 @@
     Computação em Nuvem (I-CLOUD);
     Segurança Cibernética e Integração Horizontal; e
     Vertical de Sistemas.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
+
 - [Voltar Indústria 4.0](#ancoraind4p0)
 - [Voltar ao topo](#ancora)
 
@@ -1412,7 +1412,7 @@
     manufatura modular;
     operações integradas;
     otimização no chão de fábrica das empresas.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
+
 - [Voltar Indústria 4.0](#ancoraind4p0)
 - [Voltar ao topo](#ancora)
 ---
@@ -1431,7 +1431,7 @@
     Desafios;
     Conclusões.
 
-- [Voltar Samsung Ocean](#ancorasamsungocean)
+
 - [Voltar IoT - Internet das Coisas](#ancoraiot)
 - [Voltar ao topo](#ancora)
 
@@ -1443,7 +1443,7 @@
     Aspectos de Hardware com Arduíno;
     Aspectos de Redes com WiFi/Ethernet e MQTT;
     Desenvolvimento de Protótipo Funcional.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
+
 - [Voltar IoT - Internet das Coisas](#ancoraiot)
 - [Voltar ao topo](#ancora)
 ---
