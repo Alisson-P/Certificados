@@ -20,7 +20,7 @@
 - 🐧 [Linux](#ancoraLinux)
 - 🐍 [Python](#ancorapython)
 - 🤖 [AI](#ancoraia)
-- 🛡️ [Cyber Security](#ancoracyber)
+- 🛡️ [Cyber Security - IBSEC](#ancoracyber)
 
 ---
 
