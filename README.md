@@ -349,7 +349,7 @@
 ---
 
 <a id="ancoraia"></a>
-## 🤖 IA - Inteligência Artificial
+## 🤖 AI - Artificial Intelligence
 
 ### 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
 `Artificial Intelligence | Machine Learning | NLP | Computer Vision`
