@@ -18,6 +18,8 @@
 - 🦅 [CrowdStrike](#ancoraCrowd)
 - 🔍 [Qualys](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
+- 🐍 [Python](#ancorapython)
+- 🤖 [AI](#ancoraia)
 
 ---
 
@@ -346,6 +348,38 @@
 
 ---
 
+<a id="ancoraia"></a>
+## 🤖 IA - Inteligência Artificial
+
+### 🤖 Microsoft Certified: Azure AI Fundamentals (AI-900)
+`Artificial Intelligence | Machine Learning | NLP | Computer Vision`
+
+- 🎓 [AI-900 - Artificial Intelligence, Machine Learning, Azure AI Services, NLP, Computer Vision](#ancora104)
+
+`AI | Machine Learning | Data Science | Deep Learning`
+
+### 🧠 Deep Learning
+- 🎓 [Deep Learning - Parte 1](#ancora42)  
+- 🎓 [Deep Learning - Parte 2](#ancora43)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+### 📊 Ciência de Dados
+- 🎓 [Análise de Dados com Orange](#ancora44)  
+- 🎓 [Análise de dados geográficos com Python](#ancora45)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+### 🤖 Machine Learning
+- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)  
+- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)  
+- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
 <a id="ancorabackend"></a>
 ## ⚙️ Backend
 
@@ -439,33 +473,6 @@
 - 🎓 [Design Thinking aplicado a Startups](#ancora37)  
 - 🎓 [Identificando o cliente e o problema](#ancora38)  
 - 🎓 [Construindo e validando a proposição de valor](#ancora39)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
-<a id="ancoraia"></a>
-## 🤖 IA - Inteligência Artificial
-
-`AI | Machine Learning | Data Science | Deep Learning`
-
-### 🧠 Deep Learning
-- 🎓 [Deep Learning - Parte 1](#ancora42)  
-- 🎓 [Deep Learning - Parte 2](#ancora43)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
-### 📊 Ciência de Dados
-- 🎓 [Análise de Dados com Orange](#ancora44)  
-- 🎓 [Análise de dados geográficos com Python](#ancora45)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
-### 🤖 Machine Learning
-- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 1](#ancora46)  
-- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 2](#ancora47)  
-- 🎓 [Entendendo e implementando Machine Learning com Orange - parte 3](#ancora48)
 - 🔝 [Back to top](#ancoraUP)
 
 ---
