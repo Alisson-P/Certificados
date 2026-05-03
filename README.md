@@ -688,9 +688,9 @@
 ![CyberOps Associate Segunda Edição - Certificado](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/CyberOps%20FAT%201.png)
 
 ![CyberOps Associate Segunda Edição - Ementa](https://github.com/Alisson-JP/Certificados/blob/3064d476f33acf3f135b2f4104066b52c4a1cb4d/PDFs/Funda%C3%A7%C3%A3o%20de%20Apoio%20a%20Tecnologia%20-%20FAT/CyberOps%20FAT%202.png)
-- [Voltar Cyber Security](#ancoracybersecurity)
-- [Voltar FAT](#ancorafat)
+- [Voltar Cyber Security](#ancoracyber)
 - [Voltar ao topo](#ancora)
+- 
 ---
 
 <a id="ancora85"></a>
