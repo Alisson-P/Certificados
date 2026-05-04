@@ -594,6 +594,13 @@
 
 ![C2](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Advanced%20Level%20in%20English/English%20C2%20-%20Go%20Fluent.png)
 
+    C2 proficiency level:
+    Has no difficulty in understanding any kind of spoken language even at fast native speed.
+    Can easily read all forms of the written language, including abstract,
+    structurally or linguistically complex texts such as manuals, specialized articles and literary works.
+    Has a comprehensive and reliable mastery of a very wide range of language to formulate thoughts precisely,
+    give emphasis, differentiate and eliminate ambiguity.
+
 - [Voltar ao topo](#ancora)   
 
 ---
