@@ -13,7 +13,7 @@
 
 ## 📂 Sections
 - 🌍 [English - C2](#ancoraEnglish)
-- 🌐 [Cisco | CyberOps | CCNA](#ancoracisco)
+- 🌐 [Cisco | CDC | CyberOps | CCNA](#ancoracisco)
 - 🛡️ [Microsoft Security | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
 - 🦅 [CrowdStrike | Hunter | +20 Badges](#ancoraCrowd)
 - 🔍 [Qualys Specialist | VMDR | CSAM](#ancoraQualys)
