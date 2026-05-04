@@ -596,11 +596,6 @@
 
 - [Voltar ao topo](#ancora)   
 
-
----
-
-
-- [Voltar ao topo](#ancora)
 ---
 
 ## 4Linux - Open Software Specialists
