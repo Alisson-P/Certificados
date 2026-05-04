@@ -32,7 +32,8 @@
 
 `Communication | Technical English | Professional Development`
 
-- 🎓 [Advanced English](#ancora1)
+- 🎓 [Advanced English - Up Time](#ancora1)
+- 🎓 [English Proficiency Test - C2](#ancora144)
 
 ---
 
@@ -586,6 +587,18 @@
    ### CAE - Certificate of Advanced English
 
 ![Reaching an Advanced level in English language](https://github.com/Alisson-JP/CertificadosSO/blob/b14e8a64081941b468151e2313b828417358ddfb/PDFs/Advanced%20Level%20in%20English/Uptime.png)
+
+
+<a id="ancora144"></a>
+## English Proficiency Test - C2
+
+![C2](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Advanced%20Level%20in%20English/English%20C2%20-%20Go%20Fluent.png)
+
+- [Voltar ao topo](#ancora)   
+
+
+---
+
 
 - [Voltar ao topo](#ancora)
 ---
@@ -2582,3 +2595,5 @@
 
 
 ---
+
+
