@@ -182,8 +182,8 @@
 ## 🛡️ Qualys Certified Specialist
 `Vulnerability Management | Asset Management | Detection & Response`
 
-- 🎓 [Vulnerability Management Detection and Response](#ancora127)  
-- 🎓 [CyberSecurity Asset Management](#ancora128)
+- 🎓 [VMDR - Vulnerability Management Detection and Response](#ancora127)  
+- 🎓 [CSAM - CyberSecurity Asset Management](#ancora128)
 
 ---
 
