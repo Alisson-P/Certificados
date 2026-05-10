@@ -15,6 +15,7 @@
 - 🌍 [English - C2](#ancoraEnglish)
 - 🌐 [Cisco | CDC | CyberOps | CCNA](#ancoracisco)
 - 🛡️ [Microsoft Security | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
+- 🌟 [Microsoft Learning | Certifications | Badges | Trophies](#ancoracloud)
 - 🦅 [CrowdStrike | Hunter | +20 Badges](#ancoraCrowd)
 - 🔍 [Qualys Specialist | VMDR | CSAM](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
@@ -102,6 +103,22 @@
 - 🎓 [MS-900 - Microsoft 365, Identity & Access Management (IAM), SaaS, Productivity, Security & Compliance](#ancora103)
 - 🔝 [Back to top](#ancoraUP)
       
+
+---
+
+### 🛡️ Microsoft Learning
+
+- 🏅 [107 Badges](#ancora103)
+- 🏆 [21 Trophies](#ancoraUP)
+- ⏱️ [76+ Hours](#ancoraUP)
+- 📜 [5 Certifications](#ancoraUP)
+- 📝 [Transcript](#ancoraUP)
+
+
+
+https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=credentials-tab
+
+
 ---
 
 ### 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
