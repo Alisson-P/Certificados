@@ -312,25 +312,6 @@
 - 🎓 [DPO & LGPD](#ancora100)
 - 🔝 [Back to top](#ancoraUP)
 
----
-
-<a name="ancorazabbix"></a>
-# 📊 Zabbix
-
-`Monitoring | Observability | Infrastructure`
-
-- 🎓 [Zabbix Starter Week](#ancora101)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
-<a name="ancoramicrosoft"></a>
-# 💻 Windows
-
-`Operating Systems | Administration | IT Fundamentals`
-
-- 🎓 [NerdIn](#ancora83)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -594,6 +575,27 @@
 - 🔝 [Back to top](#ancoraUP)
 
 ---
+
+<a name="ancorazabbix"></a>
+# 📊 Zabbix
+
+`Monitoring | Observability | Infrastructure`
+
+- 🎓 [Zabbix Starter Week](#ancora101)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancoramicrosoft"></a>
+# 💻 Windows
+
+`Operating Systems | Administration | IT Fundamentals`
+
+- 🎓 [NerdIn](#ancora83)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
 <a id="ancora1"></a>
 ## Uptime - English
 
