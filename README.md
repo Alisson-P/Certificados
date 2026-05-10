@@ -25,8 +25,10 @@
 - 🤖 [AI](#ancoraia)
 - 🛡️ [Cyber Security - IBSEC](#ancoracyber)
 - 🏭 [OT-ICS | Industria 4.0 | IoT](#ancoraOT)
-- 💼 [Business | Tools](#ancoraBusi)
-- 🧭 [Leadership | Management](#ancoraBusi)
+- 🔍 [Consulting | Strategy & Discovery](#ancoraConsulting)
+- 🚀 [Innovation | Product & Startups](#ancoraInnovation)
+- 📐 [Delivery | Governance & Project Management](#ancoraDelivery)
+- 📊 [Productivity | Reporting & Tooling](#ancoraProductivity)
 
 ---
 
@@ -467,19 +469,6 @@
 
 ---
 
-<a id="ancoraempreendedorismo"></a>
-## 💡 Empreendedorismo
-
-`Innovation | Startups | Product Thinking | Business Strategy`
-
-- 🎓 [Ecossistemas de Inovação e Empreendedorismo](#ancora36)  
-- 🎓 [Design Thinking aplicado a Startups](#ancora37)  
-- 🎓 [Identificando o cliente e o problema](#ancora38)  
-- 🎓 [Construindo e validando a proposição de valor](#ancora39)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
 <a id="ancoraOT"></a>
 ## 🏭 OT-ICS
 
@@ -522,16 +511,6 @@
 - 🎓 [Modelagem 3D para Jogos Digitais - parte 2](#ancora59)
 - 🔝 [Back to top](#ancoraUP)
 
----
-
-<a id="ancoraoceantalks"></a>
-## 🎤 Ocean Talks
-
-`Fintech | Innovation | Startups | Market Trends`
-
-- 🎓 [O Futuro dos bancos e Fintechs](#ancora60)  
-- 🎓 [Marco legal das startups](#ancora61)
-- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -562,22 +541,6 @@
 
 ---
 
-<a id="ancoraBusi"></a>
-### 💼 Business | 🧭 Leadership | 🛠️ Tools
-
-`Business Process Management | Project Governance | Productivity Tools`
-
--  📊 [Análise de Negócio - BPM](#ancora133)
--  📋 [Gerenciamento de Projetos com Ênfase no PMI - Da Iniciação ao Planejamento](#ancora134)
--  📈 [Gerenciamento de Projetos com Ênfase no PMI - Planejamento Avançado](#ancora135)
--  🛠️ [Project 2013](#ancora136)
--  🔁 [Scrum - Gestão e Desenvolvimento Ágil de Projetos](#ancora137)
--  📊 [Excel 2016 - Módulo I](#ancora138)
--  📊 [Excel 2016 - Módulo II](#ancora139)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
 <a name="ancorazabbix"></a>
 # 📊 Zabbix
 
@@ -594,6 +557,48 @@
 `Operating Systems | Administration | IT Fundamentals`
 
 - 🎓 [NerdIn](#ancora83)
+- 🔝 [Back to top](#ancoraUP)
+
+
+---
+
+<a name="ancoraConsulting"></a>
+# 🔍 Consulting | Strategy & Discovery
+
+- 🎓 [Identificando o cliente e o problema](#ancora38)  
+- 🎓 [Construindo e validando a proposição de valor](#ancora39)
+-  📊 [Análise de Negócio - BPM](#ancora133)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancoraInnovation"></a>
+# 🚀 Innovation | Product & Startups
+
+- 🎓 [Design Thinking aplicado a Startups](#ancora37)  
+- 🎓 [Ecossistemas de Inovação e Empreendedorismo](#ancora36)
+- 🎓 [Marco legal das startups](#ancora61)
+- 🎓 [O Futuro dos bancos e Fintechs](#ancora60)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancoraDelivery"></a>
+# 📐 Delivery | Governance & Project Management
+
+-  📋 [Gerenciamento de Projetos com Ênfase no PMI - Da Iniciação ao Planejamento](#ancora134)
+-  📈 [Gerenciamento de Projetos com Ênfase no PMI - Planejamento Avançado](#ancora135)
+-  🔁 [Scrum - Gestão e Desenvolvimento Ágil de Projetos](#ancora137)
+- 🔝 [Back to top](#ancoraUP)
+
+---
+
+<a name="ancoraProductivity"></a>
+# 📊 Productivity | Reporting & Tooling](#ancoraProductivity
+
+-  📊 [Excel 2016 - Módulo I](#ancora138)
+-  📊 [Excel 2016 - Módulo II](#ancora139)
+-  🛠️ [Project 2013](#ancora136)
 - 🔝 [Back to top](#ancoraUP)
 
 ---
@@ -1221,8 +1226,7 @@
       Os Núcleos de Inovação Tecnológica;
       Ecossistemas de Inovação Nacionais e Internacionais;
       O papel da Universidade como supridor de talentos e conhecimento aos ecossistemas.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar Innovation](#ancoraInnovation)
 - [Voltar ao topo](#ancora)
 
 
@@ -1239,8 +1243,7 @@
     pesquisa desk; netnografia, entre outras. 
     Técnicas de ideação: Brainstorming, Brainwriting; Mindmapping, entre outras; 
     Técnicas de prototipação; Critérios de Seleção de ideias inovadoras.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar Innovation](#ancoraInnovation)
 - [Voltar ao topo](#ancora)
 
 
@@ -1259,8 +1262,7 @@
     Segmentação de clientes usando Jobs, dores e ganhos;
     Importância da segmentação de clientes;
     Exemplos de segmentação de clientes.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar Consulting](#ancoraConsulting)
 - [Voltar ao topo](#ancora)
 
 
@@ -1279,9 +1281,9 @@
     Definindo e priorizando experimentos;
     Criando a solução durante a validação;
     Exemplo de roteiro de validação.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Samsung Ocean - Empreendedorismo](#ancoraempreendedorismo)
+- [Voltar Consulting](#ancoraConsulting)
 - [Voltar ao topo](#ancora)
+
 ---
 
 
@@ -1580,8 +1582,7 @@
     Thiago Chiliatto, fundador da Antecipa Fácil;
     Fernando Castro, CEO da HypeFlame.
     Prof. Dr. Marcelo Knobel, coordenador do Ocean Unicamp como mediador.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Ocean Talks](#ancoraoceantalks)
+- [Voltar Innovation](#ancoraInnovation)
 - [Voltar ao topo](#ancora)
 
 
@@ -1595,9 +1596,9 @@
     Juliana Crepalde: Diretora Técnica do Fórum dos Gestores de Inovação e Transferência de Tecnologia (FORTEC).
     Newton Frateschi: responsável pela área de Ciência Tecnologia e Inovação da pasta de Campinas-SP.
     Débora Moretti: co-fundadora e Diretora de Pontes e Criatividade da iBench.
-- [Voltar Samsung Ocean](#ancorasamsungocean)
-- [Voltar Ocean Talks](#ancoraoceantalks)
+- [Voltar Innovation](#ancoraInnovation)
 - [Voltar ao topo](#ancora)
+
 ---
 
 
@@ -2459,8 +2460,8 @@
     Apoio à padronização de processos visando eficiência e alinhamento estratégico
     Visão integrada entre negócio, tecnologia e stakeholders
 
-- [Voltar Business](#ancoraBusi)
-- [Voltar ao topo](#ancora)   
+- [Voltar Consulting](#ancoraConsulting)
+- [Voltar ao topo](#ancora)
 
 
 ---
@@ -2488,7 +2489,7 @@
     Integração entre áreas de conhecimento para controle e governança
     Base sólida para atuação em gestão de projetos complexos
 
-- [Voltar Business](#ancoraBusi)
+- [Voltar Delivery](#ancoraDelivery)
 - [Voltar ao topo](#ancora)   
 
 
@@ -2506,8 +2507,8 @@
     Apoio ao planejamento conforme boas práticas do PMI
     Geração de relatórios e visibilidade para tomada de decisão
 
-- [Voltar Business](#ancoraBusi)
-- [Voltar ao topo](#ancora)   
+- [Voltar Productivity](#ancoraProductivity)
+- [Voltar ao topo](#ancora)
 
 
 ---
@@ -2524,9 +2525,8 @@
     Aplicação de práticas ágeis para aumento de valor e eficiência na entrega
     Integração do Scrum com contextos de projetos tradicionais e híbridos
 
-- [Voltar Business](#ancoraBusi)
-- [Voltar ao topo](#ancora)   
-
+- [Voltar Delivery](#ancoraDelivery)
+- [Voltar ao topo](#ancora)
 
 ---
 
@@ -2542,6 +2542,7 @@
     Aplicação de gráficos e recursos de visualização
     Apoio à análise básica de informações para tomada de decisão
 
+<a id="ancora139"></a>
 ![ExcelII](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Impacta/Excel2.png)
 
     Utilização intermediária e avançada do Excel para análise de dados
@@ -2551,7 +2552,7 @@
     Consolidação e cruzamento de grandes volumes de dados
     Apoio à produtividade, análise operacional e relatórios gerenciais
 
-- [Voltar Business](#ancoraBusi)
+- [Voltar Productivity](#ancoraProductivity)
 - [Voltar ao topo](#ancora)   
 
 
