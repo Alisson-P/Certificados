@@ -4,9 +4,9 @@
 # 🛡️ Cybersecurity Certification Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certifications-7-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Certificates-127-0052CC?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Badges-140-1F6FEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certifications-7-C9A227?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certificates-127-1F6FEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Badges-140-2563EB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hours-1466+-6F42C1?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Vulnerability%20Management%20%7C%20Cloud%20Security%20%7C%20Threat%20Detection-2DA44E?style=for-the-badge">
 </p>
