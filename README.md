@@ -15,7 +15,7 @@
 - 🌍 [English - C2](#ancoraEnglish)
 - 🌐 [Cisco | CDC | CyberOps | CCNA](#ancoracisco)
 - 🛡️ [Microsoft Security | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
-- 🌟 [Microsoft Learning | Certifications | Badges | Trophies](#ancoracloud)
+- 🌟 [Microsoft Learning | Certifications | Badges | Trophies](#ancoraLearn)
 - 🦅 [CrowdStrike | Hunter | +20 Badges](#ancoraCrowd)
 - 🔍 [Qualys Specialist | VMDR | CSAM](#ancoraQualys)
 - 🐧 [Linux](#ancoraLinux)
@@ -105,19 +105,15 @@
       
 
 ---
+<a name="ancoraLearn"></a>
+### 🌟 Microsoft Learning
 
-### 🛡️ Microsoft Learning
-
-- 🏅 [107 Badges](#ancora103)
-- 🏆 [21 Trophies](#ancoraUP)
-- ⏱️ [76+ Hours](#ancoraUP)
-- 📜 [5 Certifications](#ancoraUP)
-- 📝 [Transcript](#ancoraUP)
-
-
-
-https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=credentials-tab
-
+- 🏅 [107 Badges](https://learn.microsoft.com/en-us/users/alissonjoabepereira/achievements#badges-section)
+- 🏆 [21 Trophies](https://learn.microsoft.com/en-us/users/alissonjoabepereira/achievements?tab=tab-learning-paths#trophies-section)
+- ⏱️ [76+ Hours](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
+- 📜 [5 Certifications](https://learn.microsoft.com/en-us/users/alissonjoabepereira/credentials?tab=credentials-tab)
+- 📝 [Transcript](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
+- 🔝 [Back to top](#ancoraUP)
 
 ---
 
@@ -2614,5 +2610,4 @@ https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej2
 
 
 ---
-
 
