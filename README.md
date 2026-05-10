@@ -1932,7 +1932,7 @@
       and use generators, iterators, and closures;
       understands the fundamentals of object-oriented programming (OOP)
       and the way they are adopted in Python.
-- [Voltar CISCO](#ancoracisco)
+- [Voltar Python](#ancorapython)
 - [Voltar ao topo](#ancora)
 
 
