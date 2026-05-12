@@ -121,14 +121,6 @@
 
 ---
 
-### 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
-`Cloud Fundamentals | Azure Training`
-
-- 🎓 [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
-- 🔝 [Back to top](#ancoraUP)
-
----
-
 <a name="ancoraCrowd"></a>
 # 🦅 CrowdStrike
 
@@ -305,6 +297,15 @@
 - 🎓 [Azure - SC-900](#ancora82)
 - 🔝 [Back to top](#ancoraUP)
 
+---
+
+### 🎓 Fundação de Apoio à Tecnologia - Programa Minha Chance
+`Cloud Fundamentals | Azure Training`
+
+- 🎓 [AZ 900 - Microsoft Azure Fundamentals - Certificado + Ementa](#ancora98)
+- 🔝 [Back to top](#ancoraUP)
+
+---
 
 <a name="ancoralgpd"></a>
 # ⚖️ LGPD & Data Protection
