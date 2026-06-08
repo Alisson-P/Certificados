@@ -1,4 +1,3 @@
-<img width="937" height="310" alt="image" src="https://github.com/user-attachments/assets/93196b4b-af3d-48db-a2e0-c51628af0cad" /><a name="ancora"></a>
 <a name="ancoraUP"></a>
 
 # 🛡️ Cybersecurity Certification Portfolio
