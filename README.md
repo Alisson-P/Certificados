@@ -1,10 +1,10 @@
-<a name="ancora"></a>
+<img width="937" height="310" alt="image" src="https://github.com/user-attachments/assets/93196b4b-af3d-48db-a2e0-c51628af0cad" /><a name="ancora"></a>
 <a name="ancoraUP"></a>
 
 # 🛡️ Cybersecurity Certification Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certifications-7-C9A227?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certifications-8-C9A227?style=for-the-badge">
   <img src="https://img.shields.io/badge/Certificates-127-1F6FEB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Badges-140-2563EB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hours-1466+-6F42C1?style=for-the-badge">
@@ -16,7 +16,7 @@
 ## 📂 Sections
 - 🌍 [English - C2](#ancoraEnglish)
 - 🌐 [Cisco | CDC | CyberOps | CCNA](#ancoracisco)
-- 🛡️ [Microsoft Security | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
+- 🛡️ [Microsoft Security | SC-100 | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
 - 🌟 [Microsoft Learning | Certifications | Badges | Trophies](#ancoraLearn)
 - 🦅 [CrowdStrike | Hunter | +20 Badges](#ancoraCrowd)
 - 🔍 [Qualys Specialist | VMDR | CSAM](#ancoraQualys)
@@ -72,6 +72,14 @@
 
 <a name="ancoracloud"></a>
 # ☁️ Cloud | 🛡️ Cloud Security | Microsoft
+
+### 🛡️ Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+`Zero Trust | Security Architecture | Governance, Risk & Compliance | Cloud Security | Security Operations`
+
+- 🎓 [SC-100 - Zero Trust, Security Architecture, Governance, Risk & Compliance, Cloud Security and Security Operations](#ancora145)
+
+---
+
 
 ### 🛡️ Microsoft Certified: Security Operations Analyst Associate (SC-200)
 `Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
@@ -2193,6 +2201,29 @@
 - [Voltar ao topo](#ancora)   
 
 ---
+
+<a id="ancora145"></a>
+## 🛡️ Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+![SC-100]()
+
+      Security architecture design aligned with Zero Trust principles
+      Design of end-to-end security strategies across cloud and hybrid environments
+      Implementation of identity-first security using Microsoft Entra ID
+      Governance, risk, and compliance frameworks (NIST, ISO 27001, SOC 2)
+      Design of secure access models and conditional access policies
+      Integration of security controls across Microsoft security ecosystem
+      Architecture for threat protection using Microsoft Defender suite
+      Data protection and classification using Microsoft Purview
+      Design of security operations and incident response architecture
+      Secure workload design for Azure, multi-cloud, and on-premises environments
+      Identity governance, privileged access, and lifecycle management
+      Resilience, business continuity, and disaster recovery strategies
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+---
+
 
 <a id="ancora112"></a>
 ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
