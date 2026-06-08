@@ -2203,7 +2203,7 @@
 
 <a id="ancora145"></a>
 ## 🛡️ Microsoft Certified: Cybersecurity Architect Expert (SC-100)
-![SC-100]()
+![SC-100](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-100.png)
 
       Security architecture design aligned with Zero Trust principles
       Design of end-to-end security strategies across cloud and hybrid environments
