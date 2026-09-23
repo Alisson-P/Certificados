@@ -79,18 +79,17 @@
 
 ---
 
-### 🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
-`Cloud and AI Workload Security | Defender for Cloud | Microsoft Purview | Entra ID | Key Vault`
-
-- 🎓 [SC-500 - End to end security controls for cloud and AI workloads, identity and access, data protection, regulatory compliance and security posture management](#ancora146)
-
----
-
-
 ### 🛡️ Microsoft Certified: Security Operations Analyst Associate (SC-200)
 `Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
 
 - 🎓 [SC-200 - Threat detection and incident response, Security monitoring, Investigation, Incident management, Integration](#ancora112)
+
+---
+
+### 🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
+`Cloud and AI Workload Security | Defender for Cloud | Microsoft Purview | Entra ID | Key Vault`
+
+- 🎓 [SC-500 - End to end security controls for cloud and AI workloads, identity and access, data protection, regulatory compliance and security posture management](#ancora146)
 
 ---
 
@@ -2231,22 +2230,6 @@
 ---
 
 
-<a id="ancora146"></a>
-## 🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
-
-      Securing access to resources with Microsoft Entra ID and Azure Key Vault
-      Enforcing security and regulatory compliance across cloud workloads
-      Securing storage, databases and networking
-      Securing compute workloads
-      Securing AI solutions and generative AI workloads
-      Managing and monitoring security posture
-      Exam SC-500: Implementing End-to-End Security Controls for Cloud and AI Workloads
-
-- [Voltar Microsoft](#ancoracloud)
-- [Voltar ao topo](#ancora)   
-
----
-
 <a id="ancora112"></a>
 ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
 ![SC-200](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-200%20English.png)
@@ -2263,6 +2246,23 @@
       Hunting for threats using advanced queries and analytics rules
       MITRE ATT&CK framework mapping and threat analysis
       Continuous improvement of detection rules and security posture
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+---
+
+<a id="ancora146"></a>
+## 🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
+![SC-500](https://github.com/Alisson-P/Certificados/blob/main/PDFs/Microsoft/SC-500.png)
+
+      Securing access to resources with Microsoft Entra ID and Azure Key Vault
+      Enforcing security and regulatory compliance across cloud workloads
+      Securing storage, databases and networking
+      Securing compute workloads
+      Securing AI solutions and generative AI workloads
+      Managing and monitoring security posture
+      Exam SC-500: Implementing End-to-End Security Controls for Cloud and AI Workloads
 
 - [Voltar Microsoft](#ancoracloud)
 - [Voltar ao topo](#ancora)   
