@@ -15,7 +15,7 @@
 ## 📂 Sections
 - 🌍 [English - C2](#ancoraEnglish)
 - 🌐 [Cisco | CDC | CyberOps | CCNA](#ancoracisco)
-- 🛡️ [Microsoft Security | SC-100 | SC-500 | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
+- 🛡️ [Microsoft Security | SC-100 | SC-200 | SC-500 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
 - 🌟 [Microsoft Learning | Certifications | Badges | Trophies](#ancoraLearn)
 - 🦅 [CrowdStrike | Hunter | +20 Badges](#ancoraCrowd)
 - 🔍 [Qualys Specialist | VMDR | CSAM](#ancoraQualys)
