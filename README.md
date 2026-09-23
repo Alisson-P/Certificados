@@ -3,7 +3,7 @@
 # 🛡️ Cybersecurity Certification Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certifications-8-C9A227?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Certifications-9-C9A227?style=for-the-badge">
   <img src="https://img.shields.io/badge/Certificates-127-1F6FEB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Badges-140-2563EB?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hours-1466+-6F42C1?style=for-the-badge">
@@ -15,7 +15,7 @@
 ## 📂 Sections
 - 🌍 [English - C2](#ancoraEnglish)
 - 🌐 [Cisco | CDC | CyberOps | CCNA](#ancoracisco)
-- 🛡️ [Microsoft Security | SC-100 | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
+- 🛡️ [Microsoft Security | SC-100 | SC-500 | SC-200 | SC-900 | AI-900 | MS-900 | AZ-900](#ancoracloud)
 - 🌟 [Microsoft Learning | Certifications | Badges | Trophies](#ancoraLearn)
 - 🦅 [CrowdStrike | Hunter | +20 Badges](#ancoraCrowd)
 - 🔍 [Qualys Specialist | VMDR | CSAM](#ancoraQualys)
@@ -79,6 +79,13 @@
 
 ---
 
+### 🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
+`Cloud and AI Workload Security | Defender for Cloud | Microsoft Purview | Entra ID | Key Vault`
+
+- 🎓 [SC-500 - End to end security controls for cloud and AI workloads, identity and access, data protection, regulatory compliance and security posture management](#ancora146)
+
+---
+
 
 ### 🛡️ Microsoft Certified: Security Operations Analyst Associate (SC-200)
 `Threat Detection | Incident Response | SIEM | Microsoft Sentinel`
@@ -119,10 +126,10 @@
 <a name="ancoraLearn"></a>
 ### 🌟 Microsoft Learning
 
-- 📜 [6 Certifications](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
-- 🏅 [107 Badges](https://learn.microsoft.com/en-us/users/alissonjoabepereira/achievements#badges-section)
+- 📜 [7 Certifications](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
+- 🏅 [108 Badges](https://learn.microsoft.com/en-us/users/alissonjoabepereira/achievements#badges-section)
 - 🏆 [21 Trophies](https://learn.microsoft.com/en-us/users/alissonjoabepereira/achievements?tab=tab-learning-paths#trophies-section)
-- ⏱️ [76+ Hours](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
+- ⏱️ [77+ Hours](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
 - 📝 [Transcript](https://learn.microsoft.com/en-us/users/alissonjoabepereira/transcript/73j14aej22myx8e?tab=tab-learning-paths)
 - 🔝 [Back to top](#ancoraUP)
 
@@ -2223,6 +2230,22 @@
 
 ---
 
+
+<a id="ancora146"></a>
+## 🛡️ Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)
+
+      Securing access to resources with Microsoft Entra ID and Azure Key Vault
+      Enforcing security and regulatory compliance across cloud workloads
+      Securing storage, databases and networking
+      Securing compute workloads
+      Securing AI solutions and generative AI workloads
+      Managing and monitoring security posture
+      Exam SC-500: Implementing End-to-End Security Controls for Cloud and AI Workloads
+
+- [Voltar Microsoft](#ancoracloud)
+- [Voltar ao topo](#ancora)   
+
+---
 
 <a id="ancora112"></a>
 ## Microsoft Certified: Security Operations Analyst Associate (SC-200)
